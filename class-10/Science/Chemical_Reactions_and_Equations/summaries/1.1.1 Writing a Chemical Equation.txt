@@ -1,0 +1,5 @@
+### 1.1.1 Writing a Chemical Equation
+Instead of long sentences, chemical reactions can be written using chemical formulae. This makes them concise and easier to understand.
+
+Let us consider another example from a laboratory experiment:
+

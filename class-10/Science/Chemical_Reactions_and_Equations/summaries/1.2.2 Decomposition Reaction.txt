@@ -1,0 +1,86 @@
+### 1.2.2 Decomposition Reaction
+A decomposition reaction is a type of chemical reaction in which a single compound breaks down into two or more simpler substances. These reactions are the opposite of combination reactions.
+
+Such reactions usually require an external source of energy—like heat, light, or electricity—to occur. Hence, decomposition reactions are often endothermic in nature, meaning they absorb energy.
+
+**General form:** AB → A + B
+
+Let us understand decomposition reactions with the help of some examples and activities:
+
+#### Activity 1.5: Thermal Decomposition of Ferrous Sulphate
+**Objective:** To observe the chemical changes when ferrous sulphate is heated.
+
+**Steps:**
+- Take about 2 g of green ferrous sulphate crystals in a dry boiling tube.
+- Note their initial green colour.
+- Heat the boiling tube over a flame.
+- Observe any colour changes or gas release.
+
+**Observation:**
+- The green crystals turn brown.
+- A smell of burning sulphur is noticed.
+
+**Conclusion:**
+Ferrous sulphate decomposes to form ferric oxide, sulphur dioxide, and sulphur trioxide.
+
+**Chemical Equation:**  
+2FeSO₄(s) → Fe₂O₃(s) + SO₂(g) + SO₃(g)
+
+#### Activity 1.6: Thermal Decomposition of Lead Nitrate
+**Objective:** To observe decomposition of lead nitrate on heating.
+
+**Steps:**
+- Take about 2 g of lead nitrate powder in a boiling tube.
+- Heat it gently over a flame.
+- Observe the colour of the fumes released.
+
+**Observation:**
+- Brown fumes of nitrogen dioxide gas are evolved.
+
+**Conclusion:**
+Lead nitrate decomposes into lead oxide, nitrogen dioxide, and oxygen.
+
+**Chemical Equation:**  
+2Pb(NO₃)₂(s) → 2PbO(s) + 4NO₂(g) + O₂(g)
+
+#### Activity 1.7: Electrolytic Decomposition of Water
+**Objective:** To decompose water using electric current.
+
+**Setup:**
+- Use a plastic mug with carbon electrodes and a 6-volt battery.
+- Fill it with water and add a few drops of dilute sulphuric acid.
+- Invert test tubes over each electrode to collect gases.
+
+**Observation:**
+- Bubbles form at both electrodes.
+- Volume of gas at one electrode is double the other.
+
+**Conclusion:**
+Water decomposes into hydrogen and oxygen. Hydrogen gas is collected in double the quantity of oxygen.
+
+**Chemical Equation:**  
+2H₂O(l) → 2H₂(g) + O₂(g)
+
+#### Activity 1.8: Photolytic Decomposition of Silver Chloride
+**Objective:** To observe the effect of sunlight on silver chloride.
+
+**Steps:**
+- Take some white silver chloride in a china dish.
+- Expose it to sunlight for a few minutes.
+
+**Observation:**
+- Silver chloride turns grey.
+
+**Conclusion:**
+Light causes decomposition of silver chloride into silver and chlorine.
+
+**Chemical Equation:**  
+2AgCl(s) → 2Ag(s) + Cl₂(g)
+
+**Note:** This type of reaction is called photolytic decomposition (decomposition using light).
+
+Silver bromide also behaves similarly:
+- 2AgBr(s) → 2Ag(s) + Br₂(g)
+
+These reactions are used in black-and-white photography.
+

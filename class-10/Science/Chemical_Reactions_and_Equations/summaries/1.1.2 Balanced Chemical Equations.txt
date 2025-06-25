@@ -1,0 +1,27 @@
+### 1.1.2 Balanced Chemical Equations
+Chemical equations must follow the Law of Conservation of Mass:
+> "Mass can neither be created nor destroyed in a chemical reaction."
+
+This means the number of atoms of each element must be the same on both sides.
+
+Let us balance the following equation step by step:
+
+**Unbalanced Equation:** Fe + H₂O → Fe₃O₄ + H₂
+
+**Step-by-step balancing (Hit-and-Trial Method):**
+1. Balance oxygen by placing 4 in front of H₂O: Fe + 4H₂O → Fe₃O₄ + H₂
+2. Balance hydrogen: 4H₂O has 8 hydrogen atoms. So, put 4 in front of H₂: Fe + 4H₂O → Fe₃O₄ + 4H₂
+3. Balance iron: Fe₃O₄ has 3 iron atoms. So, put 3 in front of Fe:  
+   **Balanced Equation:** 3Fe + 4H₂O → Fe₃O₄ + 4H₂
+
+**Adding physical states:**  
+**3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)**
+
+**Note:**
+- (s): solid
+- (l): liquid
+- (g): gas
+- (aq): aqueous (dissolved in water)
+
+---
+
