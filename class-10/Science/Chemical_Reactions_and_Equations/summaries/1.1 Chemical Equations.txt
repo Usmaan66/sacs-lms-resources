@@ -1,9 +1,0 @@
-## 1.1 Chemical Equations
-A chemical equation represents a chemical reaction using symbols and formulae.
-
-Let us convert the above word equation into a symbolic form:
-- **Word Equation:** Magnesium + Oxygen → Magnesium oxide  
-- **Chemical Equation (skeletal):** Mg + O₂ → MgO
-
-This is a skeletal equation because it does not show the balanced number of atoms.
-
