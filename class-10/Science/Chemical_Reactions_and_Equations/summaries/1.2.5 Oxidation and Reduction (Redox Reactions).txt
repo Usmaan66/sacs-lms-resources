@@ -1,5 +1,0 @@
-### 1.2.5 Oxidation and Reduction (Redox Reactions)
-Oxidation is the gain of oxygen or the loss of hydrogen. Reduction is the loss of oxygen or the gain of hydrogen.
-
-When both oxidation and reduction occur together in a reaction, it is called a redox reaction.
-

@@ -1,5 +1,0 @@
-### 1.2.3 Displacement Reaction
-A displacement reaction is a chemical reaction in which a more reactive element displaces a less reactive element from its compound.
-
-**General form:** A + BC → AC + B
-

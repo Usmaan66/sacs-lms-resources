@@ -1,5 +1,0 @@
-### 1.2.4 Double Displacement Reaction
-In a double displacement reaction, two different compounds react by exchanging ions to form new compounds. One of the products is usually a precipitate (an insoluble solid).
-
-**General form:** AB + CD → AD + CB
-
