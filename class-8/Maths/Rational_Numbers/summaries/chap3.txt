@@ -1,0 +1,39 @@
+2.1 Kingdom Monera
+•	Includes all prokaryotic organisms, mainly bacteria.
+•	They are the most abundant and diverse micro-organisms.
+Habitat
+•	Found in extreme conditions: hot springs, deserts, snow, deep oceans.
+Nutrition
+•	Show high metabolic diversity:
+o	Autotrophic: Make their own food (photosynthetic or chemosynthetic)
+o	Heterotrophic: Depend on others for food
+Shapes of Bacteria
+1.	Coccus – spherical (e.g., Streptococcus pneumoniae)
+2.	Bacillus – rod-shaped (e.g., E. coli, Bacillus anthracis)
+3.	Spirillum – spiral (e.g., Spirillum, Treponema)
+4.	Vibrio – comma-shaped (e.g., Vibrio cholerae)
+Types of Bacteria
+2.1.1 Archaebacteria
+•	Live in harsh environments like salty areas (halophiles), hot springs (thermoacidophiles), marshes (methanogens)
+•	Have a unique cell wall that helps them survive extreme conditions
+•	Methanogens produce biogas (methane)
+2.1.2 Eubacteria
+•	Have a rigid cell wall and may have flagella for movement
+•	Cyanobacteria (blue-green algae):
+o	Have chlorophyll like plants
+o	Are photosynthetic
+o	May be unicellular, colonial, or filamentous
+o	Found in freshwater, marine, and soil habitats
+o	Some fix nitrogen using heterocysts (e.g., Nostoc, Anabaena)
+Nutrition in Eubacteria
+•	Chemosynthetic autotrophs: Use inorganic substances like nitrates, nitrites for energy
+•	Heterotrophs: Decomposers, impact human life (e.g., curd formation, antibiotics)
+Reproduction in Bacteria
+•	Binary fission: In favorable conditions
+•	Spore formation: In unfavorable conditions
+•	Sexual reproduction (primitive): DNA transfer between bacteria
+Mycoplasma
+•	Bacteria without a cell wall
+•	Smallest living cells
+•	Survive without oxygen
+•	Some are pathogenic in plants and animals

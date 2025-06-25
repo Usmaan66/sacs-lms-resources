@@ -1,0 +1,71 @@
+# 2.1 Kingdom Monera
+- Includes all prokaryotic organisms, mainly **bacteria**.  
+- They are the most **abundant** and **diverse** micro-organisms.
+---
+## Habitat
+- Found in **extreme conditions**:
+  - Hot springs  
+  - Deserts  
+  - Snow  
+  - Deep oceans  
+---
+## Nutrition
+- Show high **metabolic diversity**:
+  - **Autotrophic**: Make their own food  
+    - *Photosynthetic*  
+    - *Chemosynthetic*
+  - **Heterotrophic**: Depend on others for food  
+---
+## Shapes of Bacteria
+1. **Coccus** – Spherical  
+   *Example: Streptococcus pneumoniae*
+2. **Bacillus** – Rod-shaped  
+   *Examples: E. coli, Bacillus anthracis*
+3. **Spirillum** – Spiral  
+   *Examples: Spirillum, Treponema*
+4. **Vibrio** – Comma-shaped  
+   *Example: Vibrio cholerae*
+---
+## Types of Bacteria
+### 2.1.1 Archaebacteria
+- Live in **harsh environments**:
+  - Salty areas (*halophiles*)  
+  - Hot springs (*thermoacidophiles*)  
+  - Marshes (*methanogens*)  
+- Have a **unique cell wall** to survive extreme conditions  
+- **Methanogens** produce **biogas (methane)**
+---
+### 2.1.2 Eubacteria
+- Have a **rigid cell wall**  
+- May have **flagella** for movement
+
+#### Cyanobacteria (Blue-green algae)
+- Have **chlorophyll** like plants  
+- Are **photosynthetic**  
+- Can be:
+  - *Unicellular*  
+  - *Colonial*  
+  - *Filamentous*  
+- Found in:
+  - Freshwater  
+  - Marine  
+  - Soil habitats  
+- Some fix **nitrogen** using **heterocysts**  
+  - *Examples: Nostoc, Anabaena*
+---
+## Nutrition in Eubacteria
+- **Chemosynthetic autotrophs**: Use **inorganic substances** (e.g., nitrates, nitrites) for energy  
+- **Heterotrophs**:
+  - Act as **decomposers**  
+  - Impact human life (e.g., **curd formation**, **antibiotics**)
+---
+## Reproduction in Bacteria
+- **Binary fission** – In favorable conditions  
+- **Spore formation** – In unfavorable conditions  
+- **Primitive sexual reproduction** – DNA transfer between bacteria
+---
+## Mycoplasma
+- Bacteria **without a cell wall**  
+- **Smallest living cells**  
+- Can survive **without oxygen**  
+- Some are **pathogenic** in plants and animals
