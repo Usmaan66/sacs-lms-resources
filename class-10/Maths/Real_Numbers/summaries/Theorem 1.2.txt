@@ -1,0 +1,23 @@
+### Theorem 1.2
+
+**Statement:** Let $p$ be a prime number. If $p$ divides $a^2$, then $p$ divides $a$, where $a$ is a positive integer.
+
+**Proof:**
+Let the prime factorisation of the positive integer $a$ be:
+$a = p_1 p_2 ... p_n$
+where $p_1, p_2, ..., p_n$ are prime numbers, and they are not necessarily distinct (meaning some primes might repeat).
+
+Now, let's find the prime factorisation of $a^2$:
+$a^2 = (p_1 p_2 ... p_n) (p_1 p_2 ... p_n) = p_1^2 p_2^2 ... p_n^2$
+
+We are given that $p$ divides $a^2$.
+According to the **Fundamental Theorem of Arithmetic**, every composite number has a *unique* prime factorisation. This means that the only prime factors of $a^2$ are $p_1, p_2, ..., p_n$.
+Since $p$ divides $a^2$, it must be one of the prime factors of $a^2$. Therefore, $p$ must be one of the primes in the list $\{p_1, p_2, ..., p_n\}$.
+
+Since $a = p_1 p_2 ... p_n$, and $p$ is one of these primes ($p_1, p_2, ..., p_n$), it directly follows that $p$ divides $a$.
+
+**Importance/Use:**
+This theorem is extremely useful in proofs related to irrational numbers. It allows us to deduce that if a prime number divides the square of an integer, it must also divide the integer itself. This provides a crucial link between divisibility of a number and its square, which is key for 'proof by contradiction' techniques.
+
+Now, we are ready to prove that $\sqrt{2}$ is irrational. The proof technique used here is called 'proof by contradiction'. In this method, you assume the opposite of what you want to prove, and then show that this assumption leads to a contradiction (something that cannot be true). If the assumption leads to a contradiction, then the original statement must be true.
+

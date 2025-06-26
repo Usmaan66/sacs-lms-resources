@@ -1,0 +1,47 @@
+## 1.4 Summary
+
+This chapter has covered fundamental concepts related to Real Numbers, particularly focusing on prime numbers, factorisation, HCF, LCM, and proving irrationality.
+
+**Key Points:**
+
+1.  **The Fundamental Theorem of Arithmetic:**
+    * Every composite number can be uniquely expressed (factorised) as a product of prime numbers. The only variation allowed is the order in which these prime factors appear.
+    * Example: $32760 = 2^3 \times 3^2 \times 5 \times 7 \times 13$.
+
+2.  **Divisibility Property related to Primes (Theorem 1.2):**
+    * If $p$ is a prime number and $p$ divides $a^2$ (where $a$ is a positive integer), then $p$ must also divide $a$. This theorem is derived from the uniqueness aspect of the Fundamental Theorem of Arithmetic.
+
+3.  **Proof of Irrationality:**
+    * The method of **proof by contradiction** is used to prove that numbers like $\sqrt{2}$, $\sqrt{3}$, $\sqrt{5}$, and other similar forms are irrational.
+    * The general approach is:
+        * Assume the number is rational.
+        * Express it as a simple fraction $\frac{a}{b}$ where $a$ and $b$ are coprime integers.
+        * Manipulate the equation to arrive at a contradiction, typically by showing that $a$ and $b$ must have a common factor other than 1, which goes against the assumption that they are coprime.
+        * Since the assumption leads to a contradiction, the original statement (that the number is irrational) must be true.
+
+4.  **Properties of Rational and Irrational Numbers (from Class IX, revisited):**
+    * The sum or difference of a rational number and an irrational number is always irrational.
+    * The product and quotient of a non-zero rational number and an irrational number is always irrational.
+
+**Formulas and Properties Introduced:**
+
+1.  **Fundamental Theorem of Arithmetic:** For any composite number $x$, its prime factorisation is unique (apart from order).
+    $x = p_1^{e_1} \times p_2^{e_2} \times ... \times p_k^{e_k}$
+    where $p_1, p_2, ..., p_k$ are distinct prime numbers and $e_1, e_2, ..., e_k$ are positive integer exponents.
+
+2.  **Relationship between HCF and LCM for two positive integers $a$ and $b$:**
+    $HCF(a, b) \times LCM(a, b) = a \times b$
+
+3.  **Calculation of HCF using Prime Factorisation:**
+    $HCF(a, b) = \text{Product of the smallest power of each common prime factor involved in the numbers.}$
+
+4.  **Calculation of LCM using Prime Factorisation:**
+    $LCM(a, b) = \text{Product of the greatest power of each prime factor (common and uncommon) involved in the numbers.}$
+
+5.  **Divisibility by Prime Property (Theorem 1.2):**
+    If $p$ is a prime number and $p | a^2$, then $p | a$.
+
+6.  **Advanced Formulas for HCF and LCM of three numbers p, q, r (Note to the Reader):**
+    * $LCM(p,q,r) = \frac{p \cdot q \cdot r \cdot HCF(p,q,r)}{HCF(p,q) \cdot HCF(q,r) \cdot HCF(p,r)}$
+    * $HCF(p,q,r) = \frac{p \cdot q \cdot r \cdot LCM(p,q,r)}{LCM(p,q) \cdot LCM(q,r) \cdot LCM(p,r)}$
+    *(It is important to remember that for three numbers, $p \times q \times r \ne HCF(p,q,r) \times LCM(p,q,r)$.)*

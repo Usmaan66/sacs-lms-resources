@@ -1,0 +1,19 @@
+### Theorem 1.1 (The Fundamental Theorem of Arithmetic)
+
+**Statement:** Every composite number can be expressed (factorised) as a product of primes, and this factorisation is unique, apart from the order in which the prime factors occur.
+
+**Explanation:**
+This theorem has two main parts:
+1.  **Existence of Prime Factorisation**: It says that *any* composite number can be broken down into a product of prime numbers. You can always find these prime factors.
+2.  **Uniqueness of Prime Factorisation**: This is the crucial part. It states that no matter how you factorise a composite number into primes, the set of prime factors you get will always be the same. The *only* thing that can be different is the order in which you write them.
+    * For example, if you factorise 30, you might get $2 \times 3 \times 5$. Another person might get $5 \times 2 \times 3$, or $3 \times 5 \times 2$. All these are considered the same factorisation because they contain the same prime numbers (2, 3, and 5) exactly the same number of times.
+
+So, the theorem can also be stated as: "The prime factorisation of a natural number is unique, except for the order of its factors."
+
+In general, if we have a composite number $x$, we can factorise it as $x = p_1 p_2 ... p_n$, where $p_1, p_2, ..., p_n$ are prime numbers. If we write these primes in ascending order (i.e., $p_1 \le p_2 \le ... \le p_n$), and then combine any repeated primes into powers, then this factorisation becomes absolutely unique.
+
+**Importance/Use:**
+The Fundamental Theorem of Arithmetic is a cornerstone of number theory. It's like the "building blocks" theorem for numbers, stating that prime numbers are the basic, indivisible components from which all other natural numbers (through multiplication) are built, and each number has only one specific set of these building blocks. This uniqueness is what makes it so powerful for proofs and applications.
+
+Let's look at some examples of its applications.
+
