@@ -1,0 +1,17 @@
+#### Activity 1.10: Sodium Sulphate and Barium Chloride Reaction
+**Objective:** To observe the formation of a precipitate in a double displacement reaction.
+
+**Steps:**
+- Take 3 mL of sodium sulphate solution in a test tube.
+- Take 3 mL of barium chloride solution in another test tube.
+- Mix the two solutions.
+
+**Observation:**
+- A white precipitate is formed.
+
+**Conclusion:**
+Barium sulphate is formed as a white, insoluble precipitate. This is a double displacement reaction.
+
+**Chemical Equation:**  
+Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq)
+

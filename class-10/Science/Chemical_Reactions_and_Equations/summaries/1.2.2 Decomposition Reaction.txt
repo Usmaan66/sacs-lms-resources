@@ -1,0 +1,9 @@
+### 1.2.2 Decomposition Reaction
+A decomposition reaction is a type of chemical reaction in which a single compound breaks down into two or more simpler substances. These reactions are the opposite of combination reactions.
+
+Such reactions usually require an external source of energy—like heat, light, or electricity—to occur. Hence, decomposition reactions are often endothermic in nature, meaning they absorb energy.
+
+**General form:** AB → A + B
+
+Let us understand decomposition reactions with the help of some examples and activities:
+

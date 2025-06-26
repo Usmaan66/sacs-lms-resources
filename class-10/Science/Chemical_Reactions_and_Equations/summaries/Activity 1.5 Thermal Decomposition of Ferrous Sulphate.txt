@@ -1,0 +1,19 @@
+#### Activity 1.5: Thermal Decomposition of Ferrous Sulphate
+**Objective:** To observe the chemical changes when ferrous sulphate is heated.
+
+**Steps:**
+- Take about 2 g of green ferrous sulphate crystals in a dry boiling tube.
+- Note their initial green colour.
+- Heat the boiling tube over a flame.
+- Observe any colour changes or gas release.
+
+**Observation:**
+- The green crystals turn brown.
+- A smell of burning sulphur is noticed.
+
+**Conclusion:**
+Ferrous sulphate decomposes to form ferric oxide, sulphur dioxide, and sulphur trioxide.
+
+**Chemical Equation:**  
+2FeSO₄(s) → Fe₂O₃(s) + SO₂(g) + SO₃(g)
+

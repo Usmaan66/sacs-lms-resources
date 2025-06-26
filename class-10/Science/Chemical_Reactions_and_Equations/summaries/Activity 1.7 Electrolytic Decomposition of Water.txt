@@ -1,0 +1,18 @@
+#### Activity 1.7: Electrolytic Decomposition of Water
+**Objective:** To decompose water using electric current.
+
+**Setup:**
+- Use a plastic mug with carbon electrodes and a 6-volt battery.
+- Fill it with water and add a few drops of dilute sulphuric acid.
+- Invert test tubes over each electrode to collect gases.
+
+**Observation:**
+- Bubbles form at both electrodes.
+- Volume of gas at one electrode is double the other.
+
+**Conclusion:**
+Water decomposes into hydrogen and oxygen. Hydrogen gas is collected in double the quantity of oxygen.
+
+**Chemical Equation:**  
+2H₂O(l) → 2H₂(g) + O₂(g)
+
