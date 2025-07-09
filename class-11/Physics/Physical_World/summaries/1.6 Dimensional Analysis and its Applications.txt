@@ -1,0 +1,9 @@
+### 1.6 Dimensional Analysis and its Applications
+- **Purpose of Dimensional Analysis:** This powerful technique uses the concept of dimensions to:
+    1.  Check the consistency (correctness) of equations.
+    2.  Deduce relationships between different physical quantities.
+- **Basic Principle:**
+    - Only physical quantities with the **same dimensions** can be added or subtracted. (You can't add velocity to force!)
+    - In multiplication or division, units (and dimensions) are treated like algebraic symbols and can be cancelled.
+    - Both sides of a mathematical equation must have the **same dimensions**.
+

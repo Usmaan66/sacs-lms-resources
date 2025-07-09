@@ -1,0 +1,20 @@
+### 1.3.3 Rules for Determining the Uncertainty in the Results of Arithmetic Calculations
+- **Uncertainty in Products/Quotients:** When multiplying or dividing measured quantities, the percentage (or relative) errors add up.
+    - *Example:* Length (l) = $16.2 \pm 0.1$ cm ($16.2 \pm 0.6\%$)
+    - Breadth (b) = $10.1 \pm 0.1$ cm ($10.1 \pm 1\%$)
+    - Area ($l \times b$) = $16.2 \times 10.1 = 163.62~cm^2$
+    - Total percentage error in area = $0.6\% + 1\% = 1.6\%$
+    - Absolute error in area = $1.6\%$ of $163.62~cm^2 \approx 2.6~cm^2$
+    - Result: Area = $\textbf{164} \pm \textbf{3~cm^2}$ (rounded to appropriate precision)
+- **Uncertainty in Sums/Differences:**
+    - When adding or subtracting, the number of decimal places determines the precision of the result.
+    - Significant figures can be reduced in subtraction.
+    - *Example:* 12.9 g - 7.06 g. Both have three significant figures, but the answer should be based on decimal places. 12.9 g has one decimal place, 7.06 g has two. The least is one decimal place.
+        - $12.9 - 7.06 = 5.84~g \approx \textbf{5.8~g}$.
+- **Relative Error:** The accuracy of a measurement is also reflected in its relative error.
+    - Relative Error = $(\text{Absolute Error} / \text{Measured Value}) \times 100\%$.
+    - *Example:* Mass 1.02 g ($\pm 0.01$ g) has a relative error of $(\pm 0.01 / 1.02) \times 100\% = \pm 1\%$.
+    - Mass 9.89 g ($\pm 0.01$ g) has a relative error of $(\pm 0.01 / 9.89) \times 100\% = \pm 0.1\%$. This shows that even with the same absolute error, the relative error (and thus accuracy) can be different for different magnitudes.
+
+**Key Takeaway:** Significant figures reflect measurement precision. Rules are applied differently for multiplication/division (based on significant figures) and addition/subtraction (based on decimal places). Scientific notation resolves ambiguities. Intermediate calculations should retain extra digits to minimize rounding errors.
+

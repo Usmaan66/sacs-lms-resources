@@ -1,0 +1,8 @@
+### 1.3 Significant Figures
+- **What are Significant Figures?** In any measurement, there's always some uncertainty (error). **Significant figures** (or significant digits) are all the digits in a measured number that are known reliably, plus the first digit that is uncertain.
+    - *Example:* If a pendulum's period is 1.62 s, the '1' and '6' are certain, while the '2' is uncertain. So, it has three significant figures.
+    - Reporting too many digits is misleading as it suggests higher precision than what was actually measured.
+- **Precision and Least Count:** Significant figures directly indicate the **precision** of a measurement, which depends on the **least count** (smallest measurement) of the instrument used.
+- **Unit Change and Significant Figures:** Changing the units of a measurement **does not change** the number of significant figures.
+    - *Example:* 2.308 cm has four significant figures. When converted, 0.02308 m, 23.08 mm, or $23080~\mu m$ all still have four significant figures (2, 3, 0, 8). This shows that the position of the decimal point doesn't affect the number of significant figures.
+

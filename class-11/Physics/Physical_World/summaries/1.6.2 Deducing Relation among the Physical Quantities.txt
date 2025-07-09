@@ -1,0 +1,52 @@
+#### 1.6.2 Deducing Relation among the Physical Quantities
+- Dimensional analysis can sometimes help deduce the relationship between physical quantities if you know which quantities they depend on (ideally, up to three interdependent quantities).
+- This method assumes a product type of dependence.
+
+- **Example 1.5: Period of a Simple Pendulum**
+    - Assume the period of oscillation (T) of a simple pendulum depends on its length (l), mass of the bob (m), and acceleration due to gravity (g).
+    - We can write this dependence as: $T = k \cdot l^x \cdot m^y \cdot g^z$
+        - Where 'k' is a dimensionless constant, and x, y, z are exponents to be determined.
+    - Now, write down the dimensions of each quantity:
+        - $[T] = [L^0 M^0 T^1]$
+        - $[l] = [L^1]$
+        - $[m] = [M^1]$
+        - $[g]$ (acceleration) = $[L^1 T^{-2}]$
+    - Substitute these into the assumed relationship:
+        - $[L^0 M^0 T^1] = [L^1]^x [M^1]^y [L^1 T^{-2}]^z$
+        - $[L^0 M^0 T^1] = L^{x+z} M^y T^{-2z}$
+    - Equate the powers of L, M, and T on both sides:
+        - For L: $x + z = 0$
+        - For M: $y = 0$
+        - For T: $1 = -2z$
+    - Solve these equations:
+        - From $1 = -2z$, we get $z = -1/2$
+        - From $x + z = 0$, substitute $z = -1/2$: $x + (-1/2) = 0 \Rightarrow x = 1/2$
+        - We already found $y = 0$
+    - Substitute the values of x, y, z back into the assumed relationship:
+        - $T = k \cdot l^{1/2} \cdot m^0 \cdot g^{-1/2}$
+        - $T = k \sqrt{l} / \sqrt{g}$
+        - $T = k \sqrt{\frac{l}{g}}$
+    - **Conclusion:** Dimensional analysis gives us the relationship $T = k \sqrt{l/g}$. However, it **cannot determine the value of the dimensionless constant 'k'**. (In this case, k is actually $2\pi$).
+
+**Limitations of Dimensional Analysis:**
+- It cannot determine dimensionless constants.
+- It cannot verify equations containing trigonometric, logarithmic, or exponential functions, as their arguments must be dimensionless.
+- It cannot distinguish between physical quantities that have the same dimensions (e.g., work and torque both have dimensions $[M L^2 T^{-2}]$).
+- It is generally limited to relations that are products of powers of the quantities involved (e.g., $A = k X^a Y^b Z^c$). It struggles with equations involving addition or subtraction of terms with different combinations of powers unless all terms are individually dimensionally consistent (as shown in $x = x_0 + v_0 t + (1/2) a t^2$).
+
+**Key Takeaway:** Dimensional analysis is a powerful tool to check equation consistency and derive relationships among quantities, but it has limitations, especially regarding dimensionless constants and the nature of mathematical functions.
+
+---
+
+## Summary
+1.  **Physics is quantitative:** It relies on measuring physical quantities. **Base quantities** (like length, mass, time) are fundamental.
+2.  **Units are standards:** Each base quantity has a defined **unit** (e.g., metre, kilogram). These are called **base units**.
+3.  **Derived units:** Other quantities' units are combinations of base units and are called **derived units**. Together, base and derived units form a **system of units**.
+4.  **SI System:** The **International System of Units (SI)**, based on seven base units, is the globally accepted standard.
+5.  **SI Usage:** SI units are used for all physical measurements. Some derived SI units have special names (e.g., joule, newton).
+6.  **Symbols:** SI units have standardized symbols (e.g., m, kg, s).
+7.  **Scientific Notation:** Measurements are often expressed using scientific notation (powers of 10) for convenience and to show precision.
+8.  **Guidelines:** Specific rules and guidelines exist for using symbols and prefixes correctly.
+9.  **Unit Algebra:** Units in calculations are treated like algebraic quantities.
+10. **Significant Figures:** Measured and calculated quantities must retain only the appropriate number of significant figures, following specific rules for arithmetic operations and rounding off.
+11. **Dimensions:** Dimensions describe the nature of physical quantities. **Dimensional analysis** helps check equation consistency and deduce relationships. A dimensionally correct equation isn't always precisely correct, but a dimensionally incorrect one is always wrong.

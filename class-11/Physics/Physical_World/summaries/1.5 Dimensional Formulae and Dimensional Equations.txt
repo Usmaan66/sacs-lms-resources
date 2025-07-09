@@ -1,0 +1,18 @@
+### 1.5 Dimensional Formulae and Dimensional Equations
+- **Dimensional Formula:** This is an expression that shows how the base quantities are combined to represent the dimensions of a physical quantity.
+    - It explicitly lists all base quantities with their respective powers.
+    - *Examples:*
+        - Volume: $[M^0 L^3 T^0]$
+        - Speed or Velocity: $[M^0 L^1 T^{-1}]$
+        - Acceleration: $[M^0 L^1 T^{-2}]$
+        - Mass Density: $[M^1 L^{-3} T^0]$
+- **Dimensional Equation:** An equation formed by equating a physical quantity with its dimensional formula. It represents the dimensions of a quantity in terms of base quantities.
+    - *Examples:*
+        - $[V] = [M^0 L^3 T^0]$
+        - $[v] = [M^0 L T^{-1}]$
+        - $[F] = [M L T^{-2}]$
+        - $[\rho] = [M L^{-3} T^0]$
+- Dimensional equations can be derived from the relationships between physical quantities.
+
+**Key Takeaway:** Dimensional formulae explicitly show the powers of base quantities, while dimensional equations are statements equating a quantity to its dimensional formula.
+

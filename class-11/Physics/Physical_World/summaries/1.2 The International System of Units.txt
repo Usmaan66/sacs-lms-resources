@@ -1,0 +1,50 @@
+### 1.2 The International System of Units
+- **Historical Systems of Units:**
+    - In the past, different countries used different measurement systems.
+    - Three common systems were:
+        - **CGS system:** Centimetre (length), Gram (mass), Second (time).
+        - **FPS (or British) system:** Foot (length), Pound (mass), Second (time).
+        - **MKS system:** Metre (length), Kilogram (mass), Second (time).
+- **The Modern International System (SI):**
+    - The **Système Internationale d'Unités** (French for International System of Units), abbreviated as **SI**, is the globally accepted system for measurements.
+    - It was developed by the Bureau International des Poids et Mesures (BIPM) in 1971 and recently revised in November 2018.
+    - **Why SI?** SI units use the decimal system, which makes conversions within the system very simple and convenient.
+    - SI is used worldwide in scientific, technical, industrial, and commercial work.
+- **SI Base Quantities and Units:**
+    - The SI system has **seven base units**:
+
+| Base Quantity | Name | Symbol |
+|---------------|------|--------|
+| Length | metre | m |
+| Mass | kilogram | kg |
+| Time | second | s |
+| Electric Current | ampere | A |
+| Thermodynamic Temperature | kelvin | K |
+| Amount of substance | mole | mol |
+| Luminous intensity | candela | cd |
+
+    - *Note:* The detailed definitions of these units involve very precise physical constants and are given for information, not for memorization.
+- **Supplementary Units (Plane Angle and Solid Angle):**
+    - Besides the seven base units, there are two additional units:
+        - **Plane Angle ($d\theta$):** Defined as the ratio of the arc length ($ds$) to the radius ($r$).
+            - Formula: $d\theta = ds/r$
+            - Unit: **radian** (symbol: **rad**)
+            - *Diagram:* Imagine a slice of a circle. $ds$ is the curved edge, and $r$ is the straight side from the center to the edge. The angle is at the center (O).
+        - **Solid Angle ($d\Omega$):** Defined as the ratio of the intercepted area ($dA$) on a spherical surface to the square of its radius ($r$).
+            - Formula: $d\Omega = dA/r^2$
+            - Unit: **steradian** (symbol: **sr**)
+            - *Diagram:* Imagine a cone shape. $dA$ is the curved area at the wider end, and $r$ is the slant height from the apex (O) to the edge of $dA$.
+    - Both plane angle and solid angle are **dimensionless quantities**.
+- **Other Units for General Use (Outside SI):**
+    - Some units are commonly used even though they are not part of the strict SI system. Examples include:
+        - **minute (min):** 60 s
+        - **hour (h):** 3600 s
+        - **day (d):** 86400 s
+        - **litre (L):** $10^{-3} m^3$
+        - **tonne (t):** $10^3$ kg
+        - **degree ($^\circ$):** $(\pi/180)$ rad
+- **Important Note about Mole:** When using the mole unit, you must specify the elementary entities being referred to (e.g., atoms, molecules, ions, electrons, etc.).
+- **SI Prefixes:** These are used to denote multiples and sub-multiples of units (e.g., kilo, milli, micro).
+
+**Key Takeaway:** The SI system is the globally standardized system of units, built upon seven base units and two supplementary units (radian and steradian). It is decimal-based for easy conversions.
+

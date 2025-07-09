@@ -1,0 +1,26 @@
+#### Rules for Determining the Number of Significant Figures:
+1.  **Non-zero digits:** All non-zero digits are significant. (e.g., 234 has 3 sig figs)
+2.  **Zeros between non-zero digits:** Zeros located between two non-zero digits are always significant, regardless of the decimal point. (e.g., 1002 has 4 sig figs, 10.02 has 4 sig figs)
+3.  **Leading zeros (zeros to the left):** If a number is less than 1, zeros to the right of the decimal point but to the left of the first non-zero digit are **not significant**. These zeros just show the position of the decimal point. (e.g., **0.00**2308 has 4 sig figs; the underlined zeros are not significant).
+4.  **Trailing zeros (zeros to the right) without a decimal point:** Trailing zeros in a number without a decimal point are **not significant**. They are just placeholders. (e.g., 12300 m has 3 sig figs, not 5. It's equivalent to $1.23 \times 10^4$ m).
+5.  **Trailing zeros with a decimal point:** Trailing zeros in a number **with a decimal point are significant**. This indicates a higher level of precision. (e.g., 3.500 has 4 sig figs, 0.06900 has 4 sig figs). These zeros indicate that the measurement was made to that precision.
+
+- **Ambiguity and Scientific Notation:**
+    - The rule about trailing zeros can be confusing. For example, 4700 mm could have 2 significant figures (if the zeros are just placeholders) or 4 (if the measurement was precise to the last zero).
+    - To remove this ambiguity, the best way to report measurements is using **scientific notation** (powers of 10).
+    - **Scientific Notation Format:** A number is expressed as $a \times 10^b$, where 'a' is a number between 1 and 10, and 'b' is an integer exponent.
+        - In scientific notation, **all zeros appearing in the base number 'a' are significant**.
+        - *Example:* $4.700~m = 4.700 \times 10^2~cm = 4.700 \times 10^3~mm = 4.700 \times 10^{-3}~km$. All these expressions clearly show four significant figures. The power of 10 does not affect the number of significant figures.
+    - **Order of Magnitude:** The exponent 'b' in scientific notation (when 'a' is rounded to 1 or 10) is called the **order of magnitude**. It gives a quick estimate of the size of the quantity.
+        - *Example:* Diameter of Earth ($1.28 \times 10^7$ m) is of the order of $10^7$ m (order of magnitude 7).
+- **Exact Numbers:** Numbers that are not measured values (like counting numbers or constants in formulas, e.g., the '2' in $r = d/2$) are considered **exact numbers**. They have an infinite number of significant figures.
+
+**Summary of Significant Figure Rules:**
+- **Non-zero digits:** Always significant.
+- **Zeros between non-zero digits:** Always significant.
+- **Leading zeros (before non-zero digits):** Never significant.
+- **Trailing zeros (at the end):**
+    - With a decimal point: Significant.
+    - Without a decimal point: Not significant (unless explicitly stated or implied by scientific notation).
+- **Scientific notation:** The most reliable way to express significant figures.
+

@@ -1,0 +1,11 @@
+### 1.1 Introduction
+- **What is Measurement?** Measurement is essentially comparing a physical quantity with a globally accepted reference standard, known as a **unit**.
+- **How is a Measurement Expressed?** Every measurement result is shown as a **number** (or numerical value) followed by its **unit**.
+    - *Example:* If you measure the length of a table as "2 meters," '2' is the numerical measure and 'meters' is the unit.
+- **Why do we need Units?** Although there are many physical quantities, they are all interconnected. This means we only need a limited number of units to describe all of them.
+    - **Fundamental or Base Quantities:** These are basic physical quantities from which other quantities are derived. Their units are called **fundamental or base units**.
+    - **Derived Quantities:** These are physical quantities whose units are combinations of the base units. Their units are called **derived units**.
+- **System of Units:** A complete collection of both base and derived units is known as a **system of units**.
+
+**Key Takeaway:** Measurement is a comparison process involving a number and a unit. Units are categorized into base units (for fundamental quantities) and derived units (for derived quantities), forming a complete system.
+

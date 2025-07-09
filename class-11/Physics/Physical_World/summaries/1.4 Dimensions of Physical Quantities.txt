@@ -1,0 +1,25 @@
+### 1.4 Dimensions of Physical Quantities
+- **What are Dimensions?** The **dimensions** of a physical quantity describe its fundamental nature in terms of base quantities, independent of specific units.
+- **Seven Dimensions of the Physical World:** These correspond to the seven base quantities and are denoted using square brackets `[ ]`.
+    - Length: **[L]**
+    - Mass: **[M]**
+    - Time: **[T]**
+    - Electric Current: **[A]**
+    - Thermodynamic Temperature: **[K]**
+    - Luminous Intensity: **[cd]**
+    - Amount of Substance: **[mol]**
+- **Definition of Dimensions:** The dimensions of a physical quantity are the **powers (exponents)** to which the base quantities are raised to represent that quantity.
+    - *Example: Volume*
+        - Volume = length $\times$ breadth $\times$ height = length $\times$ length $\times$ length
+        - Dimensions of Volume = $[L] \times [L] \times [L] = [L^3]$
+        - This means volume has three dimensions in length and zero dimensions in mass and time ($[M^0 L^3 T^0]$).
+    - *Example: Force*
+        - Force = mass $\times$ acceleration
+        - Acceleration = length / $(time)^2$
+        - Dimensions of Force = $[M] \times ([L] / [T]^2) = [M L T^{-2}]$
+        - This means force has one dimension in mass, one in length, and -2 in time.
+- **Quality vs. Magnitude:** Dimensional analysis focuses on the *type* or *nature* of the physical quantity, not its specific numerical value or magnitude.
+    - *Example:* Change in velocity, initial velocity, final velocity, and speed all have the same dimensions of $[L T^{-1}]$ (length/time).
+
+**Key Takeaway:** Dimensions describe the fundamental composition of a physical quantity using base quantities (L, M, T, A, K, cd, mol) raised to certain powers.
+
