@@ -1,0 +1,25 @@
+## Summary
+
+-   Chemistry is the study of matter's composition, structure, properties, and interactions.
+-   Matter exists in three states: solid, liquid, and gas, each with distinct particle arrangements and properties.
+-   Matter can be classified into elements, compounds, or mixtures.
+    -   **Elements** contain only one type of atom.
+    -   **Compounds** are formed from elements combining in fixed ratios.
+    -   **Mixtures** contain multiple substances and can be homogeneous or heterogeneous.
+-   Properties of matter can be physical (observed without chemical change) or chemical (observed through chemical change).
+-   Measurements in chemistry require quantitative analysis using **SI units** (International System of Units).
+    -   The SI system has seven base units for fundamental quantities (length, mass, time, electric current, temperature, amount of substance, luminous intensity).
+-   **Scientific notation** is used to handle very large or very small numbers.
+-   **Significant figures** and **rounding rules** ensure data is presented with appropriate certainty.
+-   Chemical combinations are governed by fundamental laws:
+    -   **Law of Conservation of Mass** (Lavoisier): Mass is neither created nor destroyed.
+    -   **Law of Definite Proportions** (Proust): Compounds have fixed element proportions by mass.
+    -   **Law of Multiple Proportions** (Dalton): Elements combining to form multiple compounds show simple whole-number ratios of masses.
+    -   **Gay Lussac’s Law of Gaseous Volumes**: Gases combine in simple volume ratios at constant temperature and pressure.
+    -   **Avogadro’s Law**: Equal volumes of gases at the same temperature and pressure contain equal numbers of molecules.
+-   **Dalton's Atomic Theory** states that atoms are the fundamental building blocks of matter.
+-   **Atomic mass** is expressed relative to the $^{12}C$ isotope (12u). **Average atomic mass** accounts for natural isotope abundance.
+-   **Molecular mass** is the sum of atomic masses in a molecule. **Formula mass** is used for ionic compounds.
+-   The **mole** is a unit representing $6.022 \times 10^{23}$ particles (Avogadro constant).
+-   **Stoichiometry** involves quantitative study of reactants and products in chemical reactions using balanced equations.
+-   Solution concentrations can be expressed in various ways like mass percent, mole fraction, molarity, and molality.

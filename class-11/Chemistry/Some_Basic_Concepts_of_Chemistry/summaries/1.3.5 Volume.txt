@@ -1,0 +1,17 @@
+### 1.3.5 Volume
+
+-   **Volume**: The amount of space occupied by a substance.
+-   **Units of volume**: Derived from length, so it has units of (length)$^3$.
+-   **SI unit of volume**: $m^3$ (cubic meter).
+-   **Common laboratory units**: For smaller volumes, $cm^3$ or $dm^3$ are used.
+-   **Litre (L)**: A common unit for measuring liquid volumes, though not an SI unit.
+    -   Relationships:
+        -   $1~L = 1000~mL$
+        -   $1000~cm^3 = 1~dm^3$
+        -   $1~cm^3 = 1~mL$
+-   **Measuring devices in the lab**:
+    -   Graduated cylinder
+    -   Burette
+    -   Pipette
+    -   Volumetric flask (used to prepare known volumes of solutions)
+

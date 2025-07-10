@@ -1,0 +1,13 @@
+### 1.7.1 Atomic Mass
+
+-   The mass of an atom is extremely small.
+-   Modern techniques like **mass spectrometry** can determine atomic masses very accurately.
+-   Historically, scientists determined relative atomic masses. Hydrogen was initially assigned a mass of 1.
+-   **Current System (since 1961)**: Based on **Carbon-12 ($^{12}C$) isotope** as the standard.
+    -   $^{12}C$ is assigned a mass of exactly **12 atomic mass units (amu)**.
+    -   Masses of all other atoms are given relative to this standard.
+-   **One atomic mass unit (amu)**: Defined as a mass exactly equal to one-twelfth ($1/12^{th}$) of the mass of one carbon-12 atom.
+    -   $1~amu = 1.66056 \times 10^{-24}~g$
+-   Example: Mass of a hydrogen atom $= 1.6736 \times 10^{-24}~g = 1.0080~amu$
+-   **Unified mass (u)**: The modern replacement for 'amu'.
+

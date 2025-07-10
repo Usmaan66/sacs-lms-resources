@@ -1,0 +1,11 @@
+### 1.1 INTRODUCTION TO COMPUTER SYSTEM
+
+- A **computer** is an electronic device designed to take **input** (raw data), **process** it according to instructions, and produce **output** (meaningful results).
+- A **computer system** includes the computer itself, along with essential hardware and software components.
+- The main parts of a computer system that work together are:
+    - **Central Processing Unit (CPU)**: The "brain."
+    - **Memory**: For temporary storage of data and programs.
+    - **Input/Output Devices**: For sending data in and getting results out.
+    - **Storage Devices**: For permanent saving of information.
+- Computer systems exist in various sizes and forms, from large servers to personal desktops, laptops, tablets, and even smartphones.
+

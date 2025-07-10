@@ -1,0 +1,10 @@
+### 1.5.4 Gay Lussac’s Law of Gaseous Volumes
+
+-   Given by **Gay Lussac** in 1808.
+-   **Statement**: When gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume, provided all gases are at the same temperature and and pressure.
+-   **Example**: 100 mL of hydrogen combine with 50 mL of oxygen to yield 100 mL of water vapour.
+    -   Hydrogen + Oxygen $\rightarrow$ Water
+    -   100 mL + 50 mL $\rightarrow$ 100 mL
+    -   The volumes of hydrogen and oxygen (100 mL and 50 mL) combine in a simple ratio of $2:1$.
+-   This law is considered the law of definite proportions by volume.
+

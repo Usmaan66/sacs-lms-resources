@@ -1,0 +1,18 @@
+### 1.3.7 Temperature
+
+-   **Temperature**: A measure of the hotness or coldness of an object.
+-   **Common scales for measurement**:
+    -   **Degree Celsius ($^{\circ}C$)**
+        -   Freezing point of water: $0^{\circ}C$
+        -   Boiling point of water: $100^{\circ}C$
+    -   **Degree Fahrenheit ($^{\circ}F$)**
+        -   Freezing point of water: $32^{\circ}F$
+        -   Boiling point of water: $212^{\circ}F$
+    -   **Kelvin (K)**: The **SI unit of temperature**.
+        -   Negative temperatures are not possible on the Kelvin scale.
+-   **Temperature conversion formulas**:
+    -   Celsius to Fahrenheit:
+        $$^{\circ}F = \frac{9}{5}(^{\circ}C) + 32$$
+    -   Celsius to Kelvin:
+        $$K = ^{\circ}C + 273.15$$
+

@@ -1,0 +1,7 @@
+### 1.5.1 Law of Conservation of Mass
+
+-   Proposed by **Antoine Lavoisier** in 1789.
+-   **Statement**: In all physical and chemical changes, there is no net change in mass during the process. Matter can neither be created nor destroyed.
+-   This law was based on careful experimental studies of combustion reactions and precise measurements of reactants and products.
+-   It formed a crucial basis for future developments in chemistry.
+

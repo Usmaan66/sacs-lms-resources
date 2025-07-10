@@ -1,0 +1,7 @@
+### 1.7.4 Formula Mass
+
+-   Used for substances that do not exist as discrete molecules (e.g., ionic compounds like **sodium chloride (NaCl)**).
+-   In such compounds, positive ions ($Na^+$) and negative ions ($Cl^-$) are arranged in a continuous three-dimensional structure (crystal lattice).
+-   **Formula mass**: Calculated in the same way as molecular mass, by summing the atomic masses of all atoms in the empirical formula of the compound.
+-   It represents the mass of one formula unit of the compound.
+

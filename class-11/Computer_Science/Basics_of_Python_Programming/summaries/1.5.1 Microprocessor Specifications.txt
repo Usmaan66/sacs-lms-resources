@@ -1,0 +1,36 @@
+#### 1.5.1 Microprocessor Specifications
+
+- Microprocessors are characterized by several key specifications that determine their performance:
+
+##### (A) Word Size
+
+- **Word size** refers to the maximum number of bits that a microprocessor can process or work with at a single time.
+- Historically, early microprocessors had smaller word sizes (e.g., 8 bits).
+- Modern processors typically have word sizes ranging from 16 bits up to 64 bits. A larger word size means the processor can handle more data in one go, leading to faster processing.
+
+##### (B) Memory Size
+
+- This refers to the maximum amount of **Primary Memory (RAM)** that a microprocessor can effectively support and access directly.
+- The amount of RAM supported is often related to the word size. For instance, early 4/8-bit processors could only handle very small amounts of RAM (e.g., 4 MB).
+- With 64-bit processors, the theoretical limit for addressable RAM is vast, allowing for support up to **16 Exabytes (EB)**.
+
+##### (C) Clock Speed
+
+- Every computer has an internal **system clock** that generates a steady stream of electronic pulses.
+- **Clock speed** measures how many of these pulses the internal clock generates per second.
+- **Significance**: It's a key indicator of how fast the microprocessor can execute instructions. A higher clock speed generally means the processor can perform more operations per second.
+- **Measurement Units**:
+    - Older processors were measured in **Hertz (Hz)** and **Kilohertz (kHz)**.
+    - With technological advancements, current processors are measured in **Gigahertz (GHz)**, where 1 GHz means one billion ($10^9$) pulses per second.
+    - For example, a 3 GHz processor generates 3 billion pulses per second.
+
+##### (D) Cores
+
+- A **core** is the basic, independent computational unit within a CPU. Think of it as a mini-processor inside the main processor.
+- Early processors had only a single core, meaning they could only handle one main task or instruction at a time (though they could switch very quickly between tasks).
+- **Multicore processors** have multiple independent processing units (cores) on a single chip. This allows the computer to execute several tasks or parts of a single complex task **simultaneously**, leading to significantly improved performance and multitasking capabilities.
+- **Examples**:
+    - **Dual-core processor**: Has 2 independent processing cores.
+    - **Quad-core processor**: Has 4 independent processing cores.
+    - **Octa-core processor**: Has 8 independent processing cores.
+

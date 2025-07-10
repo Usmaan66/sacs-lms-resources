@@ -1,0 +1,9 @@
+### 1.3.4 Mass and Weight
+
+-   **Mass**: The amount of matter present in a substance. It is a constant value.
+-   **Weight**: The force exerted by gravity on an object. It can vary depending on gravity (e.g., different on Earth vs. Moon).
+-   Mass can be accurately determined using an **analytical balance** in a laboratory.
+-   **SI unit of mass**: **Kilogram** (kg).
+-   **Common laboratory unit**: **Gram** (g), since smaller amounts of chemicals are used.
+    -   Relationship: $1~kg = 1000~g$
+

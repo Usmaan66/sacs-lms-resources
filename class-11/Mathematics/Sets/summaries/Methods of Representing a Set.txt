@@ -1,0 +1,22 @@
+#### Methods of Representing a Set
+
+There are two main methods to represent a set:
+
+1.  **Roster or Tabular Form**
+    * In this form, all elements of the set are listed.
+    * Elements are separated by commas and enclosed within curly braces `{}`.
+    * **Example**: The set of all even positive integers less than 7 is $\{2, 4, 6\}$.
+    * **Order does not matter**: The order in which elements are listed is not important. $\{1, 2, 3\}$ is the same as $\{3, 1, 2\}$.
+    * **No repetition**: Elements are generally not repeated. Each element is considered distinct. For example, the letters in the word 'SCHOOL' are represented as $\{S, C, H, O, L\}$.
+    * **Ellipsis (...)**: For sets with many elements or infinite sets, three dots (...) are used to indicate that the pattern continues.
+        * **Example**: The set of odd natural numbers is $\{1, 3, 5, ...\}$.
+
+2.  **Set-builder Form**
+    * In this form, a set is described by a common property that all its elements possess, and no element outside the set has this property.
+    * It uses a symbol (like 'x', 'y', or 'z') to represent any element, followed by a colon `:` (read as "such that"). After the colon, the characteristic property of the elements is written. The entire description is enclosed in braces `{}`.
+    * **Format**: $\{x : \text{property of x}\}$
+    * **Example**: The set of all vowels in the English alphabet, denoted by V, is written as $V = \{x : x \text{ is a vowel in English alphabet}\}$.
+    * **Example**: The set A containing natural numbers between 3 and 10 (excluding 3 and 10) is written as $A = \{x : x \text{ is a natural number and } 3 < x < 10\}$. This set in roster form is $\{4, 5, 6, 7, 8, 9\}$.
+
+**Key Takeaways:** Sets are well-defined collections. They can be represented by listing all elements (roster form) or by describing a common property (set-builder form). Symbols like $\in$ and $\notin$ show membership.
+

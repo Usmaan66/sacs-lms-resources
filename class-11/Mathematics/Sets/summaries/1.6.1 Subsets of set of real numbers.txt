@@ -1,0 +1,18 @@
+### 1.6.1 Subsets of set of real numbers
+
+* Many important sets of numbers are subsets of the set of real numbers (R).
+* **Natural Numbers (N)**: $N = \{1, 2, 3, 4, 5, ...\}$
+* **Integers (Z)**: $Z = \{..., -3, -2, -1, 0, 1, 2, 3, ...\}$
+* **Rational Numbers (Q)**: $Q = \{x : x = \frac{p}{q}, \text{ p, } q \in Z \text{ and } q \ne 0\}$.
+    * Examples include $-5$ (which is $\frac{-5}{1}$), $\frac{5}{7}$, $\frac{2}{13}$.
+* **Irrational Numbers (T)**: $T = \{x : x \in R \text{ and } x \notin Q\}$. These are real numbers that cannot be expressed as a fraction of two integers.
+    * Examples include $\sqrt{2}$, $\sqrt{5}$, and $\pi$.
+
+* **Relationships between these subsets**:
+    * $N \subset Z \subset Q$
+    * $Q \subset R$
+    * $T \subset R$
+    * $N \not\subset T$ (Natural numbers are not irrational numbers)
+
+**Key Takeaways:** Important number sets like natural, integers, rational, and irrational numbers are all subsets of real numbers, each with specific properties.
+

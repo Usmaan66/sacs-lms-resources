@@ -1,0 +1,9 @@
+### 1.5 MICROPROCESSORS
+
+- A **microprocessor** is simply a **processor (CPU)** that has been designed and manufactured onto a **single integrated circuit (IC) chip**.
+- Today, almost all CPUs are microprocessors, so the terms are often used interchangeably.
+- **Function**: It's a small electronic component that acts as the brain of most digital devices, performing complex tasks like data processing, calculations (arithmetic), and logical decisions.
+- It's built on a tiny silicon chip that contains millions of miniature components such as **resistors, transistors, and diodes**, all connected to form a complex circuit.
+- **Evolution**: Microprocessors have followed a remarkable trend: they've become exponentially **more powerful, physically smaller, and significantly cheaper** over time due to advancements like Moore's Law.
+- Modern microprocessors are incredibly fast, capable of executing millions of instructions every millisecond.
+

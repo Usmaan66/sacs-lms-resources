@@ -1,0 +1,10 @@
+### 1.3.6 Density
+
+-   **Density**: The amount of mass per unit volume of a substance.
+-   **Formula**:
+    $$Density = \frac{Mass}{Volume}$$
+-   **SI unit of density**: Derived from SI units of mass (kg) and volume ($m^3$).
+    $$SI~unit~of~density = \frac{kg}{m^3}~or~kg~m^{-3}$$
+-   **Common laboratory unit**: $g~cm^{-3}$ (grams per cubic centimeter) due to smaller masses and volumes.
+-   **Concept**: A higher density means the particles of a substance are more closely packed.
+

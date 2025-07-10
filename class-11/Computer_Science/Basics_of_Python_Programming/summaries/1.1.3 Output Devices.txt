@@ -1,0 +1,13 @@
+#### 1.1.3 Output Devices
+
+- **Output devices** are hardware components that display or present the processed data (information) from the computer system to the user.
+- They convert the computer's digital information back into a **human-understandable form** (like text, images, sound, or physical objects).
+- **Common Examples**:
+    - **Monitor**: The most common visual display unit.
+    - **Projector**: Projects the computer's screen onto a larger surface.
+    - **Headphones/Speakers**: Produce audio output.
+    - **Printer**: Creates physical copies (called **hardcopies**) of documents and images.
+        - **Types**: Inkjet (uses ink droplets), Laserjet (uses toner and laser), Dot matrix (uses pins to strike an inked ribbon).
+        - **3D Printer**: A modern type of printer that builds three-dimensional physical objects layer by layer from a digital design. Used for making prototypes, models, and even in advanced medical applications.
+    - **Braille display monitor**: An output device that allows visually challenged individuals to read text by converting it into tactile Braille characters.
+

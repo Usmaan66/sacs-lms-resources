@@ -1,0 +1,15 @@
+### 1.7.2 Average Atomic Mass
+
+-   Many naturally occurring elements exist as **isotopes** (atoms of the same element with different masses due to varying numbers of neutrons).
+-   The atomic masses used in calculations and on the periodic table are usually **average atomic masses**.
+-   **Calculation**: Average atomic mass is computed by considering the mass of each isotope and its **relative abundance** (percentage occurrence).
+-   **Example: Average atomic mass of Carbon**:
+
+| Isotope  | Relative Abundance (%) | Atomic Mass (amu) |
+|:---------|:-----------------------|:------------------|
+| $^{12}C$ | 98.892                 | 12                |
+| $^{13}C$ | 1.108                  | 13.00335          |
+| $^{14}C$ | $2 \times 10^{-10}$      | 14.00317          |
+
+Average atomic mass of Carbon = $(0.98892 \times 12~u) + (0.01108 \times 13.00335~u) + (2 \times 10^{-12} \times 14.00317~u) = 12.011~u$
+

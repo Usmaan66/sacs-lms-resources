@@ -1,0 +1,56 @@
+## DEVELOPMENT OF CHEMISTRY
+
+-   Chemistry, as we know it today, is a relatively modern field.
+-   Historically, chemistry grew from a quest for two main things:
+    -   The **Philosopher's stone** (Paras): Believed to turn basic metals like iron and copper into gold.
+    -   The **'Elixir of life'**: Thought to grant immortality.
+-   Ancient India had significant knowledge of scientific phenomena long before modern science.
+-   Chemistry developed in India mainly as **Alchemy** and **Iatrochemistry** between 1300-1600 CE.
+-   Modern chemistry began to take shape in the $18^{th}$ century in Europe, influenced by Arab alchemical traditions.
+-   In ancient India, chemistry was known by various names: **Rasayan Shastra**, **Rastantra**, **Ras Kriya**, or **Rasvidya**.
+-   This included knowledge of:
+    -   Metallurgy
+    -   Medicine
+    -   Manufacture of cosmetics, glass, and dyes
+-   **Archaeological findings** in Mohenjodaro and Harappa show:
+    -   Use of baked bricks in construction.
+    -   Mass production of pottery (regarded as an early chemical process involving mixing, molding, and heating materials).
+    -   Remains of glazed pottery and gypsum cement (containing lime, sand, and $CaCO_3$).
+    -   Harappans made **faience** (a type of glass for ornaments).
+    -   Melting and forging of lead, silver, gold, and copper.
+    -   Hardening of copper using tin and arsenic for artifacts.
+    -   Glass objects found in Maski (South India, 1000-900 BCE) and Hastinapur/Taxila (North India, 1000-200 BCE).
+    -   Glass and glazes colored using metal oxides.
+-   **Copper metallurgy** in India dates back to chalcolithic cultures. Evidence suggests indigenous development of copper and iron extraction technologies.
+-   **Rigveda** mentions tanning of leather and dyeing of cotton (1000-400 BCE).
+-   **Kautilya's Arthashastra** describes salt production from the sea.
+-   **Sushruta Samhita** highlights the importance of Alkalies.
+-   **Charaka Samhita** mentions knowledge of preparing:
+    -   Sulphuric acid, nitric acid
+    -   Oxides of copper, tin, zinc
+    -   Sulphates of copper, zinc, iron
+    -   Carbonates of lead, iron
+-   **Rasopanishada** describes gunpowder mixture preparation. Tamil texts detail fireworks using sulfur, charcoal, saltpetre (potassium nitrate), mercury, camphor, etc.
+-   **Nagarjuna** (Indian scientist, chemist, alchemist, metallurgist):
+    -   His work **Rasratnakar** focuses on mercury compounds.
+    -   Discussed methods for extracting gold, silver, tin, and copper.
+-   The book **Rsarnavam** (around 800 CE) discusses various furnaces, ovens, crucibles, and methods to identify metals by flame color.
+-   **Chakrapani** discovered mercury sulfide and is credited with inventing soap using mustard oil and alkalies. Indians started making soaps in the $18^{th}$ century CE.
+-   **Ajanta and Ellora paintings** show advanced ancient Indian science.
+-   **Varähmihir's Brihat Samhita** (6th century CE) is an encyclopedia mentioning preparation of glutinous material for walls and roofs from plant extracts.
+-   Ancient texts like **Atharvaveda** (1000 BCE) mention dyes from turmeric, madder, sunflower, etc.
+-   Brihat Samhita also includes recipes for perfumes, cosmetics, and hair dyeing from plants (indigo) and minerals.
+-   **Gandhayukli** describes recipes for scents, mouth perfumes, bath powders, etc.
+-   Paper was known in India by the $17^{th}$ century (Chinese traveler I-tsing).
+-   Ink was used in India from the $4^{th}$ century (Taxila excavations), with colors from chalk, red lead.
+-   The process of **fermentation** was well-known (Vedas, Kautilya's Arthashastra mention liquors; Charaka Samhita mentions ingredients for Asavas).
+-   **Atomic Theory in Ancient India**:
+    -   The concept of matter being made of indivisible building blocks appeared centuries BCE.
+    -   **Acharya Kanda** (Kashyap, 600 BCE) was the first proponent of **atomic theory**.
+    -   He theorized very small, indivisible particles called **'Paramānu'** (atoms) that are eternal, indestructible, spherical, and in motion.
+    -   He explained that these entities cannot be sensed by human organs and that different classes of substances have different varieties of atoms.
+    -   Paramānu could form pairs or triplets, interacting through unseen forces. This was conceptualized about 2500 years before John Dalton.
+-   **Charaka Samhita** also discusses the reduction of particle size of metals, which is now termed **nanotechnology**. It describes the use of **bhasmas** (metal ash) in treating ailments, now known to contain nanoparticles of metals.
+-   Decline of traditional Indian chemistry systems happened due to the introduction of Western medicinal systems in the $20^{th}$ century and the influx of foreign products.
+-   Modern chemistry began to grow in India in the late $19^{th}$ century with the arrival of European scientists.
+

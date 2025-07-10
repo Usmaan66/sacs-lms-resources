@@ -1,0 +1,8 @@
+### 1.1 Introduction
+
+* The concept of **set** is fundamental in modern mathematics.
+* Sets are used across almost all branches of mathematics, including defining **relations** and **functions**, and in the study of **geometry**, **sequences**, and **probability**.
+* The theory of sets was developed by the German mathematician **Georg Cantor** (1845-1918). He encountered sets while working on problems related to "trigonometric series".
+
+**Key Takeaways:** Sets are a basic building block in mathematics, crucial for understanding many other mathematical concepts.
+

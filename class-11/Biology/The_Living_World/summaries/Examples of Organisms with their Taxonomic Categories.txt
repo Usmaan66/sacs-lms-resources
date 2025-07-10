@@ -1,0 +1,9 @@
+### Examples of Organisms with their Taxonomic Categories:
+
+| Common Name | Biological Name | Genus | Family | Order | Class | Phylum/Division |
+| :---------- | :-------------- | :---- | :----- | :---- | :---- | :-------------- |
+| Man         | *Homo sapiens* | *Homo* | Hominidae | Primata | Mammalia | Chordata        |
+| Housefly    | *Musca domestica* | *Musca* | Muscidae | Diptera | Insecta | Arthropoda      |
+| Mango       | *Mangifera indica* | *Mangifera* | Anacardiaceae | Sapindales | Dicotyledonae | Angiospermae    |
+| Wheat       | *Triticum aestivum* | *Triticum* | Poaceae | Poales | Monocotyledonae | Angiospermae    |
+

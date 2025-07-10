@@ -1,0 +1,22 @@
+### 1.4.1 Scientific Notation
+
+-   Chemists deal with extremely large (e.g., number of molecules) and extremely small (e.g., mass of an atom) numbers.
+    -   Example: Mass of a H atom = $0.00000000000000000000000166~g$
+    -   Example: Avogadro's number = $602,200,000,000,000,000,000,000$
+-   Writing and performing calculations with such numbers can be challenging.
+-   **Scientific notation** (or exponential notation) simplifies this by representing any number in the form:
+    $$N \times 10^n$$
+    -   **N**: A number (digit term) between 1.000... and 9.999...
+    -   **n**: An exponent, which can be a positive or negative integer.
+
+**Rounding Off Numbers**:
+-   When limiting a result to a required number of significant figures, follow these rules:
+    1.  If the rightmost digit to be removed is **more than 5**, increase the preceding number by one.
+        -   Example: Rounding 1.386 by removing 6 results in 1.39.
+    2.  If the rightmost digit to be removed is **less than 5**, the preceding number is not changed.
+        -   Example: Rounding 4.334 by removing 4 results in 4.33.
+    3.  If the rightmost digit to be removed is **exactly 5**:
+        -   If the preceding number is **even**, it remains unchanged.
+        -   If the preceding number is **odd**, it is increased by one.
+        -   Example: If 6.35 is to be rounded to two significant figures, it becomes 6.4. If 6.25 is to be rounded, it remains 6.2.
+

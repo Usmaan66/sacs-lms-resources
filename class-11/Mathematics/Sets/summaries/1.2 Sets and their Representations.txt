@@ -1,0 +1,13 @@
+### 1.2 Sets and their Representations
+
+* A **set** is defined as a **well-defined collection of objects**.
+    * **Well-defined** means that for any given object, we can clearly decide whether it belongs to the collection or not.
+    * **Example of a well-defined collection**: "Odd natural numbers less than 10" (1, 3, 5, 7, 9). You can definitively say if a number belongs or not.
+    * **Example of a collection that is NOT well-defined**: "The collection of ten most talented writers of India," because "most talented" is subjective and can vary from person to person.
+* **Objects**, **elements**, and **members** are all synonymous terms when referring to the components of a set.
+* Sets are typically denoted by **capital letters** (e.g., A, B, C, X, Y, Z).
+* The elements of a set are usually represented by **small letters** (e.g., a, b, c, x, y, z).
+* If 'a' is an element of set A, we write $a \in A$. The symbol $\in$ (epsilon) means "belongs to".
+* If 'b' is not an element of set A, we write $b \notin A$. This means "b does not belong to A".
+    * **Example**: For the set V of vowels {a, e, i, o, u}, $a \in V$ but $b \notin V$.
+

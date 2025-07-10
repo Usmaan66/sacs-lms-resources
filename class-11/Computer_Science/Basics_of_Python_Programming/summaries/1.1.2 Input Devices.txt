@@ -1,0 +1,13 @@
+#### 1.1.2 Input Devices
+
+- **Input devices** are hardware components that allow users to send data and control commands to a computer system.
+- They convert the information we provide (like text, clicks, or images) into a **digital format** (0s and 1s) that the computer can understand.
+- **Common Examples**:
+    - **Keyboard**: Used for typing text and numbers.
+    - **Mouse**: Used for pointing, clicking, and navigating on the screen.
+    - **Scanner**: Converts physical documents or photos into digital images.
+    - **Touch Screen**: Allows interaction by touching the display directly.
+    - **Braille keyboards**: Special keyboards designed for visually impaired individuals to input data.
+    - **Voice input**: Like voice assistants or search, where you speak commands or data into a microphone.
+- Data entered via input devices is first temporarily stored in **main memory (RAM)** and can be saved permanently in **secondary memory** for later use.
+

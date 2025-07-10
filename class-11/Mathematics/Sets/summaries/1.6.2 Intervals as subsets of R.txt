@@ -1,0 +1,27 @@
+### 1.6.2 Intervals as subsets of R
+
+* Intervals are special subsets of real numbers. Let $a, b \in R$ and $a < b$.
+* **Open Interval**: Denoted by $(a, b)$.
+    * Definition: $\{y : a < y < b\}$.
+    * This interval includes all real numbers between 'a' and 'b', but **does not include** the endpoints 'a' and 'b'.
+* **Closed Interval**: Denoted by $[a, b]$.
+    * Definition: $\{x : a \le x \le b\}$.
+    * This interval includes all real numbers between 'a' and 'b', **including** the endpoints 'a' and 'b'.
+* **Semi-Open/Semi-Closed Intervals**:
+    * $[a, b)$: Open from 'a' to 'b', including 'a' but excluding 'b'.
+        * Definition: $\{x : a \le x < b\}$.
+    * $(a, b]$: Open from 'a' to 'b', including 'b' but excluding 'a'.
+        * Definition: $\{x : a < x \le b\}$.
+* **Infinite Intervals**:
+    * $[0, \infty)$: Represents the set of all **non-negative real numbers**.
+    * $(-\infty, 0)$: Represents the set of all **negative real numbers**.
+    * $(-\infty, \infty)$: Represents the entire set of **real numbers**.
+* An interval contains **infinitely many points**.
+* **Length of an interval**: For any interval $(a, b)$, $[a, b]$, $[a, b)$, or $(a, b]$, the length is given by $(b - a)$.
+
+**Examples of Interval and Set-Builder Form Conversion**:
+* The set $\{x : x \in R, -5 < x \le 7\}$ can be written as the interval $(-5, 7]$.
+* The interval $[-3, 5)$ can be written in set-builder form as $\{x : -3 \le x < 5\}$.
+
+**Key Takeaways:** Intervals are continuous subsets of real numbers, defined by their endpoints and whether these endpoints are included (closed, using `[]`) or excluded (open, using `()`).
+

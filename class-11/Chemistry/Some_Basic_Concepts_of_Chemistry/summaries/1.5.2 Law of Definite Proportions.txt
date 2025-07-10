@@ -1,0 +1,9 @@
+### 1.5.2 Law of Definite Proportions
+
+-   Given by French chemist **Joseph Proust**.
+-   **Statement**: A given compound always contains exactly the same proportion of elements by weight (or mass), irrespective of its source or method of preparation.
+-   **Example**: Proust studied cupric carbonate, finding the same percentage composition of copper, carbon, and oxygen in both natural and synthetic samples.
+    -   Natural Sample: Cu (51.35%), C (9.74%), O (38.91%)
+    -   Synthetic Sample: Cu (51.35%), C (9.74%), O (38.91%)
+-   Also known as the **Law of Definite Composition**.
+

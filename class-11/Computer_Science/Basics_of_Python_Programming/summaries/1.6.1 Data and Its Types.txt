@@ -1,0 +1,12 @@
+#### 1.6.1 Data and Its Types
+
+- Input devices are responsible for providing the raw data (facts, concepts, or instructions) to the computer system.
+- Inside the computer, all data, regardless of its original form, is internally represented and stored in **binary form (as sequences of 0s and 1s)**.
+- Externally, data can be input in various human-readable forms:
+    - **Text**: Comprising alphabets, numerals, and special symbols.
+    - **Other languages**: Beyond English characters.
+    - Data can also be read from existing digital files.
+- The format of input data can vary widely depending on its source:
+    - **Images**: Are stored as individual pixels, each with color information (e.g., RGB values).
+    - **Videos**: Are sequences of images (frames) played rapidly, often accompanied by audio.
+    - **Receipts**: Contain specific figures like prices, quantities, and dates.

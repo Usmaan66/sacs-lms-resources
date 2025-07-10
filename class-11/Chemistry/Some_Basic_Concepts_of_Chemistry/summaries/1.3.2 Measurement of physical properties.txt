@@ -1,0 +1,9 @@
+### 1.3.2 Measurement of physical properties
+
+-   Scientific investigations require **quantitative measurement** of properties.
+-   Quantitative measurements are represented by a number followed by units (e.g., length of a room = 6 m, where 6 is the number and 'm' is the unit).
+-   Historically, two systems were used:
+    -   **English System**
+    -   **Metric System**: Originated in France ($18^{th}$ century), more convenient due to its decimal basis.
+-   A common standard system was needed by the scientific community.
+

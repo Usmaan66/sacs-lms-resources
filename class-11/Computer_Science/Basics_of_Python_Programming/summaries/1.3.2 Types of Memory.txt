@@ -1,0 +1,46 @@
+#### 1.3.2 Types of Memory
+
+- Computer systems primarily use two categories of memory: **primary memory** and **secondary memory**.
+
+##### (A) Primary Memory
+
+- Also known as **main memory**, it's an essential part of the computer system.
+- All programs and data must be loaded into primary memory before the CPU can process them.
+- The CPU can directly access and interact with primary memory for reading and writing data.
+- **Two main types of Primary Memory**:
+    - **Random Access Memory (RAM)**
+        - **Volatile**: This means that when the computer is turned off or loses power, all the data stored in RAM is lost. It's like a temporary workspace.
+        - Used for **temporary storage** of data and programs that the CPU is currently using.
+        - When you open a program or a file, it gets loaded into RAM so the CPU can access it quickly.
+        - Often referred to as **main memory** because it's where active data resides.
+        - **Much faster** than secondary memory, allowing quick access for the CPU.
+    - **Read Only Memory (ROM)**
+        - **Non-volatile**: Unlike RAM, the data stored in ROM is **permanent** and is not lost even when the power is turned off.
+        - Used for storing small, critical programs or data that rarely change.
+        - **Example**: The **boot loader** (the program that starts up your computer and loads the operating system) is typically stored in ROM. This ensures your computer knows how to start every time.
+
+##### (B) Cache Memory
+
+- **Cache memory** is a very small, ultra-fast type of memory located very close to the CPU (sometimes even on the CPU chip itself).
+- **Purpose**: To act as a super-fast buffer between the CPU and the slower primary memory (RAM). The CPU is much faster than RAM, so cache helps bridge this speed gap.
+- It stores copies of data and instructions that the CPU uses very frequently.
+- **Benefit**: By storing frequently accessed data, cache memory significantly **reduces the average time** the CPU needs to retrieve data, thus speeding up overall computer performance.
+- When the CPU needs data, it first checks the cache. If the data is found there (**cache hit**), it's retrieved very quickly. If not found (**cache miss**), the CPU then goes to the main memory (RAM).
+
+##### (C) Secondary Memory
+
+- Also called **auxiliary memory** or **secondary storage**.
+- It's necessary because primary memory (RAM) is volatile and limited in capacity, while ROM is mostly read-only.
+- Used for **permanently storing** large amounts of data and programs for future use.
+- **Key Characteristics**:
+    - **Non-volatile**: Data remains stored even when the power is off.
+    - Offers **much larger storage capacity** compared to primary memory.
+    - Generally **slower and cheaper** per unit of storage than main memory.
+    - The CPU **cannot directly access** data from secondary memory. Data must first be loaded into primary memory (RAM) before the CPU can work with it.
+- **Examples**:
+    - **Hard Disk Drive (HDD)**: Traditional magnetic storage device with spinning platters.
+    - **Solid State Drive (SSD)**: Newer storage devices that use flash memory (like USB drives) and have no moving parts. They are significantly **faster** and more durable than HDDs.
+    - **CD/DVD**: Optical storage media.
+    - **Memory Card**: Small, portable flash memory used in cameras, phones, etc.
+    - **Pen drives (Flash drives)**: Small, portable USB-connected storage devices that are convenient for data transfer.
+

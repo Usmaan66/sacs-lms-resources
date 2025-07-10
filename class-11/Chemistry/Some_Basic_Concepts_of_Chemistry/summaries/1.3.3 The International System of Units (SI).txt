@@ -1,0 +1,27 @@
+### 1.3.3 The International System of Units (SI)
+
+-   The **International System of Units** (Le Système International d'Unités, abbreviated as **SI**) was established in 1960 by the $11^{th}$ General Conference on Weights and Measures (CGPM).
+-   CGPM is an intergovernmental organization formed by the **Metre Convention** (signed in Paris in 1875).
+-   The SI system has **seven base units** that correspond to seven fundamental scientific quantities.
+-   Other physical quantities (e.g., speed, volume, density) are derived from these base units.
+
+**SI Base Quantities and Units**:
+
+| Base Physical Quantity | Symbol for Quantity | Name of SI Unit | Symbol for SI Unit |
+|:-----------------------|:--------------------|:----------------|:-------------------|
+| Length                 | $l$                 | metre           | m                  |
+| Mass                   | $m$                 | kilogram        | kg                 |
+| Time                   | $t$                 | second          | s                  |
+| Electric current       | $I$                 | ampere          | A                  |
+| Thermodynamic temperature | $T$            | kelvin          | K                  |
+| Amount of substance    | $n$                 | mole            | mol                |
+| Luminous intensity     | $I_v$               | candela         | cd                 |
+
+-   The SI system uses **prefixes** to denote multiples or submultiples of units (e.g., kilo-, milli-, micro-).
+
+**Maintaining National Standards of Measurement**:
+-   Unit definitions are continuously updated as measurement accuracy improves.
+-   Each industrial country, including India, has a **National Metrology Institute (NMI)**.
+-   In India, this responsibility is with the **National Physical Laboratory (NPL)**, New Delhi.
+-   NPL establishes experiments to realize and maintain national standards for base and derived units. These standards are regularly compared with international standards.
+

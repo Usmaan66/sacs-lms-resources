@@ -1,0 +1,13 @@
+### 1.7.3 Molecular Mass
+
+-   **Molecular mass**: The sum of the atomic masses of all the elements present in a molecule.
+-   **Calculation**: Multiply the atomic mass of each element by the number of its atoms in the molecule and then add these values together.
+-   **Example: Molecular mass of Methane ($CH_4$)**:
+    -   Contains one Carbon atom and four Hydrogen atoms.
+    -   Molecular mass of $CH_4 = (1 \times \text{atomic mass of C}) + (4 \times \text{atomic mass of H})$
+    -   Molecular mass of $CH_4 = (12.011~u) + (4 \times 1.008~u) = 16.043~u$
+-   **Example: Molecular mass of Water ($H_2O$)**:
+    -   Contains two Hydrogen atoms and one Oxygen atom.
+    -   Molecular mass of $H_2O = (2 \times \text{atomic mass of H}) + (1 \times \text{atomic mass of O})$
+    -   Molecular mass of $H_2O = (2 \times 1.008~u) + (16.00~u) = 18.02~u$
+

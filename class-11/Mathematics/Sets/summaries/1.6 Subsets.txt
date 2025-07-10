@@ -1,0 +1,22 @@
+### 1.6 Subsets
+
+* **Definition**: A set A is said to be a **subset** of a set B (denoted as $A \subset B$) if every element of set A is also an element of set B.
+    * This can be written using the implication symbol $\Rightarrow$: $A \subset B \text{ if } a \in A \Rightarrow a \in B$.
+* If A is not a subset of B, we write $A \not\subset B$.
+* **Properties of Subsets**:
+    * Every set is a subset of itself: $A \subset A$.
+    * The empty set ($\phi$) is a subset of every set: $\phi \subset A$.
+* **Relationship between Subsets and Equal Sets**: If $A \subset B$ and $B \subset A$, then $A = B$. This is a two-way implication, often read as "if and only if" (iff).
+* **Proper Subset and Superset**:
+    * If $A \subset B$ and $A \ne B$, then A is called a **proper subset** of B.
+    * In this case, B is called the **superset** of A.
+    * **Example**: $A = \{1, 2, 3\}$ is a proper subset of $B = \{1, 2, 3, 4\}$.
+* A set with only one element is called a **singleton set**. For example, $\{a\}$ is a singleton set.
+
+**Examples**:
+* The set Q of rational numbers is a subset of the set R of real numbers, so $Q \subset R$.
+* If A is the set of all divisors of 56 and B is the set of all prime divisors of 56, then $B \subset A$.
+* If $A = \{a, e, i, o, u\}$ and $B = \{a, b, c, d\}$, then A is not a subset of B (because $e \in A$ but $e \notin B$), and B is not a subset of A (because $b \in B$ but $b \notin A$).
+
+**Key Takeaways:** A set A is a subset of B if all elements of A are also in B. Every set is a subset of itself, and the empty set is a subset of all sets.
+

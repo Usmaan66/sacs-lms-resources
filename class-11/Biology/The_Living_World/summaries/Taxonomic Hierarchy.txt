@@ -1,0 +1,6 @@
+### Taxonomic Hierarchy:
+
+- The taxonomic categories from species to kingdom are arranged in **ascending order**.
+
+$$ \text{Species} \uparrow \text{Genus} \uparrow \text{Family} \uparrow \text{Order} \uparrow \text{Class} \uparrow \text{Phylum or Division} \uparrow \text{Kingdom} $$
+

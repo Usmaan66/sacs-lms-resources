@@ -1,0 +1,10 @@
+### 1.7 Universal Set
+
+* **Definition**: In a specific context, the **universal set** (usually denoted by **U**) is the basic set that contains all elements relevant to that particular discussion. All other sets in that context are considered subsets of the universal set.
+* Subsets of the universal set are typically denoted by capital letters like A, B, C.
+* **Examples**:
+    * When studying number systems, the set of rational numbers (Q) or the set of real numbers (R) could be considered a universal set for the set of all integers (Z) or the set of prime numbers.
+    * In human population studies, the set of all people in the world would be the universal set.
+
+**Key Takeaways:** The universal set (U) is the overarching set containing all possible elements related to a specific problem or discussion.
+

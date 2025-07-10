@@ -1,0 +1,15 @@
+#### 1.1.1 Central Processing Unit (CPU)
+
+- The **CPU**, often called the "**brain of the computer**" or simply the **processor**, is the electronic part that performs all the calculations and processing.
+- It's built on tiny electronic components called **integrated circuits (ICs)**, which are microchips made from semiconductor materials.
+- **How it works**:
+    - It receives instructions and data from programs.
+    - It retrieves these instructions and data from the computer's memory.
+    - It performs **arithmetic operations** (like addition, subtraction) and **logic operations** (like comparisons) based on the instructions.
+    - Finally, it stores the results back into memory.
+- **Registers**: These are very small and super-fast memory locations located directly inside the CPU. They are used to temporarily hold data, instructions, or intermediate results while the CPU is busy processing.
+- **Main parts of a CPU**:
+    - **Arithmetic Logic Unit (ALU)**: This is the part that does all the number crunching (addition, subtraction, multiplication, division) and logical comparisons (e.g., checking if one number is greater than another).
+    - **Control Unit (CU)**: This unit is like the conductor of an orchestra. It manages and coordinates all the operations within the CPU, interprets instructions, and controls the flow of data between the CPU, memory, and input/output devices.
+- The CPU is also commonly known as a **microprocessor**.
+

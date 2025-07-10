@@ -1,0 +1,8 @@
+### 1.6 DATA AND INFORMATION
+
+- The most fundamental function of a computer is **processing data**.
+- Anything that a computer handles—whether it's instructions, pictures, songs, videos, or documents—is considered **data**.
+- **Data**: Refers to raw, unorganized facts, figures, or symbols that do not have meaning on their own until processed.
+    - **Example**: Just numbers "10, 20, 30" are data.
+- It's crucial to understand the difference between **data, information, and knowledge**, as these terms are often confused.
+

@@ -1,0 +1,15 @@
+### 1.2.1 States of Matter
+
+-   Matter primarily exists in three physical states: **solid**, **liquid**, and **gas**.
+-   **Arrangement of particles** in different states:
+    -   **Solids**: Particles are very close, in an orderly arrangement, with limited freedom of movement.
+    -   **Liquids**: Particles are close but can move around each other.
+    -   **Gases**: Particles are far apart and move easily and rapidly.
+-   **Characteristics of each state**:
+    -   **Solids**: Have definite volume and definite shape.
+    -   **Liquids**: Have definite volume but no definite shape; they take the shape of their container.
+    -   **Gases**: Have neither definite volume nor definite shape; they completely fill their container.
+-   **Interconversion of states**: These states can change into one another by altering temperature and pressure.
+    -   Heating a solid usually turns it into a liquid, and further heating turns the liquid into a gas.
+    -   Cooling a gas turns it into a liquid (liquefaction), and further cooling freezes the liquid into a solid.
+

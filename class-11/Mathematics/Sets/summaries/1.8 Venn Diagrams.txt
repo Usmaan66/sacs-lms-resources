@@ -1,0 +1,10 @@
+### 1.8 Venn Diagrams
+
+* **Introduction**: **Venn diagrams** are graphical representations used to show the relationships between sets.
+* **Origin**: They are named after the English logician **John Venn** (1834-1883).
+* **Components**:
+    * The **universal set (U)** is usually represented by a **rectangle**.
+    * **Subsets** of the universal set are represented by **closed curves**, typically **circles**, drawn within the rectangle.
+    * The elements of the sets are written within their respective circles.
+
+**Key Takeaways:** Venn diagrams provide a visual way to understand set relationships, using rectangles for the universal set and circles for subsets.

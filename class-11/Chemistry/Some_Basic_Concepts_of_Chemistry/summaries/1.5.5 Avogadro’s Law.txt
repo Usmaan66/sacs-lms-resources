@@ -1,0 +1,8 @@
+### 1.5.5 Avogadro’s Law
+
+-   Proposed by **Avogadro** in 1811.
+-   **Statement**: Equal volumes of all gases at the same temperature and pressure should contain an equal number of molecules.
+-   Avogadro distinguished between atoms and molecules, which was a significant idea for its time.
+-   His law helped explain Gay Lussac's Law of Gaseous Volumes, especially when considering hydrogen and oxygen as diatomic molecules ($H_2$ and $O_2$), as recognized today.
+-   Despite its correctness, Avogadro's proposal initially lacked support. Its importance was emphasized later by Stanislao Cannizaro at the first international chemistry conference in Karlsruhe, Germany, in 1860.
+

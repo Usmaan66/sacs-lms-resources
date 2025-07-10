@@ -1,0 +1,5 @@
+## 1.4 UNCERTAINTY IN MEASUREMENT
+
+-   In chemistry, experimental data and theoretical calculations always involve some degree of uncertainty.
+-   It's important to handle numbers conveniently and represent data realistically.
+

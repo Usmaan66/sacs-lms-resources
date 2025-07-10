@@ -1,0 +1,6 @@
+### 1.3 COMPUTER MEMORY
+
+- **Computer memory** is crucial for storing data and instructions that the computer needs to process.
+- When we talk about "memory" generally, we usually mean the **main** or **primary memory**.
+- **Secondary memory (storage devices)** is used for long-term, permanent storage of data, programs, and results, even when the computer is turned off.
+

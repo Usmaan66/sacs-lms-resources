@@ -1,0 +1,14 @@
+### 1.4 DATA TRANSFER BETWEEN MEMORY AND CPU
+
+- Efficient **data transfer** is vital for a computer system to function, especially between the CPU, primary memory, and secondary memory.
+- **Bus**: A **bus** is a set of physical wires or electrical pathways that act as a communication channel for transferring data between different components of a computer system.
+    - **Real-life example**: Think of a bus as a multi-lane highway within your computer, allowing data to travel between different "cities" (components).
+- **Types of Buses (which together form the System Bus)**:
+    - **Data Bus**: This bus is responsible for actually transferring the data itself between components.
+        - **Bidirectional**: Data can flow in both directions (e.g., from CPU to memory, or from memory to CPU). When the CPU reads data from main memory, data travels on the data bus. When the CPU writes data to memory, data travels on the data bus.
+    - **Address Bus**: This bus carries the memory addresses (locations) that the CPU wants to access.
+        - **Unidirectional**: Information flows only in one direction—from the CPU to the memory or I/O devices. The CPU uses this bus to tell the memory exactly *where* to read data from or *where* to write data to.
+    - **Control Bus**: This bus carries control signals that coordinate and manage the operations between components.
+        - **Unidirectional**: For example, the CPU sends signals via the control bus to tell memory whether it wants to perform a "read" operation or a "write" operation during instruction execution.
+- **Memory Controller**: This is a dedicated hardware component (often integrated into the CPU or chipset) that specifically manages the flow of data to and from the computer's main memory. It acts like a traffic cop for memory access.
+

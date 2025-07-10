@@ -1,0 +1,10 @@
+#### Special Sets in Mathematics
+
+* **N**: The set of all **natural numbers** (positive integers: 1, 2, 3, ...).
+* **Z**: The set of all **integers** (..., -2, -1, 0, 1, 2, ...).
+* **Q**: The set of all **rational numbers** (numbers that can be expressed as a fraction $p/q$, where $p, q \in Z$ and $q \ne 0$).
+* **R**: The set of **real numbers**.
+* **$Z^{+}$**: The set of **positive integers**.
+* **$Q^{+}$**: The set of **positive rational numbers**.
+* **$R^{+}$**: The set of **positive real numbers**.
+
