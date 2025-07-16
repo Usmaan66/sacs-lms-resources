@@ -1,0 +1,99 @@
+### Example Problems and Solutions
+
+**Example 1: Consider the numbers $4^n$, where n is a natural number. Check whether there is any value of n for which $4^n$ ends with the digit zero.**
+
+**Solution:**
+For any number to end with the digit zero, it must be divisible by 10.
+If a number is divisible by 10, it must have both 2 and 5 as its prime factors.
+Let's find the prime factorisation of $4^n$:
+$4^n = (2^2)^n = 2^{2n}$
+
+The prime factorisation of $4^n$ only contains the prime number 2. It does not contain the prime number 5.
+According to the **Fundamental Theorem of Arithmetic**, the prime factorisation of any natural number is unique. This means that if 5 is not present in the prime factorisation of $4^n$, it never will be, for any value of `n`.
+Therefore, there is no natural number `n` for which $4^n$ ends with the digit zero.
+
+---
+
+**Example 2: Find the LCM and HCF of 6 and 20 by the prime factorisation method.**
+
+**Solution:**
+First, let's find the prime factors of each number:
+For 6: $6 = 2 \times 3 = 2^1 \times 3^1$
+For 20: $20 = 2 \times 2 \times 5 = 2^2 \times 5^1$
+
+Now, let's find the HCF and LCM:
+
+* **HCF (Highest Common Factor):** The HCF is the product of the *smallest power* of each *common* prime factor in the numbers.
+    * The common prime factor here is 2. The smallest power of 2 is $2^1$.
+    * So, $HCF(6, 20) = 2^1 = 2$.
+
+* **LCM (Least Common Multiple):** The LCM is the product of the *greatest power* of each *prime factor involved* in the numbers (whether common or not).
+    * The prime factors involved are 2, 3, and 5.
+    * Greatest power of 2: $2^2$
+    * Greatest power of 3: $3^1$
+    * Greatest power of 5: $5^1$
+    * So, $LCM(6, 20) = 2^3 \times 3^1 \times 5^1 = 4 \times 3 \times 5 = 60$.
+
+**Verification:**
+An important relationship between HCF and LCM for two positive integers `a` and `b` is:
+$HCF(a, b) \times LCM(a, b) = a \times b$
+
+Let's check this for 6 and 20:
+$HCF(6, 20) \times LCM(6, 20) = 2 \times 60 = 120$
+$a \times b = 6 \times 20 = 120$
+Since $120 = 120$, the relationship holds true. This formula can be useful if you've found one (HCF or LCM) and need to find the other.
+
+---
+
+**Example 3: Find the HCF of 96 and 404 by the prime factorisation method. Hence, find their LCM.**
+
+**Solution:**
+First, let's find the prime factorisation of 96 and 404:
+For 96: $96 = 2 \times 48 = 2 \times 2 \times 24 = 2 \times 2 \times 2 \times 12 = 2 \times 2 \times 2 \times 2 \times 6 = 2 \times 2 \times 2 \times 2 \times 2 \times 3 = 2^5 \times 3^1$
+For 404: $404 = 2 \times 202 = 2 \times 2 \times 101 = 2^2 \times 101^1$ (Note: 101 is a prime number)
+
+Now, let's find the HCF:
+
+* **HCF (96, 404):** The common prime factor is 2. The smallest power of 2 is $2^2$.
+    * So, $HCF(96, 404) = 2^2 = 4$.
+
+Now, let's use the relationship $HCF(a, b) \times LCM(a, b) = a \times b$ to find the LCM.
+$LCM(a, b) = \frac{a \times b}{HCF(a, b)}$
+$LCM(96, 404) = \frac{96 \times 404}{HCF(96, 404)}$
+$LCM(96, 404) = \frac{96 \times 404}{4}$
+$LCM(96, 404) = 96 \times 101$
+$LCM(96, 404) = 9696$
+
+---
+
+**Example 4: Find the HCF and LCM of 6, 72, and 120, using the prime factorisation method.**
+
+**Solution:**
+First, let's find the prime factorisation of each number:
+For 6: $6 = 2 \times 3 = 2^1 \times 3^1$
+For 72: $72 = 2 \times 36 = 2 \times 2 \times 18 = 2 \times 2 \times 2 \times 9 = 2 \times 2 \times 2 \times 3 \times 3 = 2^3 \times 3^2$
+For 120: $120 = 2 \times 60 = 2 \times 2 \times 30 = 2 \times 2 \times 2 \times 15 = 2 \times 2 \times 2 \times 3 \times 5 = 2^3 \times 3^1 \times 5^1$
+
+Now, let's find the HCF and LCM:
+
+* **HCF (6, 72, 120):** Product of the smallest power of each *common* prime factor.
+    * Common prime factors are 2 and 3.
+    * Smallest power of 2: $2^1$ (from 6)
+    * Smallest power of 3: $3^1$ (from 6 and 120)
+    * So, $HCF(6, 72, 120) = 2^1 \times 3^1 = 2 \times 3 = 6$.
+
+* **LCM (6, 72, 120):** Product of the greatest power of each *prime factor involved* in the numbers.
+    * Prime factors involved are 2, 3, and 5.
+    * Greatest power of 2: $2^3$ (from 72 and 120)
+    * Greatest power of 3: $3^2$ (from 72)
+    * Greatest power of 5: $5^1$ (from 120)
+    * So, $LCM(6, 72, 120) = 2^3 \times 3^2 \times 5^1 = 8 \times 9 \times 5 = 360$.
+
+**Remark:** For three numbers, the relationship $HCF(a,b,c) \times LCM(a,b,c) = a \times b \times c$ does **not** always hold true.
+Let's check for 6, 72, 120:
+$HCF(6, 72, 120) \times LCM(6, 72, 120) = 6 \times 360 = 2160$
+$a \times b \times c = 6 \times 72 \times 120 = 432 \times 120 = 51840$
+Clearly, $2160 \ne 51840$. This confirms the remark.
+
+*(The textbook mentions more complex formulas for HCF and LCM of three numbers in the summary section, which are generally not required for basic Class 10 understanding but are good for advanced knowledge. We will list them in the summary section.)*
+

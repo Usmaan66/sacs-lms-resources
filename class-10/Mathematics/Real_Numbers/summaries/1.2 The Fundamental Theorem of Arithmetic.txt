@@ -1,0 +1,49 @@
+## 1.2 The Fundamental Theorem of Arithmetic
+
+In your earlier classes, you learned that any natural number can be expressed as a product of its prime factors. For example:
+* $2 = 2$
+* $4 = 2 \times 2$
+* $253 = 11 \times 23$
+
+Now, let's think about this from a different angle: Can any natural number be created by multiplying prime numbers? Let's take a set of prime numbers, say 2, 3, 7, 11, and 23. If we multiply some or all of these primes, even repeating them if we want, we can make many different positive integers. For instance:
+* $7 \times 11 \times 23 = 1771$
+* $3 \times 7 \times 11 \times 23 = 5313$
+* $2 \times 3 \times 7 \times 11 \times 23 = 10626$
+* $2^2 \times 3 \times 7 \times 11 \times 23 = 21252$
+* $2^3 \times 3 \times 7^3 = 8232$
+
+There are infinitely many prime numbers. If we could combine all possible prime numbers in every possible way, we would generate an infinite collection of numbers that includes all primes and all possible products of primes. The important question is: can we produce *all* composite numbers this way? Is there any composite number that *cannot* be formed by multiplying powers of primes?
+
+To answer this, let's do the opposite: **factorise** positive integers into their prime components. We can use a **factor tree** for this.
+
+**Example of a Factor Tree:**
+
+Let's factorise the number **32760**.
+
+*(Image Description: A factor tree for the number 32760. It branches down as follows:)*
+* 32760
+    * 2 and 16380
+        * 16380
+            * 2 and 8190
+                * 8190
+                    * 2 and 4095
+                        * 4095
+                            * 3 and 1365
+                                * 1365
+                                    * 3 and 455
+                                        * 455
+                                            * 5 and 91
+                                                * 91
+                                                    * 7 and 13
+
+From the factor tree, we see that 32760 can be written as:
+$32760 = 2 \times 2 \times 2 \times 3 \times 3 \times 5 \times 7 \times 13$
+
+Using powers for repeated primes, this becomes:
+$32760 = 2^3 \times 3^2 \times 5 \times 7 \times 13$
+
+Let's try another example, 123456789.
+$123456789 = 3^2 \times 3803 \times 3607$ (You would need to check that 3803 and 3607 are indeed prime numbers!)
+
+These examples lead us to a very important idea: **Every composite number can be written as the product of powers of primes.** This statement is not just a guess; it's a proven fact and is called the **Fundamental Theorem of Arithmetic** because of its central importance in the study of integers.
+

@@ -1,0 +1,12 @@
+## 1.1 Introduction
+
+In Class 9, you were introduced to **real numbers**, which include both rational and irrational numbers. This chapter continues that discussion, focusing on some very important properties of **positive integers**. We'll specifically look at two key concepts: **Euclid's Division Algorithm** (though the provided text skips the section, it's mentioned in the introduction as part of the chapter) and the **Fundamental Theorem of Arithmetic**.
+
+**Euclid's Division Algorithm** is all about how integers can be divided. Simply put, if you have one positive integer `a` and you divide it by another positive integer `b`, you'll get a unique quotient and a remainder that is smaller than `b`. This is just like the long division you already know! Even though it seems simple, this algorithm is very useful for understanding divisibility and, most importantly, for calculating the **Highest Common Factor (HCF)** of two positive integers.
+
+The **Fundamental Theorem of Arithmetic**, on the other hand, deals with the multiplication of positive integers. You might remember that every **composite number** (a number that has more than two factors, including 1 and itself, like 4, 6, 8, etc.) can be written as a unique product of **prime numbers** (numbers greater than 1 that only have two factors: 1 and themselves, like 2, 3, 5, 7, etc.). This fundamental idea is incredibly powerful. We'll use it for two main things:
+1.  **Proving Irrationality**: We'll use it to prove that numbers like $\sqrt{2}$, $\sqrt{3}$, and $\sqrt{5}$ are irrational, which means they cannot be written as a simple fraction $\frac{p}{q}$.
+2.  **Decimal Expansions**: We'll use it to understand when the decimal expansion of a rational number (a number that can be written as $\frac{p}{q}$, where $q \ne 0$) will stop (terminate) or keep repeating. This depends entirely on the prime factors of the denominator `q`.
+
+Let's dive into these concepts!
+
