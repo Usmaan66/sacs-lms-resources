@@ -1,6 +1,0 @@
-### 1.2.6 Phylum
-
-- Classes comprising animals like fishes, amphibians, reptiles, birds along with mammals constitute the next higher category called **Phylum**.
-- All these, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum **Chordata**.
-- In case of plants, classes with a few similar characters are assigned to a higher category called **Division**.
-
