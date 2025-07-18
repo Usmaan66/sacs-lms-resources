@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is an example of an insulator?",
+    "options": ["Copper", "Human body", "Glass", "Aluminum"],
+    "correctAnswer": 2,
+    "explanation": "Glass is an insulator because its electrons are tightly bound and do not flow freely, unlike conductors like copper, the human body, or aluminum."
+  },
+  {
+    "id": 2,
+    "question": "When a positively charged rod is brought near a neutral conductor, and the conductor is then grounded, what type of charge will the conductor acquire?",
+    "options": ["Positive", "Negative", "Neutral", "No charge can be induced"],
+    "correctAnswer": 1,
+    "explanation": "In charging by induction, the conductor acquires a charge opposite to that of the inducing charged object. A positive rod attracts electrons, which are then supplied by the ground, leaving the conductor negatively charged after grounding and removal of the rod."
+  },
+  {
+    "id": 3,
+    "question": "According to the property of additivity of charges, if a system has charges +3C, -2C, and +5C, what is the total charge of the system?",
+    "options": ["+10C", "+6C", "+4C", "-4C"],
+    "correctAnswer": 1,
+    "explanation": "The total charge is the algebraic sum of individual charges: +3C + (-2C) + +5C = 6C."
+  },
+  {
+    "id": 4,
+    "question": "What is the approximate value of the elementary charge 'e'?",
+    "options": ["1.602 x 10^-19 C", "9.109 x 10^-31 C", "6.022 x 10^23 C", "8.854 x 10^-12 C"],
+    "correctAnswer": 0,
+    "explanation": "The elementary charge 'e' is the magnitude of charge on an electron or proton, which is approximately 1.602 x 10^-19 Coulombs."
+  },
+  {
+    "id": 5,
+    "question": "Coulomb's Law states that the force between two point charges is inversely proportional to what?",
+    "options": ["The distance between them", "The square of the distance between them", "The product of their charges", "The sum of their charges"],
+    "correctAnswer": 1,
+    "explanation": "Coulomb's Law states that the force is inversely proportional to the square of the distance between the charges, given by the formula F = k * |q1q2| / r^2."
+  },
+  {
+    "id": 6,
+    "question": "If two charges of the same sign are brought near each other, what type of force will they experience?",
+    "options": ["Attractive", "Repulsive", "No force", "Variable force"],
+    "correctAnswer": 1,
+    "explanation": "Like charges (both positive or both negative) repel each other."
+  },
+  {
+    "id": 7,
+    "question": "What is the SI unit of electric field?",
+    "options": ["Coulomb", "Newton-meter", "Volt", "Newton per Coulomb"],
+    "correctAnswer": 3,
+    "explanation": "The electric field is defined as force per unit charge (E = F/q), so its SI unit is Newton per Coulomb (N/C)."
+  },
+  {
+    "id": 8,
+    "question": "Electric field lines originate from which type of charge?",
+    "options": ["Negative charges", "Positive charges", "Both positive and negative charges", "Neutral objects"],
+    "correctAnswer": 1,
+    "explanation": "By convention, electric field lines originate from positive charges and terminate on negative charges."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following properties is NOT true for electric field lines?",
+    "options": ["They never intersect", "They form closed loops", "They are continuous curves in charge-free regions", "They are perpendicular to the surface of a conductor"],
+    "correctAnswer": 1,
+    "explanation": "Electrostatic field lines do not form closed loops because the electrostatic field is conservative."
+  },
+  {
+    "id": 10,
+    "question": "What is the formula for electric flux through a surface in a uniform electric field?",
+    "options": ["Phi_E = E / S", "Phi_E = E * S * sin(theta)", "Phi_E = E * S * cos(theta)", "Phi_E = S / E"],
+    "correctAnswer": 2,
+    "explanation": "Electric flux is defined as the dot product of the electric field and the area vector: Phi_E = E . S = E S cos(theta), where theta is the angle between E and S."
+  },
+  {
+    "id": 11,
+    "question": "What is the conventional direction of an electric dipole moment vector?",
+    "options": ["From positive to negative charge", "From negative to positive charge", "Perpendicular to the line joining charges", "Towards the larger charge"],
+    "correctAnswer": 1,
+    "explanation": "The direction of the electric dipole moment vector is conventionally defined from the negative charge to the positive charge."
+  },
+  {
+    "id": 12,
+    "question": "For an electric dipole, the electric field on its equatorial line is in which direction relative to the dipole moment?",
+    "options": ["Same direction", "Opposite direction", "Perpendicular", "Zero"],
+    "correctAnswer": 1,
+    "explanation": "The electric field on the equatorial line of a dipole is in the direction opposite to that of the dipole moment."
+  },
+  {
+    "id": 13,
+    "question": "When an electric dipole is placed in a uniform external electric field, what does it experience?",
+    "options": ["A net force only", "A torque only", "Both a net force and a torque", "Neither a net force nor a torque"],
+    "correctAnswer": 1,
+    "explanation": "In a uniform electric field, the forces on the two charges of a dipole are equal and opposite, resulting in zero net force, but they form a couple that produces a torque."
+  },
+  {
+    "id": 14,
+    "question": "What is the unit of linear charge density?",
+    "options": ["C/m^2", "C/m^3", "C/m", "C"],
+    "correctAnswer": 2,
+    "explanation": "Linear charge density is defined as charge per unit length, so its unit is Coulombs per meter (C/m)."
+  },
+  {
+    "id": 15,
+    "question": "Gauss's Law relates the total electric flux through a closed surface to what?",
+    "options": ["The total charge outside the surface", "The total charge enclosed within the surface", "The electric field at the surface", "The area of the surface"],
+    "correctAnswer": 1,
+    "explanation": "Gauss's Law states that the total electric flux through any closed surface is proportional to the net electric charge enclosed within that surface."
+  },
+  {
+    "id": 16,
+    "question": "For an infinitely long straight uniformly charged wire, how does the electric field 'E' depend on the radial distance 'r' from the wire?",
+    "options": ["E proportional to r", "E proportional to r^2", "E proportional to 1/r", "E proportional to 1/r^2"],
+    "correctAnswer": 2,
+    "explanation": "According to Gauss's Law, the electric field due to an infinitely long straight charged wire is given by E = lambda / (2 * pi * epsilon_0 * r), meaning E is proportional to 1/r."
+  },
+  {
+    "id": 17,
+    "question": "What is the electric field inside a uniformly charged thin spherical shell?",
+    "options": ["Zero", "Non-zero and constant", "Varies inversely with distance from center", "Varies inversely with square of distance from center"],
+    "correctAnswer": 0,
+    "explanation": "According to Gauss's Law, for a uniformly charged thin spherical shell, the net charge enclosed by any Gaussian surface inside the shell is zero, hence the electric field inside is zero."
+  },
+  {
+    "id": 18,
+    "question": "The permittivity of free space, epsilon_0, has an approximate value of:",
+    "options": ["9 x 10^9 Nm^2C^-2", "1.602 x 10^-19 C", "8.854 x 10^-12 C^2N^-1m^-2", "6.022 x 10^23 mol^-1"],
+    "correctAnswer": 2,
+    "explanation": "The permittivity of free space (epsilon_0) is approximately 8.854 x 10^-12 C^2N^-1m^-2. The other options are Coulomb's constant, elementary charge, and Avogadro's number respectively."
+  },
+  {
+    "id": 19,
+    "question": "Which principle states that the presence of other charges does not affect the force between any two given charges?",
+    "options": ["Conservation of Charge", "Quantization of Charge", "Principle of Superposition", "Gauss's Law"],
+    "correctAnswer": 2,
+    "explanation": "The Principle of Superposition states that the net force on any charge is the vector sum of forces due to all other charges, and these individual forces are unaffected by the presence of other charges."
+  },
+  {
+    "id": 20,
+    "question": "If an electric dipole is placed in a non-uniform electric field, it will experience:",
+    "options": ["A net force only", "A torque only", "Both a net force and a torque", "Neither a net force nor a torque"],
+    "correctAnswer": 2,
+    "explanation": "In a non-uniform electric field, the forces on the positive and negative charges of the dipole will not be equal and opposite, leading to both a net force and a net torque."
+  }
+]

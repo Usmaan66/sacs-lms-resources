@@ -1,0 +1,9 @@
+### Forces between Multiple Charges (Superposition Principle)
+
+-   The **principle of superposition** states that the total force on any charge due to a number of other charges is the **vector sum** of all the individual forces exerted on that charge by all the other charges.
+-   If a charge $q_1$ is experiencing forces $\vec{F}_{12}$ (due to $q_2$), $\vec{F}_{13}$ (due to $q_3$), etc., then the net force on $q_1$ is:
+    $$\vec{F}_{1, \text{net}} = \vec{F}_{12} + \vec{F}_{13} + \vec{F}_{14} + \dots$$
+-   Each individual force is calculated using Coulomb's Law.
+
+---
+

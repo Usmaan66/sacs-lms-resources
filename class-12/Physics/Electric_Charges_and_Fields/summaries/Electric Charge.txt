@@ -1,0 +1,9 @@
+### Electric Charge
+
+-   **Electric charge** is an intrinsic property of elementary particles of matter that gives rise to electric force between various objects.
+-   There are two types of charges: **positive charge** and **negative charge**.
+-   Like charges **repel** each other (e.g., positive repels positive, negative repels negative).
+-   Unlike charges **attract** each other (e.g., positive attracts negative).
+-   The SI unit of charge is the **coulomb (C)**.
+-   **Example:** When you rub a glass rod with silk, the glass rod acquires a positive charge and the silk acquires a negative charge.
+

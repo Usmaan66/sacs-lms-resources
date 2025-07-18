@@ -1,0 +1,12 @@
+### Electric Field Lines
+
+-   **Electric field lines** are imaginary lines or curves drawn in such a way that the tangent to any point on the line gives the direction of the electric field at that point.
+-   **Properties of Electric Field Lines:**
+    -   Originate from positive charges and end on negative charges (or extend to infinity for isolated charges).
+    -   Never intersect each other. If they did, it would mean two directions of electric field at the point of intersection, which is impossible.
+    -   Are denser where the electric field is stronger (closer to charges) and sparser where it is weaker.
+    -   Do not form closed loops.
+    -   They are perpendicular to the surface of a conductor.
+
+---
+

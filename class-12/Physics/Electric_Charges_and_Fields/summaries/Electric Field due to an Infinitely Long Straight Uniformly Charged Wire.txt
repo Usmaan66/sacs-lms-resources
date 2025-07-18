@@ -1,0 +1,8 @@
+#### Electric Field due to an Infinitely Long Straight Uniformly Charged Wire
+
+-   Consider a cylindrical Gaussian surface with radius $r$ and length $L$ coaxial with the wire.
+-   The electric field is radial and perpendicular to the curved surface.
+-   By Gauss's Law, the electric field $E$ at a distance $r$ from the wire with linear charge density $\lambda$ is:
+    $$E = \frac{\lambda}{2\pi\epsilon_0 r}$$
+    -   Where $\lambda = Q/L$ is the linear charge density (charge per unit length).
+

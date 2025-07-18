@@ -1,0 +1,5 @@
+#### Additivity of Charges
+
+-   The total electric charge of a system is the **algebraic sum** of all individual charges present in the system.
+-   **Example:** If a system has charges $q_1$, $q_2$, $q_3$, then the total charge $Q = q_1 + q_2 + q_3$.
+

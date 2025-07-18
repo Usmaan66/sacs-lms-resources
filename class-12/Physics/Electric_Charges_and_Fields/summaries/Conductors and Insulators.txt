@@ -1,0 +1,9 @@
+### Conductors and Insulators
+
+-   **Conductors:** Materials that allow electric charges to flow easily through them. They have a large number of free electrons.
+    -   **Examples:** Metals (copper, aluminum), human body, Earth.
+-   **Insulators:** Materials that do not allow electric charges to flow easily through them. Their electrons are tightly bound to their atoms.
+    -   **Examples:** Glass, plastic, wood, rubber.
+
+---
+

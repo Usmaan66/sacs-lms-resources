@@ -1,0 +1,11 @@
+### Gauss's Law Statement
+
+-   **Gauss's Law** states that the total electric flux through any closed surface (called a **Gaussian surface**) is equal to $1/\epsilon_0$ times the total net charge enclosed within that surface.
+-   Mathematically:
+    $$\Phi_E = \oint \vec{E} \cdot d\vec{A} = \frac{Q_{\text{enclosed}}}{\epsilon_0}$$
+    -   Where $\Phi_E$ is the total electric flux, $\oint \vec{E} \cdot d\vec{A}$ represents the surface integral of the electric field over the closed surface, $Q_{\text{enclosed}}$ is the net charge enclosed by the Gaussian surface, and $\epsilon_0$ is the permittivity of free space.
+-   **Key Points:**
+    -   Gauss's Law is a fundamental law in electrostatics, equivalent to Coulomb's Law.
+    -   It is particularly useful for calculating electric fields for charge distributions with high symmetry (spherical, cylindrical, planar).
+    -   The choice of Gaussian surface is crucial for simplifying calculations. It should be chosen such that the electric field is either perpendicular or parallel to the surface, and its magnitude is constant over the surface.
+

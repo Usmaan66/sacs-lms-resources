@@ -1,0 +1,9 @@
+#### On the Axial Line
+
+-   The **axial line** is the line passing through both charges of the dipole.
+-   The electric field $E$ at a point on the axial line at a distance $r$ from the center of the dipole is:
+    $$E_{\text{axial}} = \frac{1}{4\pi\epsilon_0} \frac{2pr}{(r^2 - a^2)^2}$$
+-   For a **short dipole** ($r \gg a$):
+    $$E_{\text{axial}} \approx \frac{1}{4\pi\epsilon_0} \frac{2p}{r^3}$$
+-   **Direction:** Along the direction of the dipole moment.
+

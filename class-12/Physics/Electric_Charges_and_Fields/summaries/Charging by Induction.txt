@@ -1,0 +1,10 @@
+### Charging by Induction
+
+-   **Charging by induction** is a method of charging an object without direct contact with another charged object.
+-   **Steps:**
+    1.  Bring a charged object (e.g., a positively charged rod) near an uncharged conductor (e.g., a metal sphere) mounted on an insulating stand. The free electrons in the conductor are attracted towards the rod, leaving the far side positively charged.
+    2.  Connect the conductor to the ground (earthing) while the charged rod is still near it. Electrons from the ground flow onto the conductor to neutralize the positive charge on the far side.
+    3.  Remove the earthing connection. The negative charge remains on the conductor.
+    4.  Remove the charged rod. The negative charge spreads uniformly over the conductor.
+-   **Key Takeaway:** The induced charge is always opposite in sign to the inducing charge.
+

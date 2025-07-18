@@ -1,0 +1,9 @@
+### Electric Field Definition
+
+-   An **electric field** is the region around a charged object where another charged object would experience an electric force.
+-   It is a vector quantity.
+-   The **electric field intensity (or electric field strength)** at a point is defined as the force experienced by a unit positive test charge placed at that point.
+-   Formula: $\vec{E} = \frac{\vec{F}}{q_0}$
+    -   Where $\vec{E}$ is the electric field, $\vec{F}$ is the force experienced by the test charge $q_0$.
+-   The SI unit of electric field is **newton per coulomb (N/C)** or **volt per meter (V/m)**.
+

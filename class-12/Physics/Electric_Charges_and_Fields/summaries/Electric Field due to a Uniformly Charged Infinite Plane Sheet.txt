@@ -1,0 +1,9 @@
+#### Electric Field due to a Uniformly Charged Infinite Plane Sheet
+
+-   Consider a cylindrical or cuboidal Gaussian surface piercing the sheet, with its flat ends parallel to the sheet.
+-   The electric field is perpendicular to the sheet.
+-   By Gauss's Law, the electric field $E$ near a uniformly charged infinite plane sheet with surface charge density $\sigma$ is:
+    $$E = \frac{\sigma}{2\epsilon_0}$$
+    -   Where $\sigma = Q/A$ is the surface charge density (charge per unit area).
+-   **Note:** The field is independent of the distance from the sheet for points close to the sheet.
+

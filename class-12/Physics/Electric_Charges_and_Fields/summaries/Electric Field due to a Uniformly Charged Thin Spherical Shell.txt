@@ -1,0 +1,11 @@
+#### Electric Field due to a Uniformly Charged Thin Spherical Shell
+
+-   **Case 1: Outside the shell ($r > R$)**
+    -   Consider a spherical Gaussian surface of radius $r$ concentric with the shell.
+    -   The electric field $E$ outside the shell acts as if the entire charge $Q$ is concentrated at its center:
+        $$E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$$
+-   **Case 2: Inside the shell ($r < R$)**
+    -   Consider a spherical Gaussian surface of radius $r$ inside the shell.
+    -   Since no charge is enclosed within this Gaussian surface, by Gauss's Law, the electric field $E$ inside a uniformly charged thin spherical shell is **zero**.
+        $$E = 0$$
+

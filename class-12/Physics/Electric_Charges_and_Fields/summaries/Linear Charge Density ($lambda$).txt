@@ -1,0 +1,7 @@
+#### Linear Charge Density ($\lambda$)
+
+-   Charge per unit length.
+-   Formula: $\lambda = \frac{dQ}{dL}$
+-   SI Unit: C/m
+-   **Example:** Charge on a thin rod or wire.
+

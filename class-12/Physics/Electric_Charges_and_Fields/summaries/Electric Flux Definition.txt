@@ -1,0 +1,13 @@
+### Electric Flux Definition
+
+-   **Electric flux ($\Phi_E$)** is a measure of the number of electric field lines passing normally through a given area.
+-   It is a scalar quantity.
+-   For a uniform electric field $\vec{E}$ passing through a plane area $\vec{A}$ (where $\vec{A}$ is a vector normal to the surface, with magnitude equal to the area):
+    $$\Phi_E = \vec{E} \cdot \vec{A} = EA \cos\theta$$
+    -   Where $\theta$ is the angle between the electric field vector $\vec{E}$ and the area vector $\vec{A}$.
+-   If the electric field is non-uniform or the surface is not flat, the flux is calculated by integrating over the surface:
+    $$\Phi_E = \int \vec{E} \cdot d\vec{A}$$
+-   The SI unit of electric flux is **newton meter squared per coulomb (N m$^2$/C)** or **volt meter (V m)**.
+
+---
+

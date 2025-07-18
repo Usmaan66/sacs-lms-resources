@@ -1,0 +1,7 @@
+#### Surface Charge Density ($\sigma$)
+
+-   Charge per unit area.
+-   Formula: $\sigma = \frac{dQ}{dA}$
+-   SI Unit: C/m$^2$
+-   **Example:** Charge on a thin sheet or surface of a conductor.
+

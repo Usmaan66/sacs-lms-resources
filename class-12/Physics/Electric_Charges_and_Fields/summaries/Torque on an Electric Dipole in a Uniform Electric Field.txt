@@ -1,0 +1,15 @@
+### Torque on an Electric Dipole in a Uniform Electric Field
+
+-   When an electric dipole is placed in a uniform electric field $\vec{E}$, the two charges experience equal and opposite forces, forming a **couple**.
+-   This couple exerts a **torque ($\vec{\tau}$)** on the dipole, tending to align it with the electric field.
+-   Formula for torque:
+    $$\vec{\tau} = \vec{p} \times \vec{E}$$
+-   Magnitude of torque: $\tau = pE \sin\theta$
+    -   Where $\theta$ is the angle between the dipole moment $\vec{p}$ and the electric field $\vec{E}$.
+-   **Direction:** The direction of torque is perpendicular to the plane containing $\vec{p}$ and $\vec{E}$, given by the right-hand rule.
+-   **Special Cases:**
+    -   If $\theta = 0^\circ$ or $180^\circ$ (dipole aligned with the field), $\tau = 0$.
+    -   If $\theta = 90^\circ$ (dipole perpendicular to the field), $\tau = pE$ (maximum torque).
+
+---
+

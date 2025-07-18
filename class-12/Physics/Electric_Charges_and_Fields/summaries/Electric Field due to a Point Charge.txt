@@ -1,0 +1,9 @@
+### Electric Field due to a Point Charge
+
+-   The electric field $\vec{E}$ due to a point charge $Q$ at a distance $r$ from it is given by:
+    $$\vec{E} = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2} \hat{r}$$
+    -   Where $\hat{r}$ is the unit vector pointing from the source charge $Q$ to the point where the field is being calculated.
+-   **Direction:** The electric field lines originate from positive charges and terminate on negative charges.
+    -   For a positive charge, the field lines are directed radially outward.
+    -   For a negative charge, the field lines are directed radially inward.
+

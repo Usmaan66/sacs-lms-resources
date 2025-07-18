@@ -1,0 +1,15 @@
+### Coulomb's Law Statement
+
+-   **Coulomb's Law** states that the force between two stationary point charges is:
+    1.  Directly proportional to the product of their magnitudes.
+    2.  Inversely proportional to the square of the distance between them.
+    3.  Acts along the line joining the two charges.
+-   The formula for Coulomb's Law is:
+    $$F = k \frac{|q_1 q_2|}{r^2}$$
+    -   Where $F$ is the force, $q_1$ and $q_2$ are the magnitudes of the charges, $r$ is the distance between them, and $k$ is the Coulomb's constant.
+-   In vacuum or free space, the value of $k$ is approximately $9 \times 10^9 \text{ N m}^2/\text{C}^2$.
+-   The constant $k$ is often written as $k = \frac{1}{4\pi\epsilon_0}$, where $\epsilon_0$ is the **permittivity of free space**.
+    -   $\epsilon_0 = 8.854 \times 10^{-12} \text{ C}^2/\text{N m}^2$.
+-   So, Coulomb's Law in terms of $\epsilon_0$ is:
+    $$F = \frac{1}{4\pi\epsilon_0} \frac{|q_1 q_2|}{r^2}$$
+

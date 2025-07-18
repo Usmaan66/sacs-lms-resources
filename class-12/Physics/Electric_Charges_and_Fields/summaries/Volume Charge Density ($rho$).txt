@@ -1,0 +1,9 @@
+#### Volume Charge Density ($\rho$)
+
+-   Charge per unit volume.
+-   Formula: $\rho = \frac{dQ}{dV}$
+-   SI Unit: C/m$^3$
+-   **Example:** Charge distributed throughout the volume of a sphere or cube.
+
+---
+

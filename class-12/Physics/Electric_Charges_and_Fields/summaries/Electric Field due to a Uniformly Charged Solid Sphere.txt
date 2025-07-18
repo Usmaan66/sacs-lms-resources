@@ -1,0 +1,14 @@
+#### Electric Field due to a Uniformly Charged Solid Sphere
+
+-   **Case 1: Outside the sphere ($r > R$)**
+    -   Similar to the spherical shell, the electric field $E$ outside the sphere acts as if the entire charge $Q$ is concentrated at its center:
+        $$E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}$$
+-   **Case 2: Inside the sphere ($r < R$)**
+    -   Consider a spherical Gaussian surface of radius $r$ inside the sphere.
+    -   The charge enclosed depends on the volume charge density ($\rho$).
+    -   The electric field $E$ inside a uniformly charged solid sphere is:
+        $$E = \frac{1}{4\pi\epsilon_0} \frac{Qr}{R^3}$$
+        -   Alternatively, $E = \frac{\rho r}{3\epsilon_0}$ where $\rho$ is the volume charge density.
+
+---
+

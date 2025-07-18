@@ -1,0 +1,8 @@
+### Coulomb's Law in Vector Form
+
+-   The force is a vector quantity, and its direction is along the line joining the charges.
+-   For two charges $q_1$ and $q_2$ separated by a distance $r$:
+    -   Force on $q_2$ due to $q_1$: $\vec{F}_{21} = \frac{1}{4\pi\epsilon_0} \frac{q_1 q_2}{r_{21}^2} \hat{r}_{21}$
+    -   Where $\hat{r}_{21}$ is the unit vector from $q_1$ to $q_2$.
+-   **Note:** If $q_1 q_2 > 0$ (like charges), the force is repulsive. If $q_1 q_2 < 0$ (unlike charges), the force is attractive.
+

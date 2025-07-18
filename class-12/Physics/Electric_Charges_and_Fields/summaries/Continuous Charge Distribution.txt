@@ -1,0 +1,5 @@
+### Continuous Charge Distribution
+
+-   When charge is distributed continuously over a line, surface, or volume, we use the concept of charge density.
+-   Instead of summing individual forces (which would be infinite), we use integration.
+

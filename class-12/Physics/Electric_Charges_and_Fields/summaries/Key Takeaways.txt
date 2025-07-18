@@ -1,0 +1,10 @@
+## Key Takeaways
+
+-   **Electric charge** is fundamental, conserved, and quantized.
+-   **Coulomb's Law** describes the force between point charges.
+-   An **electric field** is a force field created by charges, affecting other charges.
+-   **Electric field lines** are a visual representation of the field's direction and strength.
+-   **Electric flux** measures the number of field lines passing through a surface.
+-   **Gauss's Law** simplifies the calculation of electric fields for symmetric charge distributions.
+-   An **electric dipole** is a pair of equal and opposite charges, characterized by its dipole moment.
+-   Understanding **continuous charge distributions** allows for calculating fields from extended objects.

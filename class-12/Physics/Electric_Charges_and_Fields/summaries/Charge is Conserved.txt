@@ -1,0 +1,5 @@
+#### Charge is Conserved
+
+-   For an **isolated system**, the total electric charge remains constant. It cannot be created or destroyed, only transferred from one body to another.
+-   **Example:** When a glass rod is rubbed with silk, the positive charge acquired by the rod is equal in magnitude to the negative charge acquired by the silk. The total charge of the rod-silk system remains zero.
+

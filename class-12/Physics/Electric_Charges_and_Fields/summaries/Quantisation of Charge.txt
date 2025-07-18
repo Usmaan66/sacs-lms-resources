@@ -1,0 +1,10 @@
+#### Quantisation of Charge
+
+-   The charge on any object is always an **integral multiple** of a basic unit of charge, $e$.
+-   This basic unit of charge is the magnitude of charge on an electron or a proton, $e = 1.6 \times 10^{-19} \text{ C}$.
+-   The formula for quantisation of charge is: $q = ne$
+    -   Where $q$ is the total charge, $n$ is an integer ($1, 2, 3, \dots$), and $e$ is the elementary charge.
+-   **Discovery:** This principle was experimentally demonstrated by **Millikan's oil drop experiment** (1909).
+
+---
+

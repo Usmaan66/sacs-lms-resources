@@ -1,0 +1,8 @@
+### Electric Dipole Definition
+
+-   An **electric dipole** consists of two equal and opposite point charges ($+q$ and $-q$) separated by a small distance $2a$.
+-   The **dipole moment ($\vec{p}$)** is a vector quantity that describes the strength and orientation of an electric dipole.
+-   Magnitude of dipole moment: $p = q \times 2a$
+-   Direction of dipole moment: From the negative charge ($-q$) to the positive charge ($+q$).
+-   The SI unit of dipole moment is **coulomb meter (C m)**.
+
