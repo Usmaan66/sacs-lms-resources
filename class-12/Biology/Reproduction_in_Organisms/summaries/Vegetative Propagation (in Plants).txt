@@ -1,0 +1,22 @@
+#### Vegetative Propagation (in Plants)
+
+- In plants, asexual reproduction is often referred to as **vegetative propagation**.
+- Specialized structures are involved in vegetative propagation, and these are called **vegetative propagules**.
+
+| Vegetative Propagule | Plant Example |
+| :------------------- | :------------ |
+| Runner               | Grass, Oxalis |
+| Rhizome              | Ginger, Turmeric, Banana |
+| Sucker               | Mint, Chrysanthemum |
+| Tuber                | Potato        |
+| Offset               | Water hyacinth (Eichhornia), Pistia |
+| Bulb                 | Onion         |
+| Bulbil               | Agave         |
+| Leaf Buds            | Bryophyllum   |
+
+- **Eyes (Potato Tuber)**: The small indentations on potato tubers are axillary buds, also called "eyes." Each eye can give rise to a new plant.
+- **Rhizome (Ginger)**: Underground stems with nodes and internodes that can produce new shoots.
+- **Bulbil (Agave)**: Fleshy buds that develop in the axil of leaves and can form new plants.
+- **Leaf Buds (Bryophyllum)**: Adventitious buds arising from the notches along the margins of leaves that can develop into new plantlets.
+- **Water Hyacinth (Eichhornia crassipes)**: An invasive aquatic weed, also known as "Terror of Bengal," due to its rapid vegetative propagation through **offset** and its ability to deoxygenate water bodies, leading to the death of aquatic life.
+

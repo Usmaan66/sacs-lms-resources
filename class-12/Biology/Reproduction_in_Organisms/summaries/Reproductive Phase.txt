@@ -1,0 +1,11 @@
+#### Reproductive Phase
+
+- The period when an organism is capable of sexual reproduction.
+- Marked by flowering in higher plants.
+- In animals, it involves changes in hormone levels, leading to reproductive cycles.
+- Examples of reproductive cycles in mammals:
+    - **Oestrous cycle**: Observed in non-primate mammals (e.g., cows, sheep, rats, deers, dogs, tiger) where distinct changes occur in ovaries and accessory ducts, and the females are receptive to mating only during the oestrus period.
+    - **Menstrual cycle**: Observed in primates (e.g., monkeys, apes, humans) where there is a periodic bleeding (menstruation) and the females are receptive to mating throughout the cycle.
+- Seasonal breeders: Organisms that reproduce only during specific favorable seasons.
+- Continuous breeders: Organisms that can reproduce throughout their reproductive phase.
+

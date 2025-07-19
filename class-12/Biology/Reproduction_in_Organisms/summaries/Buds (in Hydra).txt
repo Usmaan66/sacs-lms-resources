@@ -1,0 +1,4 @@
+#### Buds (in Hydra)
+
+- Similar to yeast, Hydra develops small buds that detach and grow into new individuals.
+

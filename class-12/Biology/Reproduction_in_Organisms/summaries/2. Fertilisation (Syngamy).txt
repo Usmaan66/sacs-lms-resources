@@ -1,0 +1,19 @@
+#### 2. Fertilisation (Syngamy)
+
+- The process of fusion of male and female gametes.
+- Results in the formation of a **diploid zygote**.
+- **Parthenogenesis**: The development of a new organism without fertilisation of the female gamete.
+    - Example: Rotifers, honeybees (drone bees develop from unfertilized eggs), some lizards, and birds (turkey).
+
+##### Types of Fertilisation
+
+- **External fertilisation**: Syngamy occurs outside the body of the organism, in the external medium (usually water).
+    - Example: Most aquatic organisms (e.g., fish, frogs, many algae).
+    - Organisms exhibiting external fertilisation produce a large number of gametes to increase the chances of syngamy.
+    - Disadvantage: Offspring are vulnerable to predators and adverse environmental conditions.
+- **Internal fertilisation**: Syngamy occurs inside the body of the female organism.
+    - Example: Most terrestrial organisms (e.g., reptiles, birds, mammals, most plants).
+    - Male gametes are motile and reach the stationary egg.
+    - In seed plants, the non-motile male gametes are carried to the female gamete by pollen tubes.
+    - Advantage: Greater chances of survival for the embryo/offspring.
+

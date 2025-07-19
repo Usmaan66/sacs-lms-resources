@@ -1,0 +1,27 @@
+#### Embryogenesis
+
+- The process of development of the embryo from the zygote.
+- Involves two major processes:
+    - **Cell division (mitosis)**: Increases the number of cells in the developing embryo.
+    - **Cell differentiation**: Cells undergo modifications to form specialized tissues and organs.
+
+##### Development of Zygote (Animals)
+
+- **Oviparous animals**: Lay eggs. The development of the zygote takes place outside the female parent's body.
+    - Example: Reptiles, birds.
+    - Eggs are usually covered by a hard calcareous shell for protection.
+    - Incubation period required for embryo development.
+- **Viviparous animals**: Give birth to live young. The development of the zygote takes place inside the female parent's body.
+    - Example: Most mammals, including humans.
+    - Greater chances of survival of the young due to proper embryonic care and protection inside the mother's body.
+
+##### Development of Zygote (Flowering Plants)
+
+- Zygote forms inside the ovule.
+- After fertilisation, the zygote develops into the **embryo**.
+- The ovules develop into **seeds**.
+- The ovary develops into the **fruit**.
+- The fruit develops a protective wall called the **pericarp**.
+- Petals, sepals, and stamens often wither and fall off.
+- The fertilized ovule contains the embryo. The seed germinates under favorable conditions to produce a new plant.
+

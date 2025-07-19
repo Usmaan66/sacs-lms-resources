@@ -1,0 +1,6 @@
+#### Binary Fission
+
+- In this method, the parent cell divides into two halves, each rapidly growing into an adult.
+- Common in unicellular organisms like **Amoeba** and **Paramecium**.
+- Example: *Amoeba* divides into two daughter *Amoeba*.
+

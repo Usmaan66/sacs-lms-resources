@@ -1,0 +1,8 @@
+#### Zygote
+
+- The diploid cell formed by the fusion of male and female gametes.
+- It is the vital link that ensures the continuity of species between one generation and the next.
+- The development of the zygote depends on the type of life cycle of the organism and the environment it is exposed to.
+- In organisms with a haplontic life cycle (e.g., algae, fungi), the zygote undergoes meiosis to form haploid spores that germinate into haploid individuals.
+- In organisms with a diplontic or haplodiplontic life cycle, the zygote undergoes mitosis.
+

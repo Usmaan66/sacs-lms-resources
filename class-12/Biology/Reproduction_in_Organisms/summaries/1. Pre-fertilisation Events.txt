@@ -1,0 +1,48 @@
+#### 1. Pre-fertilisation Events
+
+- Events occurring prior to the fusion of gametes.
+- Includes **gametogenesis** (formation of gametes) and **gamete transfer**.
+
+##### Gametogenesis
+
+- The process of formation of two types of gametes: male and female.
+- **Gametes** are haploid cells.
+- **Homogametes (Isogametes)**: Gametes that are morphologically similar and cannot be distinguished as male or female (e.g., some algae like *Chlamydomonas*).
+- **Heterogametes**: Gametes that are morphologically distinct (e.g., most sexually reproducing organisms).
+    - Male gamete: **Antherozoid** or **sperm**.
+    - Female gamete: **Ovum** or **egg**.
+
+###### Sexuality in Organisms
+
+- **Homothallic/Monoecious**: In fungi and plants, if both male and female reproductive structures are present on the same individual.
+    - Example: Higher plants like **Cucurbits**, **coconut**.
+    - Example (fungi): **Chara** (alga) - antheridium and oogonium on the same plant.
+- **Heterothallic/Dioecious**: In fungi and plants, if male and female reproductive structures are on different individuals.
+    - Example: Higher plants like **Papaya**, **date palm**.
+    - Example (fungi): **Marchantia** (liverwort) - male and female thalli are separate.
+- **Bisexual animals**: Animals possessing both male and female reproductive organs (e.g., Earthworm, sponge, tapeworm, leech). Also called **hermaphrodites**.
+- **Unisexual animals**: Animals with either male or female reproductive organs (e.g., cockroach, humans).
+
+###### Cell Division during Gamete Formation
+
+- Gametes are always **haploid** (n).
+- **Diploid (2n) parent**: Organisms that are diploid produce haploid gametes through **meiosis** (reductional division). This occurs in organisms like humans, most animals, and higher plants.
+- **Haploid (n) parent**: Organisms that are haploid produce haploid gametes through **mitosis** (equational division). This occurs in organisms like algae, fungi, and bryophytes.
+- In meiocytes (gamete mother cells), meiosis occurs. At the end of meiosis, only one set of chromosomes is incorporated into each gamete.
+
+| Organism Type | Ploidy of Parent | Cell Division for Gamete Formation | Ploidy of Gamete |
+| :------------ | :--------------- | :------------------------------- | :--------------- |
+| Haploid       | n                | Mitosis                          | n                |
+| Diploid       | 2n               | Meiosis                          | n                |
+
+##### Gamete Transfer
+
+- After formation, male and female gametes must be brought together for fertilisation.
+- In most organisms, male gametes are **motile**, and the female gamete is **stationary**.
+- **Water** is often the medium for gamete transfer in simple plants (algae, bryophytes, pteridophytes). This leads to a need for large numbers of male gametes to compensate for loss during transport.
+- In seed plants (gymnosperms and angiosperms), pollen grains carry male gametes to the ovule.
+    - **Pollination**: The transfer of pollen grains to the stigma.
+    - **Self-pollination**: Transfer of pollen within the same flower or to another flower on the same plant.
+    - **Cross-pollination**: Transfer of pollen from one plant to the stigma of a flower on another plant.
+- In dioecious animals, specialized mechanisms for gamete transfer are developed (e.g., copulation).
+

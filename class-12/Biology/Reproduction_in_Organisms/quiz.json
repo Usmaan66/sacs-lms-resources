@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a characteristic feature of all living organisms?",
+    "options": ["Growth", "Photosynthesis", "Parasitism", "Respiration"],
+    "correctAnswer": 0,
+    "explanation": "Growth is a common characteristic feature of all living organisms, although the pattern may vary in unicellular and multicellular organisms."
+  },
+  {
+    "id": 2,
+    "question": "What term describes the ability of organisms to give rise to young ones of their own kind?",
+    "options": ["Regeneration", "Reproduction", "Budding", "Fertilization"],
+    "correctAnswer": 1,
+    "explanation": "Reproduction is the biological process by which an organism produces offspring of its own kind."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following organisms reproduce only asexually?",
+    "options": ["Amoeba", "Frog", "Human", "Dog"],
+    "correctAnswer": 0,
+    "explanation": "Amoeba is a unicellular organism that reproduces only by asexual means like binary fission."
+  },
+  {
+    "id": 4,
+    "question": "What is the method of reproduction in yeast?",
+    "options": ["Binary fission", "Budding", "Fragmentation", "Spore formation"],
+    "correctAnswer": 1,
+    "explanation": "Yeast reproduces asexually through the process of budding, where a small bud develops on the parent cell."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of vegetative propagation?",
+    "options": ["Fission in Amoeba", "Formation of gemmules in sponges", "Tuber formation in potato", "Sporulation in fungi"],
+    "correctAnswer": 2,
+    "explanation": "Potato propagates vegetatively through tubers, which have buds (eyes) that develop into new plants."
+  },
+  {
+    "id": 6,
+    "question": "What type of reproduction results in genetically identical offspring?",
+    "options": ["Sexual reproduction", "Fertilization", "Asexual reproduction", "Pollination"],
+    "correctAnswer": 2,
+    "explanation": "Asexual reproduction produces clones that are genetically identical to the parent organism."
+  },
+  {
+    "id": 7,
+    "question": "Which reproductive process involves the fusion of male and female gametes?",
+    "options": ["Asexual reproduction", "Budding", "Fertilization", "Spore formation"],
+    "correctAnswer": 2,
+    "explanation": "Fertilization is the process where male and female gametes fuse to form a zygote, initiating sexual reproduction."
+  },
+  {
+    "id": 8,
+    "question": "In which organism does binary fission occur?",
+    "options": ["Hydra", "Yeast", "Amoeba", "Frog"],
+    "correctAnswer": 2,
+    "explanation": "Amoeba reproduces by binary fission, where a parent cell divides into two identical daughter cells."
+  },
+  {
+    "id": 9,
+    "question": "What triggers the reproductive phase in seasonal breeders?",
+    "options": ["Hormonal changes", "Availability of water", "Day length and temperature", "Population density"],
+    "correctAnswer": 2,
+    "explanation": "Seasonal breeders are influenced by environmental factors like photoperiod (day length) and temperature."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a method of asexual reproduction?",
+    "options": ["Fragmentation", "Spore formation", "Fertilization", "Budding"],
+    "correctAnswer": 2,
+    "explanation": "Fertilization involves fusion of gametes and is part of sexual reproduction, not asexual reproduction."
+  },
+  {
+    "id": 11,
+    "question": "Which plant part can be used for artificial vegetative propagation?",
+    "options": ["Root", "Stem", "Leaf", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Vegetative propagation can be done using root (e.g., sweet potato), stem (e.g., rose), or leaf (e.g., Bryophyllum)."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following organisms shows internal fertilization?",
+    "options": ["Frog", "Human", "Fish", "Algae"],
+    "correctAnswer": 1,
+    "explanation": "Humans and other mammals show internal fertilization where fusion of gametes occurs inside the body."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a unisexual flower?",
+    "options": ["Hibiscus", "Mustard", "Papaya", "Sunflower"],
+    "correctAnswer": 2,
+    "explanation": "Papaya is a dioecious plant where male and female flowers are present on separate plants, making them unisexual."
+  },
+  {
+    "id": 14,
+    "question": "What is the life span of an organism?",
+    "options": ["Time taken for reproduction", "Time between birth and death", "Time for gamete formation", "Time for development of zygote"],
+    "correctAnswer": 1,
+    "explanation": "Life span is the period from birth to natural death of an organism."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following statements is true regarding sexual reproduction?",
+    "options": ["It produces genetically identical offspring", "It occurs only in animals", "It promotes genetic diversity", "It is a rapid mode of reproduction"],
+    "correctAnswer": 2,
+    "explanation": "Sexual reproduction involves gamete fusion from two individuals, resulting in genetically varied offspring."
+  },
+  {
+    "id": 16,
+    "question": "What is parthenogenesis?",
+    "options": ["Formation of new plant from leaves", "Fusion of gametes", "Development of embryo from unfertilized egg", "Asexual reproduction by fission"],
+    "correctAnswer": 2,
+    "explanation": "Parthenogenesis is the development of an embryo from an unfertilized egg, observed in some insects and reptiles."
+  },
+  {
+    "id": 17,
+    "question": "What is the reproductive unit of a fungus during unfavorable conditions?",
+    "options": ["Conidia", "Mycelium", "Zygote", "Spore"],
+    "correctAnswer": 3,
+    "explanation": "Spores are resistant structures that help fungi survive and reproduce during unfavorable conditions."
+  },
+  {
+    "id": 18,
+    "question": "What do we call the process of formation of gametes?",
+    "options": ["Fertilization", "Gametogenesis", "Embryogenesis", "Sporogenesis"],
+    "correctAnswer": 1,
+    "explanation": "Gametogenesis is the process by which gametes (sperm and egg) are formed in sexually reproducing organisms."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following shows both asexual and sexual modes of reproduction?",
+    "options": ["Hydra", "Human", "Mango", "Algae"],
+    "correctAnswer": 3,
+    "explanation": "Algae reproduce both asexually (by fragmentation or spores) and sexually (by gamete fusion)."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a dioecious plant?",
+    "options": ["Wheat", "Mustard", "Papaya", "China rose"],
+    "correctAnswer": 2,
+    "explanation": "Papaya is a dioecious plant where male and female flowers are borne on different plants."
+  }
+]
