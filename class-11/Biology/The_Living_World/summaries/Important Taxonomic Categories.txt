@@ -1,9 +1,0 @@
-### Important Taxonomic Categories
-- Species
-- Genus
-- Family
-- Order
-- Class
-- Phylum/Division
-- Kingdom
-

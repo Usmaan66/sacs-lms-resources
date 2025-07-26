@@ -1,5 +1,0 @@
-### Introduction to Hierarchy
-- Classification involves *a hierarchy of ranks*.
-- Each level is called a *taxonomic category*.
-- Together, they form the *taxonomic hierarchy*.
-

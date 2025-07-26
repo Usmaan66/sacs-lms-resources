@@ -1,6 +1,0 @@
-### Classification
-- *Classification*: Grouping organisms based on observable features.
-- Examples of common groups: Dogs, Cats, Mammals, Plants.
-- Such groups are called *taxa* (singular: taxon).
-- Each taxon represents a certain rank or category.
-

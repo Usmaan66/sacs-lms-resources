@@ -1,7 +1,0 @@
-### 1.2.4 Order
-- Group of *related families*.
-- Fewer common characters compared to family.
-- Examples:
-  - Plants: Families Convolvulaceae, Solanaceae → Order: *Polymoniales*
-  - Animals: Families Felidae, Canidae → Order: *Carnivora*
-

@@ -1,7 +1,0 @@
-### 1.2.3 Family
-- Group of *related genera*.
-- Based on both *vegetative and reproductive features*.
-- Examples:
-  - Plants: Solanum, Petunia, Datura → Family: *Solanaceae*
-  - Animals: Panthera, Felis → Family: *Felidae*
-

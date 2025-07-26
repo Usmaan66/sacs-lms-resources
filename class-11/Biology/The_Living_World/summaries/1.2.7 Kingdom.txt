@@ -1,7 +1,0 @@
-### 1.2.7 Kingdom
-- *Highest category* in the hierarchy.
-- Includes all *phyla* (animals) or *divisions* (plants).
-- Example:
-  - Kingdom *Animalia*: all animals
-  - Kingdom *Plantae*: all plants
-
