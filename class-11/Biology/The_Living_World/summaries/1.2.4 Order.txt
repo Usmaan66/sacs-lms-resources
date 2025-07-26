@@ -1,0 +1,9 @@
+### 1.2.4 Order
+- Categories like species, genus, and families are based on a number of similar characters.
+- **Order** and other higher taxonomic categories are generally identified based on the **aggregates of characters**.
+- Order is a higher category that is an assemblage of families exhibiting a few similar characters.
+- The similar characters are fewer in number compared to different genera included in a family.
+- Examples:
+    - Plant families like Convolvulaceae and Solanaceae are included in the order **Polymoniales**, mainly based on floral characters.
+    - The animal order **Carnivora** includes families like Felidae and Canidae.
+

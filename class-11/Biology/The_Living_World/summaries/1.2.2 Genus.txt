@@ -1,0 +1,8 @@
+### 1.2.2 Genus
+- A **Genus** comprises a group of related species that have more characters in common compared to species of other genera.
+- Genera are aggregates of closely related species.
+- Examples:
+    - Potato and brinjal are different species but both belong to the genus *Solanum*.
+    - Lion (*Panthera leo*), leopard (*P. pardus*), and tiger (*P. tigris*) share common features and are all species of the genus *Panthera*.
+    - The genus *Panthera* differs from the genus *Felis*, which includes cats.
+

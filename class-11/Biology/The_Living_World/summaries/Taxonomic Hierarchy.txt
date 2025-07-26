@@ -1,0 +1,21 @@
+### Taxonomic Hierarchy
+- The taxonomic categories from species to kingdom are arranged in **ascending order** (Figure 1.1).
+- Taxonomists have also developed sub-categories within this hierarchy for more sound and scientific placement of taxa.
+- As we go higher from species to kingdom, the number of **common characteristics goes on decreasing**.
+- **Lower the taxa, more are the characteristics that the members within the taxon share.**
+- **Higher the category, greater is the difficulty of determining the relationship to other taxa at the same level.**
+- This makes the problem of classification more complex.
+
+$$
+\text{Species} \uparrow \text{Genus} \uparrow \text{Family} \uparrow \text{Order} \uparrow \text{Class} \uparrow \text{Phylum/Division} \uparrow \text{Kingdom}
+$$
+
+**Table 1.1 Organisms with their Taxonomic Categories**
+
+| Common Name | Biological Name | Genus | Family | Order | Class | Phylum/Division |
+|---|---|---|---|---|---|---|
+| Man | *Homo sapiens* | *Homo* | Hominidae | Primata | Mammalia | Chordata |
+| Housefly | *Musca domestica* | *Musca* | Muscidae | Diptera | Insecta | Arthropoda |
+| Mango | *Mangifera indica* | *Mangifera* | Anacardiaceae | Sapindales | Dicotyledonae | Angiospermae |
+| Wheat | *Triticum aestivum* | *Triticum* | Poaceae | Poales | Monocotyledonae | Angiospermae |
+

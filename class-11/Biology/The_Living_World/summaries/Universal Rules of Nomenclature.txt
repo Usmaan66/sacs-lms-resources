@@ -1,0 +1,22 @@
+### Universal Rules of Nomenclature
+- Biological names are generally in **Latin** and written in **italics**. They are Latinized or derived from Latin, regardless of their origin.
+- The first word in a biological name represents the **genus**, while the second component denotes the **specific epithet**.
+- When handwritten, both words in a biological name are separately **underlined**. When printed, they are in **italics** to indicate their Latin origin.
+- The first word (genus) starts with a **capital letter**, while the specific epithet starts with a **small letter**.
+- Example: *Mangifera indica*.
+- The name of the author appears after the specific epithet, at the end of the biological name, in an abbreviated form.
+- Example: *Mangifera indica Linn.* indicates that Linnaeus first described this species.
+- Since it's nearly impossible to study all living organisms, a means to make this possible is necessary. This process is called **classification**.
+- **Classification** is the process by which anything is grouped into convenient categories based on some easily observable characters.
+- Examples of such groups are plants, animals, dogs, cats, or insects. When we use these terms, we associate certain characters with the organisms in that group (e.g., "mammals" brings to mind animals with external ears and body hair).
+- These convenient categories used to study organisms (e.g., 'Dogs', 'Cats', 'Mammals', 'Wheat', 'Rice', 'Plants', 'Animals') are scientifically termed **taxa** (singular: taxon).
+- Taxa can indicate categories at very different levels (e.g., 'Plants' is a taxa, 'Wheat' is a taxa). 'Animals', 'mammals', and 'dogs' are all taxa, but they represent taxa at different levels (a dog is a mammal, mammals are animals).
+- Based on characteristics, all living organisms can be classified into different taxa. This process of classification is **taxonomy**.
+- Modern taxonomic studies are based on external and internal structure, cell structure, development process, and ecological information of organisms.
+- Therefore, **characterisation**, **identification**, **classification**, and **nomenclature** are the basic processes of taxonomy.
+- Taxonomy is not new; humans have always been interested in knowing about various kinds of organisms, especially for their own use (food, clothing, shelter). The earliest classifications were based on the 'uses' of various organisms.
+- Humans were also interested in the relationships among different kinds of organisms and their diversities. This branch of study was referred to as **systematics**.
+- The word 'systematics' is derived from the Latin word 'systema', meaning systematic arrangement of organisms.
+- Linnaeus used *Systema Naturae* as the title of his publication.
+- The scope of systematics was later broadened to include identification, nomenclature, and classification. Systematics considers evolutionary relationships between organisms.
+

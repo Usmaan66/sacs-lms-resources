@@ -1,0 +1,15 @@
+### 1.2.1 Species
+- Taxonomic studies consider a group of individual organisms with fundamental similarities as a **species**.
+- One can distinguish one species from another closely related species based on distinct **morphological differences**.
+- Examples:
+    - *Mangifera indica* (mango)
+    - *Solanum tuberosum* (potato)
+    - *Panthera leo* (lion)
+- In these names, *indica*, *tuberosum*, and *leo* are the **specific epithets**.
+- *Mangifera*, *Solanum*, and *Panthera* are the **genera**, representing a higher level of taxon or category.
+- Each genus may have one or more specific epithets representing different organisms, but with morphological similarities.
+- Examples:
+    - Genus *Panthera* also includes *tigris* (tiger).
+    - Genus *Solanum* includes species like *nigrum* and *melongena*.
+- Human beings belong to the species *sapiens*, which is grouped in the genus *Homo*. The scientific name for human beings is *Homo sapiens*.
+

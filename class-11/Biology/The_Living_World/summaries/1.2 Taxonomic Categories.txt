@@ -1,0 +1,10 @@
+## 1.2 Taxonomic Categories
+- Classification is not a single-step process but involves a **hierarchy of steps**, where each step represents a **rank** or **category**.
+- Since a category is part of the overall taxonomic arrangement, it is called a **taxonomic category**. All categories together constitute the **taxonomic hierarchy**.
+- Each category, referred to as a unit of classification, represents a rank and is commonly termed as **taxon** (plural: taxa).
+- Insects, for example, represent a group with common features (three pairs of jointed legs) and can be classified, thus given a rank or category.
+- Taxonomic groups/categories are distinct biological entities, not just morphological aggregates.
+- Taxonomical studies have led to common categories such as **kingdom**, **phylum** or **division** (for plants), **class**, **order**, **family**, **genus**, and **species**.
+- **Species** is the lowest category for all organisms, including plants and animals.
+- Placing an organism in various categories requires knowledge of its individual or group characteristics, which helps identify similarities and dissimilarities.
+

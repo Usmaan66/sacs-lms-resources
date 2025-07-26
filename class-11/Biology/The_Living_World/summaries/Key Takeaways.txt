@@ -1,0 +1,11 @@
+### Key Takeaways:
+- **Taxonomic categories** form a hierarchy, from species (lowest) to kingdom (highest).
+- Each category (taxon) represents a unit of classification.
+- Moving up the hierarchy, the number of shared common characteristics decreases.
+- **Species**: group of individuals with fundamental similarities and distinct morphological differences.
+- **Genus**: group of related species with more common characters than species of other genera.
+- **Family**: group of related genera with fewer similarities than genus and species.
+- **Order**: assemblage of families with a few similar characters.
+- **Class**: includes related orders.
+- **Phylum/Division**: comprises related classes (Phylum for animals, Division for plants).
+- **Kingdom**: highest category, grouping various phyla/divisions.
