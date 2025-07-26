@@ -1,0 +1,7 @@
+### Nomenclature
+- *Nomenclature*: Standardized naming of organisms.
+- *Identification*: Determining the correct name of an organism.
+- *Scientific names* are given based on international codes:
+  - For plants: *ICBN* (International Code for Botanical Nomenclature)
+  - For animals: *ICZN* (International Code for Zoological Nomenclature)
+

@@ -1,0 +1,4 @@
+### 1.2.5 Class
+- Group of *related orders*.
+- Example: Orders Primata (monkeys) and Carnivora (tiger, cat, dog) → Class: *Mammalia*
+

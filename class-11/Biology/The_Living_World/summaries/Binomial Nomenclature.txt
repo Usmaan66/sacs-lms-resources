@@ -1,0 +1,8 @@
+### Binomial Nomenclature
+- Introduced by *Carolus Linnaeus*.
+- Each name has *two parts*:
+  - *Genus*: First word (capitalized)
+  - *Specific epithet*: Second word (lowercase)
+- Written in *italics* (or underlined when handwritten), e.g., Mangifera indica.
+- Author’s name may follow, e.g., Mangifera indica Linn.
+

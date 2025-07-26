@@ -1,0 +1,5 @@
+### 1.2.6 Phylum (Animals) / Division (Plants)
+- Group of *related classes*.
+- Example (Animals): Mammalia, Reptilia, Amphibia, Aves, Pisces → Phylum: *Chordata*
+- Example (Plants): Classes grouped into *Divisions* like Angiospermae
+

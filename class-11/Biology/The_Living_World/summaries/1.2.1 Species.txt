@@ -1,0 +1,5 @@
+### 1.2.1 Species
+- Basic unit of classification.
+- A group of organisms with *similar structure* and ability to interbreed.
+- Example: Homo sapiens (humans), Panthera leo (lion), Solanum tuberosum (potato)
+

@@ -1,0 +1,8 @@
+## Summary
+
+- The living world shows immense diversity, requiring classification for systematic study.
+- *Taxonomy* helps in naming, identifying, and classifying organisms based on shared characteristics.
+- *Binomial nomenclature* assigns each species a unique scientific name.
+- Organisms are classified into categories: *Species, Genus, Family, Order, Class, Phylum/Division, and Kingdom*.
+- Higher the category, fewer the shared features; lower the category, more the similarities.
+- Taxonomy supports scientific communication and understanding of biodiversity.

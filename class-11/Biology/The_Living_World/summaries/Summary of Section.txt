@@ -1,0 +1,8 @@
+#### Summary of Section
+- Taxonomy classifies organisms in a hierarchical structure.
+- Each category is a *rank*, and together they make a hierarchy.
+- As we move *up* the hierarchy, organisms share *fewer characteristics*.
+- Taxonomic classification is based on *morphological, anatomical, cellular, and ecological* traits.
+
+---
+

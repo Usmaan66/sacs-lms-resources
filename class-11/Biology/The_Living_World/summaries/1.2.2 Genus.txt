@@ -1,0 +1,5 @@
+### 1.2.2 Genus
+- A group of *related species* with common features.
+- Example: Panthera includes P. leo (lion), P. tigris (tiger), P. pardus (leopard)
+- Solanum includes species like S. tuberosum, S. melongena, S. nigrum
+
