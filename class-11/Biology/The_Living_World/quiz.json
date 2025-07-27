@@ -1,172 +1,242 @@
 [
   {
     "id": 1,
-    "question": "Which of the following laws is used in the determination of the empirical formula of a compound?",
-    "options": ["Law of conservation of mass", "Law of multiple proportions", "Law of constant proportions", "Law of reciprocal proportions"],
-    "correctAnswer": 2,
-    "explanation": "The law of constant proportions states that a chemical compound always contains its component elements in fixed ratio by mass."
+    "question": "What is the science that deals with life forms and living processes?",
+    "options": [
+      "Geology",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biology is defined as the science of life forms and living processes."
   },
   {
     "id": 2,
-    "question": "Which of the following is not a SI base unit?",
-    "options": ["Kilogram", "Mole", "Calorie", "Second"],
-    "correctAnswer": 2,
-    "explanation": "Calorie is a unit of energy but not a SI unit; the SI unit of energy is joule."
+    "question": "What is the approximate range of known and described species on Earth?",
+    "options": [
+      "0.5-1.0 million",
+      "1.7-1.8 million",
+      "2.0-2.5 million",
+      "3.0-3.5 million"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The number of species that are known and described ranges between 1.7-1.8 million."
   },
   {
     "id": 3,
-    "question": "What is the molar mass of glucose (C₆H₁₂O₆)?",
-    "options": ["180 g/mol", "120 g/mol", "160 g/mol", "140 g/mol"],
-    "correctAnswer": 0,
-    "explanation": "Molar mass = (6×12) + (12×1) + (6×16) = 180 g/mol."
+    "question": "Which process standardizes the naming of living organisms so that a particular organism is known by the same name all over the world?",
+    "options": [
+      "Identification",
+      "Classification",
+      "Nomenclature",
+      "Systematics"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nomenclature is the process to standardise the naming of living organisms such that a particular organism is known by the same name all over the world."
   },
   {
     "id": 4,
-    "question": "Which of the following statements is true about Dalton's atomic theory?",
+    "question": "The scientific names for plants are based on principles and criteria provided in which international code?",
     "options": [
-      "Atoms can be divided into subatomic particles.",
-      "Atoms of different elements have the same mass.",
-      "Atoms combine in simple whole-number ratios to form compounds.",
-      "Atoms can be created or destroyed."
+      "ICZN",
+      "ICBN",
+      "ICNP",
+      "ICVCN"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dalton's theory proposed that atoms combine in simple whole-number ratios to form compounds."
+    "correctAnswer": 1,
+    "explanation": "For plants, scientific names are based on agreed principles and criteria, which are provided in International Code for Botanical Nomenclature (ICBN)."
   },
   {
     "id": 5,
-    "question": "One mole of any substance contains:",
-    "options": ["6.022 × 10²³ molecules", "1 gram of atoms", "6.022 × 10¹⁰ particles", "1000 particles"],
-    "correctAnswer": 0,
-    "explanation": "Avogadro's number is 6.022 × 10²³, which represents one mole of particles."
+    "question": "Who gave the system of Binomial Nomenclature?",
+    "options": [
+      "Ernst Mayr",
+      "Carolus Linnaeus",
+      "Charles Darwin",
+      "Gregor Mendel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This naming system given by Carolus Linnaeus is being practised by biologists all over the world."
   },
   {
     "id": 6,
-    "question": "Which of the following has the maximum number of atoms?",
-    "options": ["18 g of water", "32 g of oxygen", "2 moles of hydrogen", "1 mole of methane"],
+    "question": "In the scientific name *Mangifera indica*, what does 'indica' represent?",
+    "options": [
+      "Genus",
+      "Family",
+      "Specific epithet",
+      "Order"
+    ],
     "correctAnswer": 2,
-    "explanation": "2 moles of H₂ = 2 × 6.022 × 10²³ molecules = 4.044 × 10²³ atoms (as each H₂ has 2 atoms)."
+    "explanation": "In the name *Mangifera indica*, *Mangifera* represents the genus while *indica*, is a particular species, or a specific epithet."
   },
   {
     "id": 7,
-    "question": "What is the empirical formula of glucose (C₆H₁₂O₆)?",
-    "options": ["C₂H₄O₂", "CH₂O", "C₃H₆O₃", "C₆H₁₂O₆"],
+    "question": "According to universal rules of nomenclature, how are biological names generally written?",
+    "options": [
+      "In bold and underlined",
+      "In Latin and written in italics",
+      "In English and capitalized",
+      "In any language and italicized"
+    ],
     "correctAnswer": 1,
-    "explanation": "The empirical formula is the simplest whole-number ratio of atoms, which for glucose is CH₂O."
+    "explanation": "Biological names are generally in Latin and written in italics."
   },
   {
     "id": 8,
-    "question": "Which of the following represents Avogadro’s number?",
-    "options": ["6.022 × 10²³", "3.014 × 10²²", "1.008 × 10²⁴", "9.109 × 10⁻³¹"],
-    "correctAnswer": 0,
-    "explanation": "Avogadro’s number is 6.022 × 10²³ particles per mole."
+    "question": "What is the scientific term for convenient categories used to study organisms, such as 'Dogs', 'Cats', or 'Plants'?",
+    "options": [
+      "Groups",
+      "Classes",
+      "Taxa",
+      "Species"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The scientific term for these categories is taxa."
   },
   {
     "id": 9,
-    "question": "The limiting reagent is the substance:",
+    "question": "What are the basic processes fundamental to taxonomy?",
     "options": [
-      "That is in excess",
-      "That determines the amount of product formed",
-      "That reacts last",
-      "That does not participate in reaction"
+      "Observation and Experimentation",
+      "Characterisation, Identification, Classification, and Nomenclature",
+      "Analysis and Synthesis",
+      "Hypothesis and Theory formation"
     ],
     "correctAnswer": 1,
-    "explanation": "Limiting reagent limits the amount of product that can be formed in a chemical reaction."
+    "explanation": "Hence, characterisation, identification, classification and nomenclature are the processes that are basic to taxonomy."
   },
   {
     "id": 10,
-    "question": "Which of the following is a correct representation of molarity?",
+    "question": "What is the meaning of the Latin word 'systema', from which the term 'systematics' is derived?",
     "options": [
-      "mol/kg",
-      "mol/L",
-      "g/L",
-      "mol/mL"
+      "Study of life",
+      "Systematic arrangement of organisms",
+      "Classification of species",
+      "Diversity of organisms"
     ],
     "correctAnswer": 1,
-    "explanation": "Molarity is defined as number of moles of solute per litre of solution (mol/L)."
+    "explanation": "The word systematics is derived from the Latin word 'systema' which means systematic arrangement of organisms."
   },
   {
     "id": 11,
-    "question": "Calculate the number of moles in 22 grams of CO₂ (Molar mass = 44 g/mol).",
-    "options": ["0.5 mol", "1 mol", "2 mol", "0.25 mol"],
-    "correctAnswer": 0,
-    "explanation": "Moles = mass / molar mass = 22 / 44 = 0.5 mol."
+    "question": "Who was referred to as 'The Darwin of the 20th century'?",
+    "options": [
+      "Carolus Linnaeus",
+      "Ernst Mayr",
+      "Charles Darwin",
+      "Alfred Russel Wallace"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ERNST MAYR, the Harvard University evolutionary biologist who has been called 'The Darwin of the $20^{th}$ century', was one of the 100 greatest scientists of all time."
   },
   {
     "id": 12,
-    "question": "How many molecules are there in 1 mole of a substance?",
-    "options": ["6.022 × 10²²", "6.022 × 10²³", "6.022 × 10²⁴", "1 × 10²⁰"],
-    "correctAnswer": 1,
-    "explanation": "1 mole = 6.022 × 10²³ entities (atoms, molecules, etc.)."
+    "question": "Which taxonomic category is considered the lowest for all organisms?",
+    "options": [
+      "Genus",
+      "Family",
+      "Species",
+      "Order"
+    ],
+    "correctAnswer": 2,
+    "explanation": "All organisms, including those in the plant and animal kingdoms have species as the lowest category."
   },
   {
     "id": 13,
-    "question": "What is the percentage of hydrogen in water (H₂O)?",
-    "options": ["11.1%", "66.6%", "22.2%", "88.9%"],
-    "correctAnswer": 0,
-    "explanation": "Mass of 2 H = 2, mass of O = 16, total = 18 → (2/18)×100 = 11.1%."
+    "question": "What does a 'genus' comprise?",
+    "options": [
+      "A group of unrelated species",
+      "A single species with many variations",
+      "A group of related species with more common characters",
+      "A group of organisms with only morphological differences"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera."
   },
   {
     "id": 14,
-    "question": "Which among the following is a physical quantity with no unit?",
-    "options": ["Specific heat", "Refractive index", "Molarity", "Density"],
-    "correctAnswer": 1,
-    "explanation": "Refractive index is the ratio of speeds and has no unit."
+    "question": "Which family includes both the genus *Panthera* (lion, tiger, leopard) and the genus *Felis* (cats)?",
+    "options": [
+      "Canidae",
+      "Solanaceae",
+      "Felidae",
+      "Hominidae"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Among animals for example, genus Panthera, comprising lion, tiger, leopard is put along with genus, Felis (cats) in the family Felidae."
   },
   {
     "id": 15,
-    "question": "Which of the following is a correct pair?",
+    "question": "Which order includes the families Felidae and Canidae?",
     "options": [
-      "Molar volume – 6.022 × 10²³",
-      "Avogadro’s number – 22.4 L",
-      "1 mole of gas at STP – 22.4 L",
-      "1 mole of Na – 12 g"
+      "Primata",
+      "Polymoniales",
+      "Carnivora",
+      "Sapindales"
     ],
     "correctAnswer": 2,
-    "explanation": "At STP, 1 mole of any ideal gas occupies 22.4 L."
+    "explanation": "The animal order, Carnivora, includes families like Felidae and Canidae."
   },
   {
     "id": 16,
-    "question": "In a chemical reaction, 10 g of A reacts with 5 g of B to form 13 g of C. This is an example of:",
-    "options": ["Law of constant proportion", "Law of multiple proportion", "Law of conservation of mass", "Law of reciprocal proportion"],
+    "question": "What is the scientific name for humans?",
+    "options": [
+      "Musca domestica",
+      "Mangifera indica",
+      "Homo sapiens",
+      "Triticum aestivum"
+    ],
     "correctAnswer": 2,
-    "explanation": "Total mass of reactants = total mass of products, illustrating the law of conservation of mass."
+    "explanation": "Human beings belong to the species sapiens which is grouped in the genus Homo. The scientific name thus, for human being, is written as Homo sapiens."
   },
   {
     "id": 17,
-    "question": "Which one of the following is NOT a correct statement?",
+    "question": "As we go higher from species to kingdom in the taxonomic hierarchy, what happens to the number of common characteristics?",
     "options": [
-      "Mole is the amount of substance.",
-      "1 mole of H₂O has 6.022 × 10²³ molecules.",
-      "Empirical formula gives actual number of atoms.",
-      "1 mole of a substance contains Avogadro’s number of particles."
+      "It increases",
+      "It remains the same",
+      "It goes on decreasing",
+      "It fluctuates unpredictably"
     ],
     "correctAnswer": 2,
-    "explanation": "Empirical formula gives the simplest whole-number ratio, not actual atom count."
+    "explanation": "Say, for example, as we go higher from species to kingdom, the number of common characteristics goes on decreasing."
   },
   {
     "id": 18,
-    "question": "Which of these expresses the law of definite proportions?",
+    "question": "Which class includes orders like Primata (monkey, gorilla, gibbon) and Carnivora (tiger, cat, dog)?",
     "options": [
-      "The same elements can combine in different ratios to form different compounds.",
-      "Mass can neither be created nor destroyed.",
-      "A chemical compound always contains the same elements in fixed ratio by mass.",
-      "Elements combine in the ratio of small whole numbers."
+      "Insecta",
+      "Mammalia",
+      "Dicotyledonae",
+      "Monocotyledonae"
     ],
-    "correctAnswer": 2,
-    "explanation": "Law of definite proportions states a compound has elements in a fixed mass ratio."
+    "correctAnswer": 1,
+    "explanation": "For example, order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia along with order Carnivora that includes animals like tiger, cat and dog."
   },
   {
     "id": 19,
-    "question": "Which of the following is a derived SI unit?",
-    "options": ["Kilogram", "Ampere", "Newton", "Mole"],
+    "question": "What is the highest category in the classification system for animals?",
+    "options": [
+      "Phylum",
+      "Class",
+      "Kingdom Animalia",
+      "Family"
+    ],
     "correctAnswer": 2,
-    "explanation": "Newton is a derived unit of force (kg·m/s²)."
+    "explanation": "All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia in the classification system of animals."
   },
   {
     "id": 20,
-    "question": "Which of the following is not a fundamental quantity?",
-    "options": ["Temperature", "Amount of substance", "Volume", "Electric current"],
-    "correctAnswer": 2,
-    "explanation": "Volume is a derived quantity (length³), not a fundamental one."
+    "question": "What common features are used to include fishes, amphibians, reptiles, birds, and mammals in the phylum Chordata?",
+    "options": [
+      "Presence of exoskeleton and jointed legs",
+      "Presence of notochord and dorsal hollow neural system",
+      "Presence of scales and fins",
+      "Presence of feathers and wings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "All these, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum Chordata."
   }
 ]
