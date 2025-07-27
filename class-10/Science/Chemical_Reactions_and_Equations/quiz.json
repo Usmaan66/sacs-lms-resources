@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "question": "What type of reaction is the rusting of iron?",
+    "options": ["Decomposition", "Combination", "Redox", "Double displacement"],
+    "correctAnswer": 2,
+    "explanation": "Rusting involves both oxidation and reduction, making it a redox reaction."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a balanced chemical equation?",
+    "options": [
+      "Mg + HCl → MgCl₂ + H₂",
+      "H₂ + O₂ → H₂O",
+      "Ca + Cl₂ → CaCl₂",
+      "Na + O₂ → Na₂O"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ca + Cl₂ → CaCl₂ is already balanced with one atom of calcium and two atoms of chlorine."
+  },
+  {
+    "id": 3,
+    "question": "Which gas is evolved when hydrochloric acid reacts with zinc?",
+    "options": ["Oxygen", "Hydrogen", "Chlorine", "Nitrogen"],
+    "correctAnswer": 1,
+    "explanation": "Zinc reacts with HCl to form ZnCl₂ and hydrogen gas: Zn + 2HCl → ZnCl₂ + H₂."
+  },
+  {
+    "id": 4,
+    "question": "What does a chemical equation represent?",
+    "options": [
+      "The physical state of substances",
+      "Only the products",
+      "Only the reactants",
+      "A chemical reaction using symbols and formulas"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A chemical equation uses symbols and formulas to represent reactants and products in a chemical reaction."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a decomposition reaction?",
+    "options": [
+      "2H₂ + O₂ → 2H₂O",
+      "2KClO₃ → 2KCl + 3O₂",
+      "AgNO₃ + NaCl → AgCl + NaNO₃",
+      "Zn + H₂SO₄ → ZnSO₄ + H₂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2KClO₃ → 2KCl + 3O₂ is a decomposition reaction where a compound breaks down into simpler substances."
+  },
+  {
+    "id": 6,
+    "question": "What type of chemical reaction is 2H₂ + O₂ → 2H₂O?",
+    "options": ["Combination", "Displacement", "Decomposition", "Redox"],
+    "correctAnswer": 0,
+    "explanation": "Two reactants combine to form a single product, which is a combination reaction."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following represents a redox reaction?",
+    "options": [
+      "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl",
+      "HCl + NaOH → NaCl + H₂O",
+      "CaCO₃ → CaO + CO₂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zn is oxidized and Cu²⁺ is reduced, indicating a redox reaction."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a displacement reaction?",
+    "options": [
+      "H₂ + Cl₂ → 2HCl",
+      "Zn + H₂SO₄ → ZnSO₄ + H₂",
+      "CaCO₃ → CaO + CO₂",
+      "AgNO₃ + NaCl → AgCl + NaNO₃"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zn displaces hydrogen from H₂SO₄, which is a displacement reaction."
+  },
+  {
+    "id": 9,
+    "question": "Which chemical reaction shows precipitation?",
+    "options": [
+      "NaOH + HCl → NaCl + H₂O",
+      "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl",
+      "C + O₂ → CO₂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "BaSO₄ is an insoluble white precipitate formed in the reaction."
+  },
+  {
+    "id": 10,
+    "question": "What happens to the blue color of copper sulfate when iron is added?",
+    "options": [
+      "Color intensifies",
+      "Color changes to red",
+      "Color fades",
+      "No change"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron displaces copper, causing the blue color of CuSO₄ solution to fade."
+  },
+  {
+    "id": 11,
+    "question": "Which reaction is an example of thermal decomposition?",
+    "options": [
+      "Zn + HCl → ZnCl₂ + H₂",
+      "CaCO₃ → CaO + CO₂",
+      "H₂ + Cl₂ → 2HCl",
+      "NaOH + HCl → NaCl + H₂O"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CaCO₃ decomposes into CaO and CO₂ upon heating — a thermal decomposition."
+  },
+  {
+    "id": 12,
+    "question": "What is the product formed when magnesium is burned in air?",
+    "options": ["MgO", "Mg(OH)₂", "MgCl₂", "MgCO₃"],
+    "correctAnswer": 0,
+    "explanation": "Magnesium reacts with oxygen to form magnesium oxide: 2Mg + O₂ → 2MgO."
+  },
+  {
+    "id": 13,
+    "question": "In which type of reaction are heat and light usually released?",
+    "options": ["Endothermic", "Combination", "Exothermic", "Neutralization"],
+    "correctAnswer": 2,
+    "explanation": "Exothermic reactions release heat and sometimes light during the reaction."
+  },
+  {
+    "id": 14,
+    "question": "What is observed when silver chloride is exposed to sunlight?",
+    "options": [
+      "Turns green",
+      "No change",
+      "Turns black",
+      "Turns red"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Silver chloride decomposes to silver and chlorine gas in sunlight, turning black."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following does NOT represent a balanced equation?",
+    "options": [
+      "H₂ + Cl₂ → 2HCl",
+      "C + O₂ → CO₂",
+      "N₂ + 3H₂ → 2NH₃",
+      "Fe + H₂O → Fe₃O₄ + H₂"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fe + H₂O → Fe₃O₄ + H₂ is not balanced as written and needs balancing."
+  },
+  {
+    "id": 16,
+    "question": "Which is the correct balanced form of: Al + O₂ → Al₂O₃?",
+    "options": [
+      "2Al + O₂ → Al₂O₃",
+      "4Al + 3O₂ → 2Al₂O₃",
+      "3Al + 2O₂ → Al₃O₄",
+      "2Al + 3O₂ → 2Al₃O₂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Balanced reaction: 4Al + 3O₂ → 2Al₂O₃."
+  },
+  {
+    "id": 17,
+    "question": "What type of reaction is: AgNO₃ + NaCl → AgCl + NaNO₃?",
+    "options": [
+      "Displacement",
+      "Combination",
+      "Decomposition",
+      "Double displacement"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ions are exchanged between two compounds, making it a double displacement reaction."
+  },
+  {
+    "id": 18,
+    "question": "What is the characteristic of a redox reaction?",
+    "options": [
+      "Only oxidation occurs",
+      "Only reduction occurs",
+      "Oxidation and reduction occur simultaneously",
+      "No change in oxidation states"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Redox reactions involve simultaneous oxidation and reduction."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a chemical change?",
+    "options": [
+      "Melting of ice",
+      "Evaporation of water",
+      "Rusting of iron",
+      "Breaking of glass"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rusting is a chemical change where new substances like iron oxide are formed."
+  },
+  {
+    "id": 20,
+    "question": "In a balanced chemical equation, the total mass of reactants is equal to the total mass of products due to:",
+    "options": [
+      "Law of conservation of energy",
+      "Law of constant proportion",
+      "Law of conservation of mass",
+      "Law of multiple proportions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction."
+  }
+]
