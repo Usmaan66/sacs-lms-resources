@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the author of 'The Spirit of Laws'?",
+    "options": ["Voltaire", "Jean-Paul Marat", "Montesquieu", "Rousseau"],
+    "correctAnswer": 2,
+    "explanation": "Montesquieu wrote 'The Spirit of Laws', which inspired the idea of separation of powers in modern democracies."
+  },
+  {
+    "id": 2,
+    "question": "Which revolution led to the emergence of nationalism in Europe?",
+    "options": ["Russian Revolution", "French Revolution", "Industrial Revolution", "American Revolution"],
+    "correctAnswer": 1,
+    "explanation": "The French Revolution of 1789 introduced ideas of liberty, equality, and fraternity, inspiring nationalism across Europe."
+  },
+  {
+    "id": 3,
+    "question": "Which colours were chosen for the French national flag after the revolution?",
+    "options": ["Red, White, Blue", "Green, White, Red", "Blue, Yellow, Red", "Black, White, Red"],
+    "correctAnswer": 0,
+    "explanation": "The tricolour—Red, White, and Blue—became the national flag of France symbolizing the values of the revolution."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following personalities is associated with the unification of Germany?",
+    "options": ["Bismarck", "Mazzini", "Cavour", "Garibaldi"],
+    "correctAnswer": 0,
+    "explanation": "Otto von Bismarck led the unification of Germany through a series of wars and diplomatic strategies."
+  },
+  {
+    "id": 5,
+    "question": "Who was Giuseppe Mazzini?",
+    "options": ["King of Italy", "A German statesman", "Italian revolutionary", "Leader of the French Revolution"],
+    "correctAnswer": 2,
+    "explanation": "Mazzini was an Italian nationalist who founded 'Young Italy' and believed in a unified republic."
+  },
+  {
+    "id": 6,
+    "question": "What was the main objective of the Treaty of Vienna (1815)?",
+    "options": ["To divide Africa", "To restore monarchies in Europe", "To declare war on France", "To form the League of Nations"],
+    "correctAnswer": 1,
+    "explanation": "The Treaty of Vienna aimed to restore monarchies and redraw the map of Europe after Napoleon's defeat."
+  },
+  {
+    "id": 7,
+    "question": "Which class of people carried out the unification of Germany?",
+    "options": ["Working Class", "Farmers", "Middle Class", "Prussian Army and Aristocracy"],
+    "correctAnswer": 3,
+    "explanation": "The unification of Germany was led by the Prussian army and aristocracy under Bismarck’s leadership."
+  },
+  {
+    "id": 8,
+    "question": "Which female allegory represented France?",
+    "options": ["Bharat Mata", "Germania", "Marianne", "Liberty"],
+    "correctAnswer": 2,
+    "explanation": "Marianne was used as the national symbol of France, representing liberty and reason."
+  },
+  {
+    "id": 9,
+    "question": "The Frankfurt Parliament was convened in which year?",
+    "options": ["1848", "1830", "1871", "1815"],
+    "correctAnswer": 0,
+    "explanation": "The Frankfurt Parliament was convened in 1848 to frame a constitution for a united Germany."
+  },
+  {
+    "id": 10,
+    "question": "What was the Zollverein?",
+    "options": ["A revolutionary group", "A customs union", "A new monarchy", "An Italian kingdom"],
+    "correctAnswer": 1,
+    "explanation": "Zollverein was a customs union formed among German states to facilitate trade and economic unity."
+  },
+  {
+    "id": 11,
+    "question": "Who played a key role in the unification of Italy?",
+    "options": ["Napoleon", "Garibaldi", "Hitler", "Louis XVI"],
+    "correctAnswer": 1,
+    "explanation": "Garibaldi led military campaigns and played a major role in the unification of southern Italy."
+  },
+  {
+    "id": 12,
+    "question": "What did the allegory of Germania symbolize?",
+    "options": ["France", "Unity of Germany", "Monarchy", "Italy"],
+    "correctAnswer": 1,
+    "explanation": "Germania was used as an allegory to represent the unity and spirit of the German nation."
+  },
+  {
+    "id": 13,
+    "question": "Which event is known as the 'Spring of Nations'?",
+    "options": ["American Revolution", "Industrial Revolution", "Revolutions of 1848", "Napoleonic Wars"],
+    "correctAnswer": 2,
+    "explanation": "The 1848 Revolutions across Europe were called the 'Spring of Nations' for their nationalist spirit."
+  },
+  {
+    "id": 14,
+    "question": "Which country led the movement for Italian unification?",
+    "options": ["France", "Germany", "Prussia", "Piedmont-Sardinia"],
+    "correctAnswer": 3,
+    "explanation": "Piedmont-Sardinia under King Victor Emmanuel II played a crucial role in the unification of Italy."
+  },
+  {
+    "id": 15,
+    "question": "What did liberalism stand for in the 19th-century Europe?",
+    "options": ["Monarchical rule", "Freedom for individual and equality before law", "Colonialism", "Religious control"],
+    "correctAnswer": 1,
+    "explanation": "Liberalism emphasized individual rights, liberty, equality before law, and representative government."
+  },
+  {
+    "id": 16,
+    "question": "Which revolution in Europe abolished monarchy and established a republic?",
+    "options": ["Italian Revolution", "American Revolution", "French Revolution", "Russian Revolution"],
+    "correctAnswer": 2,
+    "explanation": "The French Revolution of 1789 led to the abolition of monarchy and establishment of a republic."
+  },
+  {
+    "id": 17,
+    "question": "Who was proclaimed the German Emperor in 1871?",
+    "options": ["Frederick William IV", "Otto von Bismarck", "William I of Prussia", "Napoleon III"],
+    "correctAnswer": 2,
+    "explanation": "William I of Prussia was proclaimed the German Emperor after the unification of Germany in 1871."
+  },
+  {
+    "id": 18,
+    "question": "Which among the following was not a result of nationalism in 19th-century Europe?",
+    "options": ["Formation of nation-states", "Rise of democracy", "Disintegration of empires", "Globalization"],
+    "correctAnswer": 3,
+    "explanation": "Globalization was not a direct result of 19th-century European nationalism; it emerged much later."
+  },
+  {
+    "id": 19,
+    "question": "In which battle was Napoleon finally defeated?",
+    "options": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"],
+    "correctAnswer": 2,
+    "explanation": "Napoleon was defeated at the Battle of Waterloo in 1815, marking the end of his rule."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following groups benefited the most from the French Revolution?",
+    "options": ["Nobility", "Clergy", "Middle Class", "Monarchy"],
+    "correctAnswer": 2,
+    "explanation": "The Middle Class gained political and economic power after the fall of the monarchy during the French Revolution."
+  }
+]
