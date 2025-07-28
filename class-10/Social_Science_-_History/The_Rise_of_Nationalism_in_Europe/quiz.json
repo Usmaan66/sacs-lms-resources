@@ -1,142 +1,172 @@
 [
   {
     "id": 1,
-    "question": "Who was the author of 'The Spirit of Laws'?",
-    "options": ["Voltaire", "Jean-Paul Marat", "Montesquieu", "Rousseau"],
+    "question": "Which of the following laws is used in the determination of the empirical formula of a compound?",
+    "options": ["Law of conservation of mass", "Law of multiple proportions", "Law of constant proportions", "Law of reciprocal proportions"],
     "correctAnswer": 2,
-    "explanation": "Montesquieu wrote 'The Spirit of Laws', which inspired the idea of separation of powers in modern democracies."
+    "explanation": "The law of constant proportions states that a chemical compound always contains its component elements in fixed ratio by mass."
   },
   {
     "id": 2,
-    "question": "Which revolution led to the emergence of nationalism in Europe?",
-    "options": ["Russian Revolution", "French Revolution", "Industrial Revolution", "American Revolution"],
-    "correctAnswer": 1,
-    "explanation": "The French Revolution of 1789 introduced ideas of liberty, equality, and fraternity, inspiring nationalism across Europe."
+    "question": "Which of the following is not a SI base unit?",
+    "options": ["Kilogram", "Mole", "Calorie", "Second"],
+    "correctAnswer": 2,
+    "explanation": "Calorie is a unit of energy but not a SI unit; the SI unit of energy is joule."
   },
   {
     "id": 3,
-    "question": "Which colours were chosen for the French national flag after the revolution?",
-    "options": ["Red, White, Blue", "Green, White, Red", "Blue, Yellow, Red", "Black, White, Red"],
+    "question": "What is the molar mass of glucose (C₆H₁₂O₆)?",
+    "options": ["180 g/mol", "120 g/mol", "160 g/mol", "140 g/mol"],
     "correctAnswer": 0,
-    "explanation": "The tricolour—Red, White, and Blue—became the national flag of France symbolizing the values of the revolution."
+    "explanation": "Molar mass = (6×12) + (12×1) + (6×16) = 180 g/mol."
   },
   {
     "id": 4,
-    "question": "Which of the following personalities is associated with the unification of Germany?",
-    "options": ["Bismarck", "Mazzini", "Cavour", "Garibaldi"],
-    "correctAnswer": 0,
-    "explanation": "Otto von Bismarck led the unification of Germany through a series of wars and diplomatic strategies."
+    "question": "Which of the following statements is true about Dalton's atomic theory?",
+    "options": [
+      "Atoms can be divided into subatomic particles.",
+      "Atoms of different elements have the same mass.",
+      "Atoms combine in simple whole-number ratios to form compounds.",
+      "Atoms can be created or destroyed."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dalton's theory proposed that atoms combine in simple whole-number ratios to form compounds."
   },
   {
     "id": 5,
-    "question": "Who was Giuseppe Mazzini?",
-    "options": ["King of Italy", "A German statesman", "Italian revolutionary", "Leader of the French Revolution"],
-    "correctAnswer": 2,
-    "explanation": "Mazzini was an Italian nationalist who founded 'Young Italy' and believed in a unified republic."
+    "question": "One mole of any substance contains:",
+    "options": ["6.022 × 10²³ molecules", "1 gram of atoms", "6.022 × 10¹⁰ particles", "1000 particles"],
+    "correctAnswer": 0,
+    "explanation": "Avogadro's number is 6.022 × 10²³, which represents one mole of particles."
   },
   {
     "id": 6,
-    "question": "What was the main objective of the Treaty of Vienna (1815)?",
-    "options": ["To divide Africa", "To restore monarchies in Europe", "To declare war on France", "To form the League of Nations"],
-    "correctAnswer": 1,
-    "explanation": "The Treaty of Vienna aimed to restore monarchies and redraw the map of Europe after Napoleon's defeat."
+    "question": "Which of the following has the maximum number of atoms?",
+    "options": ["18 g of water", "32 g of oxygen", "2 moles of hydrogen", "1 mole of methane"],
+    "correctAnswer": 2,
+    "explanation": "2 moles of H₂ = 2 × 6.022 × 10²³ molecules = 4.044 × 10²³ atoms (as each H₂ has 2 atoms)."
   },
   {
     "id": 7,
-    "question": "Which class of people carried out the unification of Germany?",
-    "options": ["Working Class", "Farmers", "Middle Class", "Prussian Army and Aristocracy"],
-    "correctAnswer": 3,
-    "explanation": "The unification of Germany was led by the Prussian army and aristocracy under Bismarck’s leadership."
+    "question": "What is the empirical formula of glucose (C₆H₁₂O₆)?",
+    "options": ["C₂H₄O₂", "CH₂O", "C₃H₆O₃", "C₆H₁₂O₆"],
+    "correctAnswer": 1,
+    "explanation": "The empirical formula is the simplest whole-number ratio of atoms, which for glucose is CH₂O."
   },
   {
     "id": 8,
-    "question": "Which female allegory represented France?",
-    "options": ["Bharat Mata", "Germania", "Marianne", "Liberty"],
-    "correctAnswer": 2,
-    "explanation": "Marianne was used as the national symbol of France, representing liberty and reason."
+    "question": "Which of the following represents Avogadro’s number?",
+    "options": ["6.022 × 10²³", "3.014 × 10²²", "1.008 × 10²⁴", "9.109 × 10⁻³¹"],
+    "correctAnswer": 0,
+    "explanation": "Avogadro’s number is 6.022 × 10²³ particles per mole."
   },
   {
     "id": 9,
-    "question": "The Frankfurt Parliament was convened in which year?",
-    "options": ["1848", "1830", "1871", "1815"],
-    "correctAnswer": 0,
-    "explanation": "The Frankfurt Parliament was convened in 1848 to frame a constitution for a united Germany."
+    "question": "The limiting reagent is the substance:",
+    "options": [
+      "That is in excess",
+      "That determines the amount of product formed",
+      "That reacts last",
+      "That does not participate in reaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Limiting reagent limits the amount of product that can be formed in a chemical reaction."
   },
   {
     "id": 10,
-    "question": "What was the Zollverein?",
-    "options": ["A revolutionary group", "A customs union", "A new monarchy", "An Italian kingdom"],
+    "question": "Which of the following is a correct representation of molarity?",
+    "options": [
+      "mol/kg",
+      "mol/L",
+      "g/L",
+      "mol/mL"
+    ],
     "correctAnswer": 1,
-    "explanation": "Zollverein was a customs union formed among German states to facilitate trade and economic unity."
+    "explanation": "Molarity is defined as number of moles of solute per litre of solution (mol/L)."
   },
   {
     "id": 11,
-    "question": "Who played a key role in the unification of Italy?",
-    "options": ["Napoleon", "Garibaldi", "Hitler", "Louis XVI"],
-    "correctAnswer": 1,
-    "explanation": "Garibaldi led military campaigns and played a major role in the unification of southern Italy."
+    "question": "Calculate the number of moles in 22 grams of CO₂ (Molar mass = 44 g/mol).",
+    "options": ["0.5 mol", "1 mol", "2 mol", "0.25 mol"],
+    "correctAnswer": 0,
+    "explanation": "Moles = mass / molar mass = 22 / 44 = 0.5 mol."
   },
   {
     "id": 12,
-    "question": "What did the allegory of Germania symbolize?",
-    "options": ["France", "Unity of Germany", "Monarchy", "Italy"],
+    "question": "How many molecules are there in 1 mole of a substance?",
+    "options": ["6.022 × 10²²", "6.022 × 10²³", "6.022 × 10²⁴", "1 × 10²⁰"],
     "correctAnswer": 1,
-    "explanation": "Germania was used as an allegory to represent the unity and spirit of the German nation."
+    "explanation": "1 mole = 6.022 × 10²³ entities (atoms, molecules, etc.)."
   },
   {
     "id": 13,
-    "question": "Which event is known as the 'Spring of Nations'?",
-    "options": ["American Revolution", "Industrial Revolution", "Revolutions of 1848", "Napoleonic Wars"],
-    "correctAnswer": 2,
-    "explanation": "The 1848 Revolutions across Europe were called the 'Spring of Nations' for their nationalist spirit."
+    "question": "What is the percentage of hydrogen in water (H₂O)?",
+    "options": ["11.1%", "66.6%", "22.2%", "88.9%"],
+    "correctAnswer": 0,
+    "explanation": "Mass of 2 H = 2, mass of O = 16, total = 18 → (2/18)×100 = 11.1%."
   },
   {
     "id": 14,
-    "question": "Which country led the movement for Italian unification?",
-    "options": ["France", "Germany", "Prussia", "Piedmont-Sardinia"],
-    "correctAnswer": 3,
-    "explanation": "Piedmont-Sardinia under King Victor Emmanuel II played a crucial role in the unification of Italy."
+    "question": "Which among the following is a physical quantity with no unit?",
+    "options": ["Specific heat", "Refractive index", "Molarity", "Density"],
+    "correctAnswer": 1,
+    "explanation": "Refractive index is the ratio of speeds and has no unit."
   },
   {
     "id": 15,
-    "question": "What did liberalism stand for in the 19th-century Europe?",
-    "options": ["Monarchical rule", "Freedom for individual and equality before law", "Colonialism", "Religious control"],
-    "correctAnswer": 1,
-    "explanation": "Liberalism emphasized individual rights, liberty, equality before law, and representative government."
+    "question": "Which of the following is a correct pair?",
+    "options": [
+      "Molar volume – 6.022 × 10²³",
+      "Avogadro’s number – 22.4 L",
+      "1 mole of gas at STP – 22.4 L",
+      "1 mole of Na – 12 g"
+    ],
+    "correctAnswer": 2,
+    "explanation": "At STP, 1 mole of any ideal gas occupies 22.4 L."
   },
   {
     "id": 16,
-    "question": "Which revolution in Europe abolished monarchy and established a republic?",
-    "options": ["Italian Revolution", "American Revolution", "French Revolution", "Russian Revolution"],
+    "question": "In a chemical reaction, 10 g of A reacts with 5 g of B to form 13 g of C. This is an example of:",
+    "options": ["Law of constant proportion", "Law of multiple proportion", "Law of conservation of mass", "Law of reciprocal proportion"],
     "correctAnswer": 2,
-    "explanation": "The French Revolution of 1789 led to the abolition of monarchy and establishment of a republic."
+    "explanation": "Total mass of reactants = total mass of products, illustrating the law of conservation of mass."
   },
   {
     "id": 17,
-    "question": "Who was proclaimed the German Emperor in 1871?",
-    "options": ["Frederick William IV", "Otto von Bismarck", "William I of Prussia", "Napoleon III"],
+    "question": "Which one of the following is NOT a correct statement?",
+    "options": [
+      "Mole is the amount of substance.",
+      "1 mole of H₂O has 6.022 × 10²³ molecules.",
+      "Empirical formula gives actual number of atoms.",
+      "1 mole of a substance contains Avogadro’s number of particles."
+    ],
     "correctAnswer": 2,
-    "explanation": "William I of Prussia was proclaimed the German Emperor after the unification of Germany in 1871."
+    "explanation": "Empirical formula gives the simplest whole-number ratio, not actual atom count."
   },
   {
     "id": 18,
-    "question": "Which among the following was not a result of nationalism in 19th-century Europe?",
-    "options": ["Formation of nation-states", "Rise of democracy", "Disintegration of empires", "Globalization"],
-    "correctAnswer": 3,
-    "explanation": "Globalization was not a direct result of 19th-century European nationalism; it emerged much later."
+    "question": "Which of these expresses the law of definite proportions?",
+    "options": [
+      "The same elements can combine in different ratios to form different compounds.",
+      "Mass can neither be created nor destroyed.",
+      "A chemical compound always contains the same elements in fixed ratio by mass.",
+      "Elements combine in the ratio of small whole numbers."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Law of definite proportions states a compound has elements in a fixed mass ratio."
   },
   {
     "id": 19,
-    "question": "In which battle was Napoleon finally defeated?",
-    "options": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"],
+    "question": "Which of the following is a derived SI unit?",
+    "options": ["Kilogram", "Ampere", "Newton", "Mole"],
     "correctAnswer": 2,
-    "explanation": "Napoleon was defeated at the Battle of Waterloo in 1815, marking the end of his rule."
+    "explanation": "Newton is a derived unit of force (kg·m/s²)."
   },
   {
     "id": 20,
-    "question": "Which of the following groups benefited the most from the French Revolution?",
-    "options": ["Nobility", "Clergy", "Middle Class", "Monarchy"],
+    "question": "Which of the following is not a fundamental quantity?",
+    "options": ["Temperature", "Amount of substance", "Volume", "Electric current"],
     "correctAnswer": 2,
-    "explanation": "The Middle Class gained political and economic power after the fall of the monarchy during the French Revolution."
+    "explanation": "Volume is a derived quantity (length³), not a fundamental one."
   }
 ]
