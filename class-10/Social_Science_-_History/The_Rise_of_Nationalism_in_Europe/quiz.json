@@ -1,217 +1,142 @@
 [
   {
     "id": 1,
-    "question": "What type of reaction is the rusting of iron?",
-    "options": ["Decomposition", "Combination", "Redox", "Double displacement"],
-    "correctAnswer": 2,
-    "explanation": "Rusting involves both oxidation and reduction, making it a redox reaction."
+    "question": "Who was the artist behind the painting 'The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations'?",
+    "options": ["Frederic Sorrieu", "Giuseppe Mazzini", "Otto von Bismarck", "Louis Philippe"],
+    "correctAnswer": 0,
+    "explanation": "Frederic Sorrieu was a French artist known for his idealistic vision of a world made up of democratic and socialist republics."
   },
   {
     "id": 2,
-    "question": "Which of the following is a balanced chemical equation?",
-    "options": [
-      "Mg + HCl → MgCl₂ + H₂",
-      "H₂ + O₂ → H₂O",
-      "Ca + Cl₂ → CaCl₂",
-      "Na + O₂ → Na₂O"
-    ],
+    "question": "What did the term 'La Patrie' symbolize in 19th-century France?",
+    "options": ["The monarchy", "The church", "The fatherland", "The emperor"],
     "correctAnswer": 2,
-    "explanation": "Ca + Cl₂ → CaCl₂ is already balanced with one atom of calcium and two atoms of chlorine."
+    "explanation": "'La Patrie' meant 'the fatherland' and was used to develop a sense of national identity among the French."
   },
   {
     "id": 3,
-    "question": "Which gas is evolved when hydrochloric acid reacts with zinc?",
-    "options": ["Oxygen", "Hydrogen", "Chlorine", "Nitrogen"],
-    "correctAnswer": 1,
-    "explanation": "Zinc reacts with HCl to form ZnCl₂ and hydrogen gas: Zn + 2HCl → ZnCl₂ + H₂."
+    "question": "Which event marked the beginning of the process of Italian unification?",
+    "options": ["Revolt in Sicily", "Battle of Sedan", "Treaty of Vienna", "Revolution of 1848"],
+    "correctAnswer": 3,
+    "explanation": "The Revolution of 1848 in Europe initiated political changes that eventually led to Italian unification."
   },
   {
     "id": 4,
-    "question": "What does a chemical equation represent?",
-    "options": [
-      "The physical state of substances",
-      "Only the products",
-      "Only the reactants",
-      "A chemical reaction using symbols and formulas"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A chemical equation uses symbols and formulas to represent reactants and products in a chemical reaction."
+    "question": "Who played a key role in unifying Germany?",
+    "options": ["Garibaldi", "Giuseppe Mazzini", "Otto von Bismarck", "Metternich"],
+    "correctAnswer": 2,
+    "explanation": "Otto von Bismarck was the Prussian statesman who led the process of German unification using military force and diplomacy."
   },
   {
     "id": 5,
-    "question": "Which of the following is a decomposition reaction?",
-    "options": [
-      "2H₂ + O₂ → 2H₂O",
-      "2KClO₃ → 2KCl + 3O₂",
-      "AgNO₃ + NaCl → AgCl + NaNO₃",
-      "Zn + H₂SO₄ → ZnSO₄ + H₂"
-    ],
+    "question": "What was the main objective of the Treaty of Vienna (1815)?",
+    "options": ["To promote democracy", "To redraw the boundaries of Europe", "To unify Italy", "To colonize Asia"],
     "correctAnswer": 1,
-    "explanation": "2KClO₃ → 2KCl + 3O₂ is a decomposition reaction where a compound breaks down into simpler substances."
+    "explanation": "The Treaty of Vienna aimed to restore monarchies and redraw Europe’s boundaries to establish a balance of power."
   },
   {
     "id": 6,
-    "question": "What type of chemical reaction is 2H₂ + O₂ → 2H₂O?",
-    "options": ["Combination", "Displacement", "Decomposition", "Redox"],
-    "correctAnswer": 0,
-    "explanation": "Two reactants combine to form a single product, which is a combination reaction."
+    "question": "Which group dominated the Italian unification movement?",
+    "options": ["The clergy", "The peasants", "The middle class and aristocracy", "Foreign traders"],
+    "correctAnswer": 2,
+    "explanation": "The Italian unification movement was led by the middle class and aristocratic nationalists."
   },
   {
     "id": 7,
-    "question": "Which of the following represents a redox reaction?",
-    "options": [
-      "Zn + CuSO₄ → ZnSO₄ + Cu",
-      "BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl",
-      "HCl + NaOH → NaCl + H₂O",
-      "CaCO₃ → CaO + CO₂"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zn is oxidized and Cu²⁺ is reduced, indicating a redox reaction."
+    "question": "Giuseppe Mazzini founded which secret society?",
+    "options": ["Carbonari", "Young Italy", "Jacobins", "Legion of the Eagle"],
+    "correctAnswer": 1,
+    "explanation": "Mazzini founded 'Young Italy', a secret society aimed at the unification of Italy."
   },
   {
     "id": 8,
-    "question": "Which of the following is a displacement reaction?",
-    "options": [
-      "H₂ + Cl₂ → 2HCl",
-      "Zn + H₂SO₄ → ZnSO₄ + H₂",
-      "CaCO₃ → CaO + CO₂",
-      "AgNO₃ + NaCl → AgCl + NaNO₃"
-    ],
+    "question": "Which country was described as a 'nation-state' first in the 19th century?",
+    "options": ["Germany", "France", "Italy", "Austria"],
     "correctAnswer": 1,
-    "explanation": "Zn displaces hydrogen from H₂SO₄, which is a displacement reaction."
+    "explanation": "France became the first country to be identified as a nation-state, with a centralized government and defined borders."
   },
   {
     "id": 9,
-    "question": "Which chemical reaction shows precipitation?",
-    "options": [
-      "NaOH + HCl → NaCl + H₂O",
-      "Zn + CuSO₄ → ZnSO₄ + Cu",
-      "BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl",
-      "C + O₂ → CO₂"
-    ],
+    "question": "Which German customs union helped economic unification?",
+    "options": ["Bundesrat", "Frankfurter Verein", "Zollverein", "Hanseatic League"],
     "correctAnswer": 2,
-    "explanation": "BaSO₄ is an insoluble white precipitate formed in the reaction."
+    "explanation": "The Zollverein was a customs union formed to facilitate trade and economic unity among German states."
   },
   {
     "id": 10,
-    "question": "What happens to the blue color of copper sulfate when iron is added?",
-    "options": [
-      "Color intensifies",
-      "Color changes to red",
-      "Color fades",
-      "No change"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Iron displaces copper, causing the blue color of CuSO₄ solution to fade."
+    "question": "What did the Frankfurt Parliament aim to achieve?",
+    "options": ["Unify Italy", "Create a constitution for Germany", "Depose Napoleon", "Restore the Church’s power"],
+    "correctAnswer": 1,
+    "explanation": "The Frankfurt Parliament aimed to frame a constitution to unify Germany under a constitutional monarchy."
   },
   {
     "id": 11,
-    "question": "Which reaction is an example of thermal decomposition?",
-    "options": [
-      "Zn + HCl → ZnCl₂ + H₂",
-      "CaCO₃ → CaO + CO₂",
-      "H₂ + Cl₂ → 2HCl",
-      "NaOH + HCl → NaCl + H₂O"
-    ],
-    "correctAnswer": 1,
-    "explanation": "CaCO₃ decomposes into CaO and CO₂ upon heating — a thermal decomposition."
+    "question": "Who led the Italian unification in Southern Italy?",
+    "options": ["Count Cavour", "Victor Emmanuel II", "Mazzini", "Giuseppe Garibaldi"],
+    "correctAnswer": 3,
+    "explanation": "Giuseppe Garibaldi led the unification efforts in Southern Italy with his Red Shirt volunteers."
   },
   {
     "id": 12,
-    "question": "What is the product formed when magnesium is burned in air?",
-    "options": ["MgO", "Mg(OH)₂", "MgCl₂", "MgCO₃"],
-    "correctAnswer": 0,
-    "explanation": "Magnesium reacts with oxygen to form magnesium oxide: 2Mg + O₂ → 2MgO."
+    "question": "What was the impact of the French Revolution on nationalism in Europe?",
+    "options": ["It discouraged nationalism", "It introduced monarchy", "It spread the ideas of liberty and equality", "It promoted colonialism"],
+    "correctAnswer": 2,
+    "explanation": "The French Revolution spread the ideas of liberty, equality, and fraternity, inspiring nationalist movements across Europe."
   },
   {
     "id": 13,
-    "question": "In which type of reaction are heat and light usually released?",
-    "options": ["Endothermic", "Combination", "Exothermic", "Neutralization"],
-    "correctAnswer": 2,
-    "explanation": "Exothermic reactions release heat and sometimes light during the reaction."
+    "question": "Which battle led to the final unification of Germany in 1871?",
+    "options": ["Battle of Waterloo", "Battle of Jena", "Battle of Leipzig", "Franco-Prussian War"],
+    "correctAnswer": 3,
+    "explanation": "The Franco-Prussian War ended with German victory and led to the unification of Germany under Prussian leadership."
   },
   {
     "id": 14,
-    "question": "What is observed when silver chloride is exposed to sunlight?",
-    "options": [
-      "Turns green",
-      "No change",
-      "Turns black",
-      "Turns red"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Silver chloride decomposes to silver and chlorine gas in sunlight, turning black."
+    "question": "Who became the emperor of unified Germany in 1871?",
+    "options": ["Kaiser Wilhelm I", "Otto von Bismarck", "Frederick the Great", "Napoleon III"],
+    "correctAnswer": 0,
+    "explanation": "Kaiser Wilhelm I was proclaimed the emperor of the unified German Empire in 1871."
   },
   {
     "id": 15,
-    "question": "Which of the following does NOT represent a balanced equation?",
-    "options": [
-      "H₂ + Cl₂ → 2HCl",
-      "C + O₂ → CO₂",
-      "N₂ + 3H₂ → 2NH₃",
-      "Fe + H₂O → Fe₃O₄ + H₂"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Fe + H₂O → Fe₃O₄ + H₂ is not balanced as written and needs balancing."
+    "question": "What was the main ideology of conservatism in 19th-century Europe?",
+    "options": ["Promoting revolutions", "Establishing democracy", "Restoring monarchies", "Expanding colonialism"],
+    "correctAnswer": 2,
+    "explanation": "Conservatives believed in restoring traditional institutions like monarchy and the church after the Napoleonic wars."
   },
   {
     "id": 16,
-    "question": "Which is the correct balanced form of: Al + O₂ → Al₂O₃?",
-    "options": [
-      "2Al + O₂ → Al₂O₃",
-      "4Al + 3O₂ → 2Al₂O₃",
-      "3Al + 2O₂ → Al₃O₄",
-      "2Al + 3O₂ → 2Al₃O₂"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Balanced reaction: 4Al + 3O₂ → 2Al₂O₃."
+    "question": "Which region did Austria and Prussia compete over for influence?",
+    "options": ["Bavaria", "Saxony", "The German Confederation", "Alsace"],
+    "correctAnswer": 2,
+    "explanation": "Austria and Prussia competed for dominance over the German Confederation, leading to eventual conflict."
   },
   {
     "id": 17,
-    "question": "What type of reaction is: AgNO₃ + NaCl → AgCl + NaNO₃?",
-    "options": [
-      "Displacement",
-      "Combination",
-      "Decomposition",
-      "Double displacement"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ions are exchanged between two compounds, making it a double displacement reaction."
+    "question": "Which state led the unification of Italy?",
+    "options": ["Sicily", "Venice", "Piedmont-Sardinia", "Rome"],
+    "correctAnswer": 2,
+    "explanation": "Piedmont-Sardinia, under the leadership of King Victor Emmanuel II and Cavour, spearheaded Italian unification."
   },
   {
     "id": 18,
-    "question": "What is the characteristic of a redox reaction?",
-    "options": [
-      "Only oxidation occurs",
-      "Only reduction occurs",
-      "Oxidation and reduction occur simultaneously",
-      "No change in oxidation states"
-    ],
+    "question": "What was the role of Count Cavour in Italian unification?",
+    "options": ["Led military campaigns", "Drafted a new constitution", "Diplomatic unification", "Wrote revolutionary literature"],
     "correctAnswer": 2,
-    "explanation": "Redox reactions involve simultaneous oxidation and reduction."
+    "explanation": "Count Cavour used diplomacy and strategic alliances to unite Italy under the Sardinian crown."
   },
   {
     "id": 19,
-    "question": "Which of the following is a chemical change?",
-    "options": [
-      "Melting of ice",
-      "Evaporation of water",
-      "Rusting of iron",
-      "Breaking of glass"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Rusting is a chemical change where new substances like iron oxide are formed."
+    "question": "What did the allegory of Germania represent?",
+    "options": ["A medieval kingdom", "The German nation", "A religious figure", "A royal dynasty"],
+    "correctAnswer": 1,
+    "explanation": "Germania was an allegorical figure symbolizing the German nation in visual representations of nationalism."
   },
   {
     "id": 20,
-    "question": "In a balanced chemical equation, the total mass of reactants is equal to the total mass of products due to:",
-    "options": [
-      "Law of conservation of energy",
-      "Law of constant proportion",
-      "Law of conservation of mass",
-      "Law of multiple proportions"
-    ],
+    "question": "Which of the following best describes nationalism?",
+    "options": ["Love for monarchy", "Devotion to one's religion", "Loyalty to a nation and its interests", "Interest in globalism"],
     "correctAnswer": 2,
-    "explanation": "The law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction."
+    "explanation": "Nationalism is a political ideology that emphasizes loyalty and devotion to a nation and its cultural identity."
   }
 ]
