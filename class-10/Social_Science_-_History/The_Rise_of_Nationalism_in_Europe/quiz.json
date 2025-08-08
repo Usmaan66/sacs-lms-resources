@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the artist behind the painting 'The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations'?",
+    "options": ["Frederic Sorrieu", "Giuseppe Mazzini", "Otto von Bismarck", "Louis Philippe"],
+    "correctAnswer": 0,
+    "explanation": "Frederic Sorrieu was a French artist known for his idealistic vision of a world made up of democratic and socialist republics."
+  },
+  {
+    "id": 2,
+    "question": "What did the term 'La Patrie' symbolize in 19th-century France?",
+    "options": ["The monarchy", "The church", "The fatherland", "The emperor"],
+    "correctAnswer": 2,
+    "explanation": "'La Patrie' meant 'the fatherland' and was used to develop a sense of national identity among the French."
+  },
+  {
+    "id": 3,
+    "question": "Which event marked the beginning of the process of Italian unification?",
+    "options": ["Revolt in Sicily", "Battle of Sedan", "Treaty of Vienna", "Revolution of 1848"],
+    "correctAnswer": 3,
+    "explanation": "The Revolution of 1848 in Europe initiated political changes that eventually led to Italian unification."
+  },
+  {
+    "id": 4,
+    "question": "Who played a key role in unifying Germany?",
+    "options": ["Garibaldi", "Giuseppe Mazzini", "Otto von Bismarck", "Metternich"],
+    "correctAnswer": 2,
+    "explanation": "Otto von Bismarck was the Prussian statesman who led the process of German unification using military force and diplomacy."
+  },
+  {
+    "id": 5,
+    "question": "What was the main objective of the Treaty of Vienna (1815)?",
+    "options": ["To promote democracy", "To redraw the boundaries of Europe", "To unify Italy", "To colonize Asia"],
+    "correctAnswer": 1,
+    "explanation": "The Treaty of Vienna aimed to restore monarchies and redraw Europe’s boundaries to establish a balance of power."
+  },
+  {
+    "id": 6,
+    "question": "Which group dominated the Italian unification movement?",
+    "options": ["The clergy", "The peasants", "The middle class and aristocracy", "Foreign traders"],
+    "correctAnswer": 2,
+    "explanation": "The Italian unification movement was led by the middle class and aristocratic nationalists."
+  },
+  {
+    "id": 7,
+    "question": "Giuseppe Mazzini founded which secret society?",
+    "options": ["Carbonari", "Young Italy", "Jacobins", "Legion of the Eagle"],
+    "correctAnswer": 1,
+    "explanation": "Mazzini founded 'Young Italy', a secret society aimed at the unification of Italy."
+  },
+  {
+    "id": 8,
+    "question": "Which country was described as a 'nation-state' first in the 19th century?",
+    "options": ["Germany", "France", "Italy", "Austria"],
+    "correctAnswer": 1,
+    "explanation": "France became the first country to be identified as a nation-state, with a centralized government and defined borders."
+  },
+  {
+    "id": 9,
+    "question": "Which German customs union helped economic unification?",
+    "options": ["Bundesrat", "Frankfurter Verein", "Zollverein", "Hanseatic League"],
+    "correctAnswer": 2,
+    "explanation": "The Zollverein was a customs union formed to facilitate trade and economic unity among German states."
+  },
+  {
+    "id": 10,
+    "question": "What did the Frankfurt Parliament aim to achieve?",
+    "options": ["Unify Italy", "Create a constitution for Germany", "Depose Napoleon", "Restore the Church’s power"],
+    "correctAnswer": 1,
+    "explanation": "The Frankfurt Parliament aimed to frame a constitution to unify Germany under a constitutional monarchy."
+  },
+  {
+    "id": 11,
+    "question": "Who led the Italian unification in Southern Italy?",
+    "options": ["Count Cavour", "Victor Emmanuel II", "Mazzini", "Giuseppe Garibaldi"],
+    "correctAnswer": 3,
+    "explanation": "Giuseppe Garibaldi led the unification efforts in Southern Italy with his Red Shirt volunteers."
+  },
+  {
+    "id": 12,
+    "question": "What was the impact of the French Revolution on nationalism in Europe?",
+    "options": ["It discouraged nationalism", "It introduced monarchy", "It spread the ideas of liberty and equality", "It promoted colonialism"],
+    "correctAnswer": 2,
+    "explanation": "The French Revolution spread the ideas of liberty, equality, and fraternity, inspiring nationalist movements across Europe."
+  },
+  {
+    "id": 13,
+    "question": "Which battle led to the final unification of Germany in 1871?",
+    "options": ["Battle of Waterloo", "Battle of Jena", "Battle of Leipzig", "Franco-Prussian War"],
+    "correctAnswer": 3,
+    "explanation": "The Franco-Prussian War ended with German victory and led to the unification of Germany under Prussian leadership."
+  },
+  {
+    "id": 14,
+    "question": "Who became the emperor of unified Germany in 1871?",
+    "options": ["Kaiser Wilhelm I", "Otto von Bismarck", "Frederick the Great", "Napoleon III"],
+    "correctAnswer": 0,
+    "explanation": "Kaiser Wilhelm I was proclaimed the emperor of the unified German Empire in 1871."
+  },
+  {
+    "id": 15,
+    "question": "What was the main ideology of conservatism in 19th-century Europe?",
+    "options": ["Promoting revolutions", "Establishing democracy", "Restoring monarchies", "Expanding colonialism"],
+    "correctAnswer": 2,
+    "explanation": "Conservatives believed in restoring traditional institutions like monarchy and the church after the Napoleonic wars."
+  },
+  {
+    "id": 16,
+    "question": "Which region did Austria and Prussia compete over for influence?",
+    "options": ["Bavaria", "Saxony", "The German Confederation", "Alsace"],
+    "correctAnswer": 2,
+    "explanation": "Austria and Prussia competed for dominance over the German Confederation, leading to eventual conflict."
+  },
+  {
+    "id": 17,
+    "question": "Which state led the unification of Italy?",
+    "options": ["Sicily", "Venice", "Piedmont-Sardinia", "Rome"],
+    "correctAnswer": 2,
+    "explanation": "Piedmont-Sardinia, under the leadership of King Victor Emmanuel II and Cavour, spearheaded Italian unification."
+  },
+  {
+    "id": 18,
+    "question": "What was the role of Count Cavour in Italian unification?",
+    "options": ["Led military campaigns", "Drafted a new constitution", "Diplomatic unification", "Wrote revolutionary literature"],
+    "correctAnswer": 2,
+    "explanation": "Count Cavour used diplomacy and strategic alliances to unite Italy under the Sardinian crown."
+  },
+  {
+    "id": 19,
+    "question": "What did the allegory of Germania represent?",
+    "options": ["A medieval kingdom", "The German nation", "A religious figure", "A royal dynasty"],
+    "correctAnswer": 1,
+    "explanation": "Germania was an allegorical figure symbolizing the German nation in visual representations of nationalism."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following best describes nationalism?",
+    "options": ["Love for monarchy", "Devotion to one's religion", "Loyalty to a nation and its interests", "Interest in globalism"],
+    "correctAnswer": 2,
+    "explanation": "Nationalism is a political ideology that emphasizes loyalty and devotion to a nation and its cultural identity."
+  }
+]
