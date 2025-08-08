@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following countries is an example of a successful power-sharing arrangement?",
+    "options": ["Sri Lanka", "Belgium", "Pakistan", "Myanmar"],
+    "correctAnswer": 1,
+    "explanation": "Belgium is known for its successful power-sharing arrangements between different linguistic and regional groups."
+  },
+  {
+    "id": 2,
+    "question": "What is the major ethnic group in Sri Lanka?",
+    "options": ["Sinhalese", "Tamils", "Muslims", "Buddhists"],
+    "correctAnswer": 0,
+    "explanation": "The Sinhalese make up around 74% of the population in Sri Lanka."
+  },
+  {
+    "id": 3,
+    "question": "Which ethnic group in Sri Lanka faced discrimination after independence?",
+    "options": ["Sinhalese", "Tamils", "Buddhists", "Muslims"],
+    "correctAnswer": 1,
+    "explanation": "The Tamils in Sri Lanka faced discrimination in education, jobs, and political representation after independence."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a form of power sharing?",
+    "options": ["Horizontal", "Vertical", "Diagonal", "Community-based"],
+    "correctAnswer": 2,
+    "explanation": "Diagonal power sharing is not a recognized form; power sharing is typically categorized as horizontal, vertical, or community-based."
+  },
+  {
+    "id": 5,
+    "question": "What is meant by horizontal distribution of power?",
+    "options": ["Power shared among different levels of government", "Power shared among different organs of government", "Power shared among different communities", "Power given to international agencies"],
+    "correctAnswer": 1,
+    "explanation": "Horizontal power sharing refers to distribution of power among organs of government like the legislature, executive, and judiciary."
+  },
+  {
+    "id": 6,
+    "question": "Which principle is upheld by power sharing?",
+    "options": ["Dictatorship", "Concentration of power", "Decentralization of power", "Authoritarianism"],
+    "correctAnswer": 2,
+    "explanation": "Power sharing supports the principle of decentralization of power to avoid its concentration in one hand."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of vertical power sharing?",
+    "options": ["Legislature and judiciary sharing power", "Union and state governments sharing power", "Political parties sharing power", "Communities sharing cultural rights"],
+    "correctAnswer": 1,
+    "explanation": "Vertical power sharing involves different levels of government such as union, state, and local."
+  },
+  {
+    "id": 8,
+    "question": "In the Belgian model, how is power shared between the Dutch and French-speaking communities?",
+    "options": ["Dutch dominate all decisions", "French dominate all decisions", "Equal number of ministers from both communities", "Ministers are selected randomly"],
+    "correctAnswer": 2,
+    "explanation": "In Belgium, there is an equal number of ministers from Dutch and French-speaking communities to ensure fair representation."
+  },
+  {
+    "id": 9,
+    "question": "What is the main aim of power sharing in a democracy?",
+    "options": ["To increase conflicts", "To strengthen dictatorship", "To reduce conflict and ensure stability", "To reduce people's participation"],
+    "correctAnswer": 2,
+    "explanation": "Power sharing aims to reduce the chances of conflict and provide political stability in a democracy."
+  },
+  {
+    "id": 10,
+    "question": "Which of these is a moral reason for power sharing?",
+    "options": ["It makes administration easier", "It reduces costs", "It is the very spirit of democracy", "It avoids elections"],
+    "correctAnswer": 2,
+    "explanation": "Power sharing is considered the spirit of democracy as it respects diverse groups and opinions."
+  },
+  {
+    "id": 11,
+    "question": "What kind of power sharing is practiced when power is shared among political parties and interest groups?",
+    "options": ["Vertical", "Horizontal", "Social", "Coalition-based"],
+    "correctAnswer": 3,
+    "explanation": "Coalition-based power sharing occurs when different political parties or interest groups form alliances to govern."
+  },
+  {
+    "id": 12,
+    "question": "Which constitutional amendment in India gave constitutional status to local government?",
+    "options": ["42nd", "44th", "73rd", "86th"],
+    "correctAnswer": 2,
+    "explanation": "The 73rd Amendment to the Indian Constitution provided constitutional status to Panchayati Raj institutions (local government)."
+  },
+  {
+    "id": 13,
+    "question": "Which community in Belgium is in majority in the Flemish region?",
+    "options": ["French-speaking", "German-speaking", "Dutch-speaking", "Italian-speaking"],
+    "correctAnswer": 2,
+    "explanation": "The Dutch-speaking community forms the majority in the Flemish region of Belgium."
+  },
+  {
+    "id": 14,
+    "question": "What is one key feature of the Sri Lankan constitution of 1978?",
+    "options": ["It gave equal rights to Tamils", "It declared Sinhala as the only official language", "It promoted federalism", "It increased Tamil representation"],
+    "correctAnswer": 1,
+    "explanation": "The 1978 constitution of Sri Lanka declared Sinhala as the sole official language, leading to Tamil grievances."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is not a benefit of power sharing?",
+    "options": ["Reduces chances of conflict", "Ensures minority participation", "Concentrates power in one organ", "Promotes democracy"],
+    "correctAnswer": 2,
+    "explanation": "Power sharing prevents the concentration of power and promotes participation and equality."
+  },
+  {
+    "id": 16,
+    "question": "Which community is a minority in Belgium but economically and politically powerful?",
+    "options": ["Dutch-speaking", "German-speaking", "French-speaking", "Italian-speaking"],
+    "correctAnswer": 2,
+    "explanation": "The French-speaking community is a minority in Belgium but holds significant economic and political influence."
+  },
+  {
+    "id": 17,
+    "question": "Which model of democracy emphasizes power sharing?",
+    "options": ["Majoritarian democracy", "Federal democracy", "Presidential democracy", "Direct democracy"],
+    "correctAnswer": 1,
+    "explanation": "Federal democracy allows for power sharing between different levels of government and communities."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is an example of community government?",
+    "options": ["India's Lok Sabha", "Sri Lanka's Parliament", "Belgium's community government", "UK's House of Lords"],
+    "correctAnswer": 2,
+    "explanation": "Belgium has a community government that handles cultural, educational, and language-related matters."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is NOT a reason why power sharing is desirable?",
+    "options": ["It promotes unity", "It maintains stability", "It increases dictatorship", "It reduces conflict"],
+    "correctAnswer": 2,
+    "explanation": "Power sharing opposes dictatorship and promotes democratic practices."
+  },
+  {
+    "id": 20,
+    "question": "Why did the civil war break out in Sri Lanka?",
+    "options": ["Religious differences", "Economic crisis", "Ethnic tensions between Sinhalese and Tamils", "Natural disaster"],
+    "correctAnswer": 2,
+    "explanation": "The civil war in Sri Lanka was largely due to ethnic tensions and discrimination against the Tamil minority."
+  }
+]

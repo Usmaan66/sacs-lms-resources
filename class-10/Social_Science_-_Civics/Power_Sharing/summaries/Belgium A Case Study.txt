@@ -1,0 +1,11 @@
+### Belgium: A Case Study
+
+- Belgium is a small European country with a complex ethnic composition.
+- **Ethnic composition**:
+    - **Flemish region**: 59% of the population, speaks Dutch.
+    - **Wallonia region**: 40% of the population, speaks French.
+    - **German-speaking**: 1% of the population.
+    - **Capital city (Brussels)**: 80% French-speaking, 20% Dutch-speaking.
+- The French-speaking minority was wealthy and powerful, which was resented by the Dutch-speaking community who got the benefits of economic development and education much later.
+- This led to tensions between the two communities, especially in Brussels, where the Dutch were a minority despite being a majority in the country.
+
