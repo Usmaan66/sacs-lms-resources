@@ -1,0 +1,8 @@
+### Alluvial Soil
+- **Distribution:** Entire Northern Plains and river deltas of the East Coast.
+- **Components:** Sand, silt, and clay.
+- **Classification by Age:**
+  - **Bangar:** Old alluvial, contains more 'Kanker' nodules.
+  - **Khadar:** New alluvial, more fine particles and more fertile.
+- **Crops:** Sugarcane, paddy, wheat, and pulses.
+

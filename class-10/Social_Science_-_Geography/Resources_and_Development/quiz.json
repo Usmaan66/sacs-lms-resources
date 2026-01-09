@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "According to the text, the process of transforming things available in our environment involves an interactive relationship between nature, institutions, and which other factor?",
+    "options": [
+      "Capital",
+      "Technology",
+      "Labour",
+      "Politics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The process of transformation involves an interactive relationship between nature, technology and institutions [1]."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following classifies resources based on their exhaustibility?",
+    "options": [
+      "Biotic and Abiotic",
+      "Individual and Community",
+      "Potential and Developed",
+      "Renewable and Non-renewable"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Resources are classified on the basis of exhaustibility into renewable and non-renewable resources [2]."
+  },
+  {
+    "id": 3,
+    "question": "Where was the first International Earth Summit held in June 1992?",
+    "options": [
+      "New York, USA",
+      "Rio de Janeiro, Brazil",
+      "Geneva, Switzerland",
+      "Johannesburg, South Africa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In June 1992, more than 100 heads of states met in Rio de Janeiro in Brazil for the first International Earth Summit [3]."
+  },
+  {
+    "id": 4,
+    "question": "What is the primary objective of Agenda 21?",
+    "options": [
+      "To achieve global sustainable development",
+      "To increase military cooperation",
+      "To promote space exploration",
+      "To standardise global currency"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Agenda 21 aims at achieving global sustainable development and combating environmental damage, poverty, and disease [4]."
+  },
+  {
+    "id": 5,
+    "question": "Which famous leader voiced concern about resource conservation with the words: 'There is enough for everybody’s need and not for any body’s greed'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Abraham Lincoln",
+      "Mahatma Gandhi",
+      "Nelson Mandela"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gandhiji was very apt in voicing his concern about resource conservation with these words [5], [6]."
+  },
+  {
+    "id": 6,
+    "question": "Which report introduced the concept of 'Sustainable Development' and advocated it as a means for resource conservation?",
+    "options": [
+      "The Rio Declaration",
+      "The Club of Rome Report",
+      "The Brundtland Commission Report",
+      "The Agenda 21 Report"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The seminal contribution with respect to resource conservation was made by the Brundtland Commission Report, 1987, which introduced the concept of 'Sustainable Development' [6]."
+  },
+  {
+    "id": 7,
+    "question": "What percentage of India's land area consists of plains, which provide facilities for agriculture and industry?",
+    "options": [
+      "27 per cent",
+      "30 per cent",
+      "33 per cent",
+      "43 per cent"
+    ],
+    "correctAnswer": 3,
+    "explanation": "About 43 per cent of the land area is plain, which provides facilities for agriculture and industry [7]."
+  },
+  {
+    "id": 8,
+    "question": "According to the National Forest Policy (1952), what is the desired percentage of geographical area under forest in India?",
+    "options": [
+      "22 per cent",
+      "33 per cent",
+      "44 per cent",
+      "50 per cent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Forest area in the country is far lower than the desired 33 per cent of geographical area, as outlined in the National Forest Policy (1952) [8]."
+  },
+  {
+    "id": 9,
+    "question": "In which of the following states is mining cited as the main reason for severe land degradation?",
+    "options": [
+      "Punjab",
+      "Gujarat",
+      "Jharkhand",
+      "Maharashtra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In states like Jharkhand, Chhattisgarh, Madhya Pradesh and Odisha, deforestation due to mining has caused severe land degradation [9]."
+  },
+  {
+    "id": 10,
+    "question": "What is the primary cause of land degradation in Punjab, Haryana, and western Uttar Pradesh?",
+    "options": [
+      "Deforestation",
+      "Overgrazing",
+      "Mining",
+      "Over irrigation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In the states of Punjab, Haryana, and western Uttar Pradesh, over irrigation is responsible for land degradation due to water logging [10]."
+  },
+  {
+    "id": 11,
+    "question": "Which soil type is also known as 'Regur' soil?",
+    "options": [
+      "Alluvial Soil",
+      "Black Soil",
+      "Laterite Soil",
+      "Red Soil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Black soils are black in colour and are also known as regur soils [11]."
+  },
+  {
+    "id": 12,
+    "question": "New alluvial soil is referred to by which term?",
+    "options": [
+      "Bangar",
+      "Khadar",
+      "Regur",
+      "Kankar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to their age, alluvial soils can be classified as old alluvial (Bangar) and new alluvial (Khadar) [12]."
+  },
+  {
+    "id": 13,
+    "question": "Which soil type develops a reddish colour due to the diffusion of iron in crystalline and metamorphic rocks?",
+    "options": [
+      "Arid Soil",
+      "Red and Yellow Soil",
+      "Forest Soil",
+      "Black Soil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red and Yellow soils develop a reddish colour due to diffusion of iron in crystalline and metamorphic rocks [13]."
+  },
+  {
+    "id": 14,
+    "question": "Which crop is the Laterite soil in Tamil Nadu, Andhra Pradesh, and Kerala particularly suitable for?",
+    "options": [
+      "Cotton",
+      "Wheat",
+      "Cashew nut",
+      "Sugarcane"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Red laterite soils in Tamil Nadu, Andhra Pradesh and Kerala are more suitable for crops like cashew nut [14]."
+  },
+  {
+    "id": 15,
+    "question": "What geological feature is Black soil typical of?",
+    "options": [
+      "Northern Plains",
+      "Deccan Trap (Basalt)",
+      "Himalayan Mountains",
+      "Coastal Deltas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Black soil is typical of the Deccan trap (Basalt) region spread over northwest Deccan plateau and is made up of lava flows [11]."
+  },
+  {
+    "id": 16,
+    "question": "The lower horizons of Arid soils are occupied by 'Kankar' because of the increasing content of what?",
+    "options": [
+      "Iron",
+      "Potash",
+      "Calcium",
+      "Humus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The lower horizons of the soil are occupied by Kankar because of the increasing calcium content downwards [15]."
+  },
+  {
+    "id": 17,
+    "question": "What is the term for land that becomes unfit for cultivation due to the formation of deep channels or gullies?",
+    "options": [
+      "Fallow land",
+      "Bad land",
+      "Pasture land",
+      "Arid land"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The running water cuts through clayey soils making deep channels (gullies), and the land becomes unfit for cultivation, known as bad land [16]."
+  },
+  {
+    "id": 18,
+    "question": "In the Chambal basin, lands affected by gully erosion are referred to as what?",
+    "options": [
+      "Dunes",
+      "Ravines",
+      "Deltas",
+      "Terraces"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the Chambal basin such lands [bad lands caused by gully erosion] are called ravines [16]."
+  },
+  {
+    "id": 19,
+    "question": "Which agricultural method involves ploughing along contour lines to decelerate the flow of water down slopes?",
+    "options": [
+      "Strip cropping",
+      "Shelter belts",
+      "Contour ploughing",
+      "Terrace cultivation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ploughing along the contour lines can decelerate the flow of water down the slopes. This is called contour ploughing [17]."
+  },
+  {
+    "id": 20,
+    "question": "What are rows of trees planted to break the force of the wind and create shelter called?",
+    "options": [
+      "Strip crops",
+      "Shelter belts",
+      "Terraces",
+      "Contour lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Planting lines of trees to create shelter also works in a similar way. Rows of such trees are called shelter belts [17]."
+  }
+]

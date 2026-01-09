@@ -1,0 +1,8 @@
+### Classification of Resources On the basis of Ownership
+- **Individual Resources:** Owned privately by individuals.
+  - *Examples:* Houses, plots, and plantations owned by farmers.
+- **Community Owned Resources:** Accessible to all members of the community.
+  - *Examples:* Village grazing grounds, burial grounds, and public parks.
+- **National Resources:** Technically, all resources within the political boundaries and oceanic area up to 12 nautical miles (22.2 km) from the coast belong to the nation.
+- **International Resources:** These are regulated by international institutions. The oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to the open ocean, and no individual country can utilize them without international concurrence.
+

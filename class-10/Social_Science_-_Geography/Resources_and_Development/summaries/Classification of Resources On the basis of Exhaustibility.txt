@@ -1,0 +1,6 @@
+### Classification of Resources On the basis of Exhaustibility
+- **Renewable Resources:** Resources that can be renewed or reproduced by physical, chemical, or mechanical processes. They are also known as replenishable resources.
+  - *Examples:* Solar and wind energy, water, forests, and wildlife.
+- **Non-Renewable Resources:** These take millions of years in their formation. Once used, they cannot be replaced within a human lifespan.
+  - *Examples:* Minerals and fossil fuels. Some, like metals, are **recyclable**, while others, like fossil fuels, are **non-recyclable**.
+

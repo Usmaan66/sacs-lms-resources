@@ -1,0 +1,11 @@
+## Land Utilisation
+
+1. **Forests.**
+2. **Land not available for cultivation:** Barren/waste land and land used for buildings, roads, etc.
+3. **Other uncultivated land:** Permanent pastures and grazing land.
+4. **Fallow lands:** Current fallow (left for $\leq 1$ year) and other than current fallow (left for 1–5 years).
+5. **Net Sown Area (NSA):** Area sown with crops at least once in an agricultural year.
+6. **Gross Cropped Area:** Net sown area plus area sown more than once in the same year.
+
+---
+

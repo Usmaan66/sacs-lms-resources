@@ -1,0 +1,6 @@
+### Classification of Resources On the basis of Origin
+- **Biotic Resources:** These are obtained from the biosphere and have life. 
+  - *Examples:* Human beings, flora, fauna, fisheries, and livestock.
+- **Abiotic Resources:** These are composed of non-living things.
+  - *Examples:* Rocks and metals.
+

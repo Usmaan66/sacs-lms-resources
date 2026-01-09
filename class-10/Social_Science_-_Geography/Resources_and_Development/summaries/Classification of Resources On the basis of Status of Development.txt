@@ -1,0 +1,11 @@
+### Classification of Resources On the basis of Status of Development
+- **Potential Resources:** Found in a region but have not been utilized yet.
+  - *Example:* Solar and wind energy potential in Rajasthan and Gujarat.
+- **Developed Resources:** Resources that are surveyed and their quality and quantity are determined for utilization.
+- **Stock:** Materials in the environment which have the potential to satisfy human needs but humans do not have the appropriate technology to access them.
+- **Reserves:** The subset of 'Stock' which can be put into use with existing technology but their use has not been started yet. They are kept for meeting future requirements.
+
+---
+> **Summary:** Resources are classified by how they start (Origin), how long they last (Exhaustibility), who owns them (Ownership), and how ready they are for use (Development).
+---
+
