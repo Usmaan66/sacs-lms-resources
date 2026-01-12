@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Which component is often referred to as the 'brain' of the computer system?",
+    "options": [
+      "Primary Memory",
+      "Control Unit",
+      "Central Processing Unit (CPU)",
+      "Arithmetic Logic Unit (ALU)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU is the electronic circuitry that carries out actual processing and is commonly referred to as the brain of the computer."
+  },
+  {
+    "id": 2,
+    "question": "What is the function of the Arithmetic Logic Unit (ALU)?",
+    "options": [
+      "To interpret instructions and guide data flow",
+      "To perform all arithmetic and logic operations",
+      "To store data and instructions permanently",
+      "To provide an interface for the user"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ALU performs all the arithmetic and logic operations required by the instructions in a program."
+  },
+  {
+    "id": 3,
+    "question": "Which type of memory is volatile, meaning its contents are lost when power is turned off?",
+    "options": [
+      "Read Only Memory (ROM)",
+      "Hard Disk Drive (HDD)",
+      "Secondary Memory",
+      "Random Access Memory (RAM)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RAM is volatile memory; it retains data only as long as power is supplied and is wiped when power is turned off."
+  },
+  {
+    "id": 4,
+    "question": "What is the primary role of the Control Unit (CU)?",
+    "options": [
+      "To perform mathematical calculations",
+      "To store intermediate results in registers",
+      "To control sequential instruction execution and guide data flow",
+      "To convert digital data into human-understandable form"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CU controls sequential instruction execution, interprets instructions, and guides data flow between memory, ALU, and I/O devices."
+  },
+  {
+    "id": 5,
+    "question": "How many bits make up a 'Nibble'?",
+    "options": [
+      "2 bits",
+      "4 bits",
+      "8 bits",
+      "16 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 4-bit word is specifically called a Nibble."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of an input device designed for visually impaired users?",
+    "options": [
+      "3D Printer",
+      "Braille Keyboard",
+      "Touch Screen",
+      "Light Pen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Specially designed braille keyboards are available to help visually impaired individuals enter data into a computer."
+  },
+  {
+    "id": 7,
+    "question": "What does Moore's Law predict?",
+    "options": [
+      "The cost of computers will double every two years",
+      "The speed of the internet will double every year",
+      "The number of transistors on a chip will double every two years",
+      "The size of primary memory will triple every five years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Moore's Law predicted that the number of transistors on a chip would double every two years while the costs would be halved."
+  },
+  {
+    "id": 8,
+    "question": "Which component is placed between the CPU and primary memory to speed up operations?",
+    "options": [
+      "Secondary Memory",
+      "Registers",
+      "Cache Memory",
+      "Control Bus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cache memory is a very high-speed memory placed between the CPU and primary memory to store frequently accessed data."
+  },
+  {
+    "id": 9,
+    "question": "Which bus is used by the CPU to specify the memory location it wants to read from or write to?",
+    "options": [
+      "Data Bus",
+      "Control Bus",
+      "System Bus",
+      "Address Bus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The address bus is used to transfer addresses between the CPU and main memory to specify memory locations."
+  },
+  {
+    "id": 10,
+    "question": "Which bus in the system bus architecture is bidirectional?",
+    "options": [
+      "Address Bus",
+      "Data Bus",
+      "Control Bus",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The data bus is bidirectional because the CPU may need to both read data from and write data to the main memory."
+  },
+  {
+    "id": 11,
+    "question": "What is the main difference between a Microprocessor and a Microcontroller?",
+    "options": [
+      "Microprocessors are smaller than microcontrollers",
+      "Microcontrollers have CPU, RAM, and ROM on a single chip",
+      "Microprocessors are used only in washing machines",
+      "Microcontrollers do not have a CPU"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A microcontroller has a CPU, RAM, ROM, and other peripherals all embedded on a single chip, whereas a microprocessor only has the CPU on the chip."
+  },
+  {
+    "id": 12,
+    "question": "Which of these is an example of 'Structured Data'?",
+    "options": [
+      "An audio file of a song",
+      "A social media post with images",
+      "Monthly attendance records in a tabular format",
+      "A collection of HTML pages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Structured data follows a strict record structure and pre-specified tabular format, like attendance records."
+  },
+  {
+    "id": 13,
+    "question": "What is 'System Software'?",
+    "options": [
+      "Software for editing photos like Photoshop",
+      "Software that provides basic functionality to operate the computer hardware",
+      "A set of data files stored in the cloud",
+      "A tool used only for writing high-level code"
+    ],
+    "correctAnswer": 1,
+    "explanation": "System software provides the basic functionality to operate a computer by interacting directly with its hardware."
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of a 'Device Driver'?",
+    "options": [
+      "To allow the user to browse the web",
+      "To ensure proper functioning of a particular hardware device",
+      "To translate high-level language into machine code",
+      "To provide a graphical user interface"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The device driver acts as a mediator/interface between the operating system and a specific device to ensure it functions correctly."
+  },
+  {
+    "id": 15,
+    "question": "Which translator converts assembly language into machine language?",
+    "options": [
+      "Compiler",
+      "Interpreter",
+      "Assembler",
+      "Debugger"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An assembler is a translator specifically used to convert code written in assembly language to machine language."
+  },
+  {
+    "id": 16,
+    "question": "What is 'FOSS' in the context of software?",
+    "options": [
+      "Format of Structured Storage",
+      "Free and Open Source Software",
+      "File Operating System Service",
+      "Functional Object Software System"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FOSS stands for Free and Open Source Software, where the source code and software are freely available to the public."
+  },
+  {
+    "id": 17,
+    "question": "Which OS function is responsible for allocating and freeing memory from running processes?",
+    "options": [
+      "File Management",
+      "Process Management",
+      "Device Management",
+      "Memory Management"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Memory management involves the dynamic allocation and deallocation of main memory to different running processes."
+  },
+  {
+    "id": 18,
+    "question": "What type of interface requires users to interact via icons and menus?",
+    "options": [
+      "Command-based Interface",
+      "Graphical User Interface (GUI)",
+      "Gesture-based Interface",
+      "Voice-based Interface"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GUI lets users run programs or give instructions using visual options like icons, menus, and windows."
+  },
+  {
+    "id": 19,
+    "question": "In the units of memory, how many Terabytes (TB) equal 1 Petabyte (PB)?",
+    "options": [
+      "100 TB",
+      "512 TB",
+      "1024 TB",
+      "2048 TB"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to the memory measurement table, 1 PB = 1024 TB."
+  },
+  {
+    "id": 20,
+    "question": "What happens at the 'bit level' when data is 'deleted' but not yet overwritten?",
+    "options": [
+      "All bits are immediately changed to 0",
+      "The physical drive is shredded",
+      "The address entry is marked as free, but the data remains",
+      "The data is encrypted and hidden"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When data is deleted, its address entry is marked as free and the space is shown as empty, but the actual data remains until it is overwritten."
+  }
+]
