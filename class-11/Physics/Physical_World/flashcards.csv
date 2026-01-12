@@ -1,0 +1,58 @@
+What is 'measurement' defined as in the context of physical quantities?,"A comparison process involving a chosen, internationally accepted reference standard known as a unit."
+What two components express the outcome of a physical quantity measurement?,A numerical value accompanied by its unit.
+What are 'Fundamental Units' or 'Base Units'?,"They are the units for the basic physical quantities, such as length, mass, and time."
+Units for physical quantities that are expressed as combinations of base units are known as _____ units.,derived
+What constitutes a 'system of units'?,A complete collection of both base and derived units.
+What does the abbreviation SI stand for in the context of units?,Système Internationale d'Unités.
+"What is the SI base unit for length, and what is its symbol?",The metre (m).
+The definition of the metre is based on the fixed numerical value of which physical constant?,The speed of light in a vacuum (c).
+"What is the SI base unit for mass, and what is its symbol?",The kilogram (kg).
+The definition of the kilogram is based on the fixed numerical value of which physical constant?,The Planck constant (h).
+"What is the SI base unit for time, and what is its symbol?",The second (s).
+"The definition of the second is based on the fixed numerical value of the caesium frequency, $\Delta\nu_{Cs}$, of which atom?",The unperturbed ground-state hyperfine transition of the caesium-133 atom.
+"What is the SI base unit for electric current, and what is its symbol?",The ampere (A).
+The definition of the ampere is based on the fixed numerical value of which physical constant?,The elementary charge (e).
+"What is the SI base unit for thermodynamic temperature, and what is its symbol?",The kelvin (K).
+The definition of the kelvin is based on the fixed numerical value of which physical constant?,The Boltzmann constant (k).
+"What is the SI base unit for the amount of substance, and what is its symbol?",The mole (mol).
+One mole contains exactly $6.02214076 \times 10^{23}$ elementary entities. What is this value called?,The Avogadro constant.
+"What is the SI base unit for luminous intensity, and what is its symbol?",The candela (cd).
+What is the name of the SI supplementary unit for a plane angle?,Radian (rad).
+How is the radian (rad) defined?,It is defined as the ratio of the length of an arc (ds) to the radius (r) of the circle.
+What is the name of the SI supplementary unit for a solid angle?,Steradian (sr).
+How is the steradian (sr) defined?,It is defined as the ratio of the intercepted area (dA) on a spherical surface to the square of its radius ($r^2$).
+What dimensional property do both the radian and steradian share?,They are both dimensionless quantities.
+"According to the list of non-SI units, how many seconds are in one hour (h)?",3600 seconds.
+What is the volume of one litre (L) expressed in cubic metres ($m^3$)?,$10^{-3} m^3$.
+How many radians are in one degree ($°$)?,$\frac{\pi}{180}$ radians.
+What do 'significant figures' in a measurement indicate?,They indicate the precision of the measurement.
+Significant figures consist of all reliably known digits plus the _____ uncertain digit.,first
+What happens to the number of significant figures in a measurement when its units are changed?,It does not change.
+Rule for Significant Figures: Are all non-zero digits significant?,"Yes, all non-zero digits are significant."
+Rule for Significant Figures: Are zeros between two non-zero digits significant?,"Yes, zeros between two non-zero digits are always significant."
+"Rule for Significant Figures: In a number less than 1, are zeros to the right of the decimal but to the left of the first non-zero digit significant?","No, they are not significant (e.g., the zeros in 0.0052)."
+Rule for Significant Figures: Are terminal or trailing zeros in a number without a decimal point significant?,"No, they are not significant (e.g., 12300 has three significant figures)."
+Rule for Significant Figures: Are trailing zeros in a number with a decimal point significant?,"Yes, they are significant (e.g., 3.500 has four significant figures)."
+How many significant figures are in the measurement 0.06900?,Four significant figures.
+How does using scientific notation ($a \times 10^b$) help avoid ambiguity with significant figures?,"All zeros in the base number 'a' are considered significant, and the power of 10 is irrelevant."
+"Rule for Calculations: In multiplication or division, the final result should have the same number of significant figures as which original number?",The original number with the least number of significant figures.
+"Rule for Calculations: In addition or subtraction, the final result should retain as many decimal places as which original number?",The number with the least number of decimal places.
+"Rounding Rule: If the insignificant digit to be dropped is more than 5, what happens to the preceding digit?",The preceding digit is raised by 1.
+"Rounding Rule: If the insignificant digit to be dropped is less than 5, what happens to the preceding digit?",The preceding digit is left unchanged.
+"Rounding Rule: If the digit to be dropped is exactly 5 and the preceding digit is even, what is the procedure?","The insignificant digit is simply dropped, and the preceding even digit is left unchanged (e.g., 2.745 becomes 2.74)."
+"Rounding Rule: If the digit to be dropped is exactly 5 and the preceding digit is odd, what is the procedure?","The preceding odd digit is raised by 1 (e.g., 2.735 becomes 2.74)."
+"How are exact numbers, such as the 2 in the formula $r = d/2$, treated in terms of significant figures?",They are considered to have an infinite number of significant figures.
+What do the 'dimensions' of a physical quantity describe?,They describe the fundamental nature of the physical quantity in terms of base quantities.
+What are the seven fundamental dimensions of the physical world?,"[L] (length), [M] (mass), [T] (time), [A] (electric current), [K] (thermodynamic temperature), [cd] (luminous intensity), and [mol] (amount of substance)."
+What is the dimensional formula for volume?,$[L^3]$ or $[M^0L^3T^0]$.
+What is the dimensional formula for force?,$[MLT^{-2}]$.
+What is a 'dimensional equation'?,An equation formed by equating a physical quantity with its dimensional formula.
+What is the dimensional formula for speed or velocity?,$[LT^{-1}]$ or $[M^0LT^{-1}]$.
+What is the dimensional formula for mass density?,$[ML^{-3}]$ or $[ML^{-3}T^0]$.
+What is the 'principle of homogeneity of dimensions'?,It states that the dimensions of all terms in an equation must be the same.
+"According to dimensional analysis, what must be true for quantities to be added or subtracted?",They must have the same dimensions.
+"If an equation is found to be dimensionally inconsistent, what can be concluded?",The equation is definitively wrong.
+Does dimensional consistency guarantee that a physical equation is correct?,"No, it does not guarantee correctness due to potential issues with dimensionless constants or functions."
+"What must be true about the arguments of special functions like trigonometric, logarithmic, and exponential functions?",They must be dimensionless.
+What is a major limitation of using dimensional analysis to derive relationships between physical quantities?,It cannot determine the value of dimensionless constants (like k in a formula).
+"Using dimensional analysis to find the time period (T) of a pendulum, it was found to be independent of which quantity: length (l), mass (m), or gravity (g)?",Mass (m).
