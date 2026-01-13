@@ -1,0 +1,72 @@
+What is the definition of a computer?,"A computer is an electronic device that can be programmed to accept data (input), process it, and generate a result (output)."
+What constitutes a 'computer system'?,A computer system consists of a computer along with additional hardware and software functioning together as a single unit.
+"A computer system primarily comprises a central processing unit (CPU), memory, input/output devices and _____ devices.",storage
+What is the Central Processing Unit (CPU) often referred to as?,The brain of the computer.
+What is the function of the Arithmetic Logic Unit (ALU) within the CPU?,The ALU performs all the arithmetic and logic operations as required by the instructions in a program.
+What is the role of the Control Unit (CU) in the CPU?,"The CU controls sequential instruction execution, interprets instructions, and guides data flow through the computer's components."
+"What is the name for the CPU's local, high-speed memory used for temporarily storing data, instructions, or intermediate results?",Registers.
+What is the term for devices through which control signals and data are sent to a computer?,Input devices.
+Input devices convert data into a _____ form that is acceptable by the computer system.,digital
+"What is the term for a device that receives data from a computer system for display, physical production, or other human-understandable forms?",Output device.
+What type of printer is used to build a physical replica of a digital 3D design?,A 3D printer.
+"Who invented the Analytical Engine, a mechanical computing device considered to be the basis of modern computers?",Charles Babbage.
+"John Von Neumann introduced the concept of a _____ program computer, which was capable of storing both data and the program in its memory.",stored
+"What technology, developed in 1947, replaced bulky vacuum tubes and led to smaller computers?",Transistors.
+"An _____ _____ (IC) is a silicon chip containing an entire electronic circuit, which drastically reduced the size of computers.",Integrated Circuit
+What does Moore's Law predict?,It predicts that the number of transistors on a chip would double approximately every two years while the costs would be halved.
+The integration of a complete CPU onto a single chip is known as a _____.,microprocessor
+What are the basic units of computer memory that represent the binary digits 0 and 1?,Bits.
+"A 4-bit word is called a _____, and an 8-bit word is called a _____.",Nibble; Byte
+"According to the convention used in the source material, how many bytes are in one Kilobyte (KB)?",1024 Bytes.
+What are the two types of primary memory?,Random Access Memory (RAM) and Read Only Memory (ROM).
+Which type of primary memory is described as 'volatile'?,Random Access Memory (RAM).
+What is the main characteristic of Read Only Memory (ROM) concerning data retention?,"ROM is non-volatile, meaning its contents are not lost when the power is turned off."
+"The startup program that loads the operating system, known as the boot loader, is typically stored in _____.",ROM (Read Only Memory)
+What is the primary purpose of cache memory in a computer system?,To speed up CPU operations by storing copies of frequently accessed data from the primary memory.
+Where is cache memory physically located within the computer's architecture?,Between the CPU and the primary memory (RAM).
+"Why is secondary memory, such as a hard disk drive, necessary in a computer?","It is needed to permanently store data and instructions for future use, as primary memory is either volatile or has limited capacity."
+"Physical wires that transfer data, addresses, and control signals between computer components are collectively known as a _____.",bus
+What are the three types of buses that make up the system bus?,"Data bus, Address bus, and Control bus."
+Which bus is used by the CPU to specify the memory location it wants to read from or write to?,The Address bus.
+Why is the data bus described as bidirectional?,Because data needs to be transferred both from the CPU to memory (write) and from memory to the CPU (read).
+A CPU that is implemented on a single microchip is called a _____.,microprocessor
+What does the 'word size' of a microprocessor define?,The maximum number of bits that the microprocessor can process at a single time.
+What does the 'clock speed' of a microprocessor indicate?,"The speed at which the computer can execute instructions, measured in pulses per second."
+In what unit is the clock speed of modern microprocessors typically measured?,Gigahertz (GHz).
+What is a 'core' in the context of a CPU?,A core is a basic computation unit of the CPU.
+A CPU with four computation units is known as a _____-core processor.,quad
+How does a microcontroller differ fundamentally from a microprocessor?,"A microcontroller has a CPU, RAM, ROM, and other peripherals on a single chip, whereas a microprocessor typically only has the CPU on the chip."
+"Data that follows a strict record structure, such as data in a table, is known as _____ data.",structured
+"Data that is not organised in a pre-defined format, like audio files or social media posts, is called _____ data.",unstructured
+"What type of data has no well-defined structure but uses internal tags to separate data elements, such as in an HTML page?",Semi-structured data.
+What is the term for the process of gathering data from various sources and converting it into a digital form?,Data capturing.
+"The process of retrieving deleted, corrupted, or lost data from secondary storage devices is called _____ _____.",data recovery
+What is the collective term for the sets of instructions that operate computer hardware?,Software.
+Into which three broad categories can software be classified?,"System software, programming tools, and application software."
+The software that provides basic functionality by interacting directly with the hardware is known as _____ _____.,system software
+"What is the most fundamental system software, without which other software cannot function?",The operating system.
+What is the purpose of a device driver?,A device driver acts as an interface between a specific hardware device and the operating system to ensure the device functions correctly.
+Which low-level language uses English-like words and symbols but is still specific to a particular CPU architecture?,Assembly language.
+What type of translator is required to convert a program written in assembly language into machine language?,An assembler.
+"Program code written in a high-level language is called _____ code, while the machine-understandable version is called _____ code.",source; object
+Which type of language translator converts an entire program into machine code before execution?,A compiler.
+Which type of language translator converts and executes a program one line at a time?,An interpreter.
+What is an Integrated Development Environment (IDE)?,"An IDE is a software suite that consists of a text editor, building tools, and a debugger to simplify program development."
+"Application software developed for a wide audience with generic applications, such as a spreadsheet program, is known as _____-_____ software.",general purpose
+What is the term for tailor-made software developed to meet the specific requirements of an individual or an organisation?,Customised software.
+"Software whose source code is freely available to the public for use, modification, and distribution is known as _____ and _____ _____ Software (FOSS).",Free and Open Source
+Software that is available for use at no cost but whose source code is not provided is called _____.,freeware
+Software that must be purchased from the vendor who holds its copyright is called _____ software.,proprietary
+An operating system (OS) is often called a _____ manager as it manages a computer's hardware and software.,resource
+What are the two primary objectives of an operating system?,To provide services for running application programs and to provide a user interface for interaction with the computer.
+"Which type of user interface requires the user to type specific commands to perform tasks, as seen in MS-DOS or Unix?",A command-based interface.
+"A _____ User Interface (GUI) allows users to interact with the computer using visual elements like icons, menus, and windows.",Graphical
+Name two operating systems that provide a voice-based interface.,"iOS (Siri), Android (Google Now), or Windows 10 (Cortana)."
+"In the context of operating system management, what is a 'process'?",A process is a task in execution.
+What is the primary role of the memory management function of an operating system?,To dynamically allocate and free main memory for running processes while keeping track of memory usage.
+"The creation, updating, deletion, and protection of files in secondary storage is handled by the _____ _____ function of the OS.",file management
+The first binary programmable computer based on the Von Neumann architecture was the _____.,ENIAC (Electronic Numerical Integrator and Computer)
+"Software used for the maintenance and configuration of a computer system, such as an anti-virus or disk defragmentation tool, is called a system _____.",utility
+Which bus is unidirectional and carries the address of the memory location that the CPU wants to access?,The address bus.
+What is the purpose of a debugger in program development?,A debugger is a software tool used to detect and correct errors (bugs) in the source code of a program.
+What is the key difference between a soft-copy and a hard-copy of a document?,"A soft-copy is the digital version stored on a device, while a hard-copy is the printed, physical version."
