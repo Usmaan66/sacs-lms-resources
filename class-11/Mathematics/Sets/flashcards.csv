@@ -1,0 +1,73 @@
+What is the fundamental definition of a set in mathematics?,A set is a well-defined collection of objects.
+The theory of sets was developed by which German mathematician?,Georg Cantor (1845-1918).
+What three terms are synonymous when referring to the items within a set?,"Objects, elements, and members."
+"In set notation, sets are usually denoted by _____, while their elements are represented by _____.",capital letters; small letters
+What is the meaning of the Greek symbol $ \in $ in set theory?,It is used to denote the phrase 'belongs to'.
+How would you write 'b is not an element of set A' using set notation?,$b \notin A$
+What are the two primary methods of representing a set?,Roster (or tabular) form and set-builder form.
+Describe the 'roster form' for representing a set.,"In roster form, all the elements of a set are listed, separated by commas, and enclosed within braces { }."
+"In roster form, what is the significance of the order in which elements are listed?",The order in which the elements are listed is immaterial.
+What is the general rule about repeating elements when writing a set in roster form?,An element is not generally repeated; all elements are taken as distinct.
+How is a set represented using the 'set-builder form'?,"All elements of the set are described by a single common property they possess, written within braces { }."
+"In the set-builder notation $V = \{x : x \text{ is a vowel}\}$, what do the braces and the colon represent?","The braces stand for 'the set of all', and the colon stands for 'such that'."
+What does the symbol N represent in mathematics?,The set of all natural numbers.
+What does the symbol Z represent in mathematics?,The set of all integers.
+What does the symbol Q represent in mathematics?,The set of all rational numbers.
+What does the symbol R represent in mathematics?,The set of all real numbers.
+Write the set $A = \{x : x \text{ is an integer and } -3 \le x < 7\}$ in roster form.,"$A = \{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6\}$"
+"Write the set $A = \{1, 4, 9, 16, 25, ... \}$ in set-builder form.","$A = \{x : x = n^2, \text{ where } n \in N\}$"
+A set which does not contain any element is called the _____ set.,"empty (or null, or void)"
+What are the two symbols used to denote the empty set?,$\phi$ or { }
+What is the definition of a finite set?,A set which is empty or consists of a definite number of elements.
+A set that is not finite is called an _____ set.,infinite
+Is the set of points on a line finite or infinite?,Infinite.
+Is the set $\{x : x \in N \text{ and } (x-1)(x-2) = 0\}$ finite or infinite?,"Finite, as the set is {1, 2}."
+When are two sets A and B said to be equal?,Two sets A and B are equal if they have exactly the same elements.
+"If two sets A and B are equal, we write $A = B$. How do we denote that they are unequal?",$A \ne B$
+"Are the sets $A = \{1, 2, 3\}$ and $B = \{2, 2, 1, 3, 3\}$ equal?","Yes, because a set does not change if one or more elements are repeated."
+What defines set A as a subset of set B?,A set A is a subset of a set B if every element of A is also an element of B.
+The statement 'A is a subset of B' can be written symbolically as _____.,$A \subset B$
+"Using logical implication, the definition of a subset is: $A \subset B$ if _____.",$a \in A \Rightarrow a \in B$
+"If $A \subset B$ and $B \subset A$, what can be concluded about sets A and B?","The two sets are equal, $A = B$."
+"The empty set, $\phi$, is a subset of _____.",every set
+When is a set A called a 'proper subset' of a set B?,A is a proper subset of B if $A \subset B$ and $A \ne B$.
+"If A is a proper subset of B, then B is called a _____ of A.",superset
+A set with only one element is called a _____ set.,singleton
+What is the relationship between the set of natural numbers (N) and the set of integers (Z)?,The set of natural numbers is a subset of the set of integers ($N \subset Z$).
+"The set of irrational numbers, T, is defined in relation to real numbers (R) and rational numbers (Q) as _____.",$T = \{x : x \in R \text{ and } x \notin Q\}$
+"What is the name for the interval denoted by $(a, b)$ and how is it defined in set-builder form?","It is called an open interval, defined as $\{ y : a < y < b \}$."
+"What is the name for the interval denoted by $[a, b]$ and how is it defined in set-builder form?","It is called a closed interval, defined as $\{ x : a \le x \le b \}$."
+"Represent the set $\{x : x \in R, -4 < x \le 6\}$ in interval notation.","$(-4, 6]$"
+"Represent the interval $[-23, 5)$ in set-builder form.","$\{x : x \in R, -23 \le x < 5\}$"
+What is a 'Universal Set' in a particular context?,It is the basic set containing all elements and subsets relevant to that particular context.
+What is the standard symbol used to denote a universal set?,U
+"Diagrams used to represent relationships between sets, using rectangles and circles, are known as _____.",Venn diagrams
+"In a Venn diagram, the universal set is usually represented by a _____, and its subsets by _____.",rectangle; circles
+"Define the union of two sets, A and B, denoted $A \cup B$.","The set of all elements which are either in A or in B, or in both."
+"In set-builder notation, $A \cup B$ is written as _____.",$\{x : x \in A \text{ or } x \in B\}$
+"If $B \subset A$, what is the result of $A \cup B$?",$A \cup B = A$
+The property $A \cup B = B \cup A$ is known as the _____ law of union.,Commutative
+The property $(A \cup B) \cup C = A \cup (B \cup C)$ is known as the _____ law of union.,Associative
+What is the result of $A \cup \phi$?,A (This is the Law of identity element).
+The property $A \cup A = A$ is known as the _____ law.,Idempotent
+"Define the intersection of two sets, A and B, denoted $A \cap B$.",The set of all elements which are common to both A and B.
+"In set-builder notation, $A \cap B$ is written as _____.",$\{x : x \in A \text{ and } x \in B\}$
+"If $B \subset A$, what is the result of $A \cap B$?",$A \cap B = B$
+"If $A \cap B = \phi$, then sets A and B are called _____ sets.",disjoint
+The property $A \cap B = B \cap A$ is known as the _____ law of intersection.,Commutative
+What is the result of $\phi \cap A$?,$\phi$ (This is the Law of $\phi$).
+The law $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$ is known as the _____ law.,Distributive
+"Define the difference of two sets, A and B, denoted A – B.",The set of elements which belong to A but not to B.
+"In set-builder notation, $A - B$ is written as _____.",$\{x : x \in A \text{ and } x \notin B\}$
+"If R is the set of real numbers and Q is the set of rational numbers, what is R – Q?",The set of all irrational numbers (T).
+"Define the complement of a set A, denoted A', with respect to a universal set U.",The set of all elements of U which are not the elements of A.
+The complement of set A can be expressed as a difference of sets: $A' = $ _____.,$U - A$
+What law is represented by the equation $(A')' = A$?,The law of double complementation.
+State the De Morgan's law for the complement of a union of two sets.,The complement of the union of two sets is the intersection of their complements: $(A \cup B)' = A' \cap B'$.
+State the De Morgan's law for the complement of an intersection of two sets.,The complement of the intersection of two sets is the union of their complements: $(A \cap B)' = A' \cup B'$.
+"The complement law states that for any set A and its complement A', $A \cup A' = $ _____.",U (the universal set)
+"The complement law states that for any set A and its complement A', $A \cap A' = $ _____.",$\phi$ (the empty set)
+"According to the laws of the empty set and universal set, what is the complement of the universal set, U'?",$\phi$ (the empty set)
+"According to the laws of the empty set and universal set, what is the complement of the empty set, $\phi$'?",U (the universal set)
+What does the statement $A \cup B = A \cap B$ imply about the relationship between sets A and B?,It implies that A = B.
+"List all the subsets of the set $\{a, b\}$.","$\phi, \{a\}, \{b\}, \{a, b\}$"
