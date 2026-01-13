@@ -1,0 +1,69 @@
+"What branch of science studies the preparation, properties, structure, and reactions of material substances?",Chemistry is the branch of science that studies these aspects of material substances.
+"Modern chemistry took shape in the 18th century in Europe, following alchemical traditions introduced by whom?",The Arabs introduced alchemical traditions to Europe.
+"In ancient India, what were the various names for chemistry?","Chemistry was known as Rasayan Shastra, Rastantra, Ras Kriya, or Rasvidya."
+Archaeological findings in Mohenjodaro and Harappa show that the earliest chemical process was the mass production of what?,The mass production of pottery is regarded as the earliest chemical process.
+"What ancient Indian text, authored by Kautilya, describes the production of salt from the sea?",Kautilya’s Arthashastra describes the production of salt from the sea.
+Which ancient Indian text explains the importance of Alkalies?,The Sushruta Samhita explains the importance of Alkalies.
+"The _____ mentions ancient Indians knew how to prepare sulphuric acid, nitric acid, and various metal oxides and salts.",Charaka Samhita
+"Who was the great Indian scientist and metallurgist whose work, Rasratnakar, deals with the formulation of mercury compounds?",Nagarjuna was the author of Rasratnakar.
+"The credit for inventing soap in ancient India, using mustard oil and alkalies, goes to whom?",Chakrapani is credited with inventing soap in ancient India.
+Which 6th-century encyclopaedic text by Varāhmihir informs about the preparation of glutinous material for walls and roofs?,The Brihat Samhita by Varāhmihir contains this information.
+"Who was the first proponent of the 'atomic theory' in India (c. 600 BCE), naming the indivisible particles 'Paramānu'?","Acharya Kanda, originally known as Kashyap, was the first proponent of this theory."
+"The Charaka Samhita describes the use of _____ of metals in treating ailments, which are now known to contain nanoparticles of metals.",bhasma
+What is the general definition of 'matter' in chemistry?,Matter is anything which has mass and occupies space.
+Describe the arrangement and movement of particles in a solid.,"In solids, particles are held very close together in an orderly fashion with not much freedom of movement."
+How do the volume and shape of a liquid compare to that of a solid?,"Liquids have a definite volume but do not have a definite shape, taking the shape of their container."
+Which state of matter has neither a definite volume nor a definite shape?,Gases have neither a definite volume nor a definite shape.
+"At a macroscopic level, matter can be classified as either a mixture or a _____.",pure substance
+What is the key difference between a homogeneous and a heterogeneous mixture?,"In a homogeneous mixture the components are uniformly distributed, whereas in a heterogeneous mixture the composition is not uniform."
+How are the constituent particles of a pure substance characterised?,All constituent particles of a pure substance are the same in chemical nature and have a fixed composition.
+Pure substances can be further classified into which two categories?,Pure substances are classified into elements and compounds.
+What is an element composed of?,An element consists of only one type of atom.
+"When two or more atoms of different elements combine in a definite ratio, what is formed?",A molecule of a compound is formed.
+"Properties such as colour, odour, melting point, and density are classified as what type of properties?",These are classified as physical properties.
+What is required to measure or observe a chemical property of a substance?,The measurement or observation of chemical properties requires a chemical change to occur.
+"The International System of Units, abbreviated as SI, was established by which organisation?",It was established by the General Conference on Weights and Measures (CGPM).
+What are the seven base physical quantities in the SI system?,"Length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity."
+What is the SI base unit for mass?,The SI base unit for mass is the kilogram (kg).
+What is the SI base unit for the amount of substance?,The SI base unit for the amount of substance is the mole (mol).
+"In the SI system, what is the base unit for thermodynamic temperature?",The base unit for thermodynamic temperature is the kelvin (K).
+Define the 'mass' of a substance.,Mass is the amount of matter present in a substance.
+Define the 'weight' of an object.,Weight is the force exerted by gravity on an object.
+What is the SI unit for volume?,The SI unit for volume is the cubic metre ($m^3$).
+How many millilitres (mL) are in one litre (L)?,There are 1000 mL in 1 L.
+What relationship connects the mass and volume of a substance?,Density is the ratio of mass to volume ($Density = \frac{Mass}{Volume}$).
+What is the formula to convert a temperature from degrees Celsius (°C) to degrees Fahrenheit (°F)?,The conversion formula is $°F = (\frac{9}{5} \times °C) + 32$.
+How is the Kelvin (K) scale related to the Celsius (°C) scale?,The relationship is $K = °C + 273.15$.
+"In scientific notation, a number is represented in the form $N \times 10^n$. What does 'n' represent?",'n' is an exponent having positive or negative values.
+How would the number 0.00016 be expressed in scientific notation?,It would be expressed as $1.6 \times 10^{-4}$.
+What are significant figures in a measurement?,Significant figures are meaningful digits which are known with certainty plus one which is estimated or uncertain.
+"According to the rules for significant figures, are zeros preceding the first non-zero digit significant?","No, zeros preceding the first non-zero digit are not significant."
+Are zeros at the end of a number significant if they are on the right side of the decimal point?,"Yes, zeros at the end of a number are significant if they are to the right of the decimal point (e.g., 0.200 g)."
+How many significant figures are there in the number 100 written without a decimal point?,The number 100 has only one significant figure.
+"When adding or subtracting numbers, how is the number of decimal places in the result determined?",The result cannot have more digits to the right of the decimal point than either of the original numbers.
+"In multiplication or division, how is the number of significant figures in the result determined?",The result must be reported with no more significant figures than the measurement with the fewest significant figures.
+What is the rounding rule if the rightmost digit to be removed is 5 and the preceding number is odd?,"If the preceding number is odd, it is increased by one."
+What is the rounding rule if the rightmost digit to be removed is 5 and the preceding number is even?,"If the preceding number is even, it is not changed."
+Define 'precision' in the context of scientific measurements.,Precision refers to the closeness of various measurements for the same quantity.
+Define 'accuracy' in the context of scientific measurements.,Accuracy is the agreement of a particular value to the true value of the result.
+What is the name of the method used to convert units from one system to another using unit factors?,This method is called dimensional analysis or the factor label method.
+"State the Law of Conservation of Mass, put forth by Antoine Lavoisier.",The law states that matter can neither be created nor destroyed in physical and chemical changes.
+Who proposed the Law of Definite Proportions?,The French chemist Joseph Proust proposed this law.
+What does the Law of Definite Proportions state?,It states that a given compound always contains exactly the same proportion of elements by weight.
+"State the Law of Multiple Proportions, proposed by Dalton.","If two elements form more than one compound, the masses of one element that combine with a fixed mass of the other are in a ratio of small whole numbers."
+Who proposed the Law of Gaseous Volumes in 1808?,Gay Lussac proposed this law.
+What does Gay Lussac's Law of Gaseous Volumes state?,"It states that when gases combine or are produced in a chemical reaction, they do so in a simple ratio by volume, provided all gases are at the same temperature and pressure."
+"Avogadro's Law, proposed in 1811, states that equal volumes of all gases at the same temperature and pressure should contain what?",They should contain an equal number of molecules.
+What is the first postulate of Dalton's atomic theory?,Matter consists of indivisible atoms.
+"According to Dalton's atomic theory, how do atoms of a given element relate to each other?","All atoms of a given element have identical properties, including identical mass."
+What is the fourth postulate of Dalton's atomic theory regarding chemical reactions?,"Chemical reactions involve reorganisation of atoms, which are neither created nor destroyed."
+The present system of atomic masses is based on which isotope as the standard?,The system is based on the Carbon-12 ($^{12}C$) isotope.
+How is one atomic mass unit (amu or u) defined?,It is defined as a mass exactly equal to one-twelfth the mass of one Carbon-12 atom.
+Why do we often use the average atomic mass of an element in calculations?,"Many naturally occurring elements exist as more than one isotope, so the average mass accounts for their relative abundances."
+How is the molecular mass of a substance calculated?,"It is the sum of the atomic masses of the elements present in a molecule, with each atomic mass multiplied by the number of its atoms."
+"For ionic compounds like sodium chloride (NaCl), what term is used instead of molecular mass?",The term formula mass is used for ionic compounds.
+"In the SI system, what unit is used to count entities at the microscopic level, such as atoms and molecules?",The mole (mol) is the unit used for this purpose.
+How many elementary entities are contained in one mole of a substance?,"One mole contains exactly $6.02214076 \times 10^{23}$ elementary entities, known as the Avogadro number."
+What is the term for the mass of one mole of a substance in grams?,The mass of one mole of a substance in grams is called its molar mass.
+How does the numerical value of the molar mass (in g/mol) relate to the atomic or molecular mass (in u)?,The molar mass in grams is numerically equal to the atomic/molecular/formula mass in u.
+What is the formula for calculating the mass percentage of an element in a compound?,Mass % = ($\frac{\text{mass of that element in the compound}}{\text{molar mass of the compound}}$) $\times$ 100.
