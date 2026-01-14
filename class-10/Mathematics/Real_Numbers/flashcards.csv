@@ -1,0 +1,27 @@
+"What is the general classification for any numerical value encountered in the real world, excluding complex numbers?",They are classified as real numbers.
+What categories of numbers are included within the spectrum of real numbers?,"Real numbers include positive and negative integers, irrational numbers, and fractions."
+"According to Euclid’s Division Lemma, for any two integers 'a' and 'b', there exists a unique pair of integers 'q' and 'r' that satisfy which equation?","The equation is a = b × q + r, where $0 \le r < b$."
+"In the context of Euclid's Division Lemma, the statement 'dividend = divisor × quotient + remainder' corresponds to which formula?",It corresponds to the formula a = b × q + r.
+What is the primary application of Euclid's Division Algorithm?,It is a method used to find the Highest Common Factor (H.C.F.) of two numbers.
+"In Euclid's Division Algorithm, if a = b × q + r and the remainder r = 0, what is the H.C.F. of 'a' and 'b'?","If r = 0, the H.C.F. is 'b', the divisor."
+"If the remainder 'r' is not zero after applying Euclid's Division Lemma, what is the next step in the algorithm?",The lemma is applied again to the divisor 'b' and the remainder 'r'.
+The process in Euclid's Division Algorithm is repeated until what condition is met?,The method is repeated until a remainder of zero is obtained.
+The Fundamental Theorem of Arithmetic states that the prime factorisation for a given number is _____ if the arrangement of the prime factors is ignored.,unique
+"Using prime factorisation, what are the two distinct ways to represent the number 36?",The representations are $36 = 2 × 2 × 3 × 3$ or $36 = 2 × 3 × 2 × 3$.
+What does the term 'Least Common Multiple' (LCM) represent?,The LCM is the smallest of the common multiples of two or more numbers.
+"To find the LCM of 36 and 56, what is the prime factorisation of each number?",The factorisations are $36 = 2 × 2 × 3 × 3$ and $56 = 2 × 2 × 2 × 7$.
+How is the LCM of two numbers calculated after determining their prime factors?,The LCM is found by multiplying all the common and uncommon prime factors together.
+What defines the 'Highest Common Factor' (HCF) of two or more numbers?,The HCF is the greatest number that divides each of the given numbers without leaving any remainder.
+What are the two primary methods for finding the HCF mentioned in the text?,The two methods are Prime Factorisation and Euclid’s Division Algorithm.
+"When using the Prime Factorisation method to find the HCF of 20 and 24, what is the common factor?","The common factor is $2 × 2$, which equals 4."
+"What is the mathematical relationship between any two positive integers, 'a' and 'b', and their H.C.F. and L.C.M.?","For any two positive integers a and b, $a × b = H.C.F. × L.C.M.$"
+"Verify the product relationship for the numbers 36 and 56, given their H.C.F. is 4 and L.C.M. is 504.","$36 × 56 = 2016$ and $4 × 504 = 2016$, confirming the relationship."
+Does the relationship 'Product of Numbers = HCF × LCM' hold true for three or more numbers?,"No, this relationship does not hold true for three or more numbers."
+"What is the first step to find the largest number that divides 70 and 125, leaving remainders of 5 and 8 respectively?","First, subtract the remainder from each number: $70-5=65$ and $125-8=117$."
+"After calculating $70-5=65$ and $125-8=117$, what is the final step to find the required largest number?","The final step is to find the HCF of 65 and 117, which is 13."
+"Given that the HCF of 306 and 657 is 9, how can you find their LCM?","Use the formula $LCM = (306 × 657) / HCF$, which gives $201042 / 9 = 22338$."
+What is the initial assumption made when starting a proof by contradiction to show that $1/\sqrt{2}$ is an irrational number?,The opposite assumption is made: that $1/\sqrt{2}$ is a rational number.
+"If $1/\sqrt{2}$ is assumed to be a rational number, how can it be expressed in terms of integers p and q?","It can be written in the form p/q, where q is not equal to 0, and p and q are co-prime."
+"In the proof of irrationality for $1/\sqrt{2}$, what equation is derived from $1/\sqrt{2} = p/q$?","By rearranging, the equation $q/p = \sqrt{2}$ is derived."
+What is the logical contradiction that arises from the equation $q/p = \sqrt{2}$ in the proof?,"The contradiction is that q/p is a rational number (as p and q are integers), but $\sqrt{2}$ is an irrational number."
+What conclusion is drawn from the contradiction in the proof for the irrationality of $1/\sqrt{2}$?,"The conclusion is that the initial assumption was wrong, and therefore $1/\sqrt{2}$ must be an irrational number."
