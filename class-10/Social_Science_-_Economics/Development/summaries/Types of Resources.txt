@@ -1,0 +1,6 @@
+### Types of Resources
+1. **Renewable Resources:** These are replenished by nature (e.g., crops, plants, groundwater). However, they can be **overused** if we extract them faster than nature can replenish them.
+   - *Example:* Groundwater in India is under serious threat of overuse in 300+ districts.
+2. **Non-Renewable Resources:** These have a fixed stock and will get exhausted after years of use (e.g., crude oil, coal).
+   - *Example:* World crude oil reserves are estimated to last only about 50 more years at the current rate of extraction.
+

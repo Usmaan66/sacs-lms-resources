@@ -1,0 +1,7 @@
+### Limitations of Average Income
+- Averages are useful for comparison but they **hide disparities**.
+- It does not tell us how income is distributed among the people.
+- **Example:** A country with one extremely rich person and four poor people might have the same average income as a country where everyone earns a similar, moderate amount.
+
+---
+

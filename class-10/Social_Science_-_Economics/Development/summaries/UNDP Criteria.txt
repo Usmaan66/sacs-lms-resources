@@ -1,0 +1,6 @@
+### UNDP Criteria
+The **United Nations Development Programme (UNDP)** publishes the Human Development Report, which compares countries based on three factors:
+1. **Educational levels** (Mean years of schooling).
+2. **Health status** (Life Expectancy at birth).
+3. **Per Capita Income** (measured in PPP dollars).
+

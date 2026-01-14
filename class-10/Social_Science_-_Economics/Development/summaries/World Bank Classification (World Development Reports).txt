@@ -1,0 +1,6 @@
+### World Bank Classification (World Development Reports)
+The World Bank uses Per Capita Income (in US$) to classify countries based on 2023 data:
+- **High Income (Rich) Countries:** Per capita income of **US$ 63,400** per annum and above.
+- **Low Income Countries:** Per capita income of **US$ 2,400** or less.
+- **India:** Categorized as a **low middle income country** with a per capita income of **US$ 10,030** per annum.
+

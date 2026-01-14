@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "According to the text, what is considered the most common method for measuring economic development?",
+    "options": ["Literacy Rate", "Infant Mortality Rate", "Income", "Life Expectancy"],
+    "correctAnswer": 2,
+    "explanation": "Economic development can be measured through various indicators, but income is the most commonly used method."
+  },
+  {
+    "id": 2,
+    "question": "Which organization publishes the Human Development Report?",
+    "options": ["World Bank", "International Monetary Fund (IMF)", "United Nations Development Programme (UNDP)", "Reserve Bank of India (RBI)"],
+    "correctAnswer": 2,
+    "explanation": "The Human Development Report, which compares countries based on education, health, and income, is published by the UNDP."
+  },
+  {
+    "id": 3,
+    "question": "What is the formula for calculating 'Average Income' or 'Per Capita Income'?",
+    "options": [
+      "Total income multiplied by total population",
+      "Total income divided by total population",
+      "Total income minus total expenditure",
+      "Gross income divided by the number of households"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Average income is derived by dividing the total income of a country by its total population."
+  },
+  {
+    "id": 4,
+    "question": "As per the World Development Report 2023, countries with a per capita income of US$ 63,400 or more are classified as:",
+    "options": ["Low-income countries", "Middle-income countries", "High-income or rich countries", "Developing countries"],
+    "correctAnswer": 2,
+    "explanation": "The World Bank classifies countries with a per capita income of US$ 63,400 per annum and above as high-income or rich countries."
+  },
+  {
+    "id": 5,
+    "question": "In which category did India fall in 2023 based on its per capita income of US$ 10,030?",
+    "options": ["Low-income countries", "Low middle-income countries", "High-income countries", "Developed countries"],
+    "correctAnswer": 1,
+    "explanation": "With a per capita income of approximately US$ 10,030 in 2023, India is classified in the low middle-income category."
+  },
+  {
+    "id": 6,
+    "question": "Infant Mortality Rate (IMR) measures the number of children that die before reaching which age?",
+    "options": ["6 months", "1 year", "2 years", "5 years"],
+    "correctAnswer": 1,
+    "explanation": "IMR indicates the number of children who die before completing one year of age per 1,000 live births."
+  },
+  {
+    "id": 7,
+    "question": "Literacy Rate measures the proportion of the literate population in which age group?",
+    "options": ["5-and-above", "7-and-above", "10-and-above", "15-and-above"],
+    "correctAnswer": 1,
+    "explanation": "The Literacy Rate is the percentage of people aged 7 years and above who are able to read and write."
+  },
+  {
+    "id": 8,
+    "question": "According to Table 1.4, which Indian state had the highest Literacy Rate in 2017-18?",
+    "options": ["Haryana", "Bihar", "Kerala", "Punjab"],
+    "correctAnswer": 2,
+    "explanation": "Table 1.4 shows that Kerala had a literacy rate of 94%, which was the highest among the states listed."
+  },
+  {
+    "id": 9,
+    "question": "What was India's rank in the Human Development Index (HDI) for the year 2021-22?",
+    "options": ["78", "129", "134", "164"],
+    "correctAnswer": 2,
+    "explanation": "Based on the Human Development Report data in Table 1.6, India's HDI rank in the world was 134 for 2021-22."
+  },
+  {
+    "id": 10,
+    "question": "To calculate the Body Mass Index (BMI), an individual's weight in kilograms is divided by the:",
+    "options": ["Height in centimeters", "Square of the height in meters", "Age in years", "Total body fat percentage"],
+    "correctAnswer": 1,
+    "explanation": "BMI is calculated by taking weight in kilograms and dividing it by the square of the height in meters."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is an example of a renewable resource discussed in the chapter?",
+    "options": ["Crude Oil", "Groundwater", "Coal", "Natural Gas"],
+    "correctAnswer": 1,
+    "explanation": "Groundwater is a renewable resource because it is replenished by nature (rain), whereas minerals and fossil fuels are non-renewable."
+  },
+  {
+    "id": 12,
+    "question": "As per the data in Table 1.7, for how many years are the world's crude oil reserves estimated to last?",
+    "options": ["70 years", "10.5 years", "47 years", "100 years"],
+    "correctAnswer": 2,
+    "explanation": "Table 1.7 estimates that the total world reserves of crude oil will last approximately 47 years if extraction continues at the present rate."
+  },
+  {
+    "id": 13,
+    "question": "What is the primary developmental goal of a landless rural labourer according to the text?",
+    "options": [
+      "Higher support prices for crops",
+      "Ability to settle children abroad",
+      "More days of work and better wages",
+      "Getting freedom as much as a brother"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For landless rural labourers, development primarily means more work opportunities and better wages to improve their living conditions."
+  },
+  {
+    "id": 14,
+    "question": "Why is 'total income' considered a less useful measure than 'average income' for comparing countries?",
+    "options": [
+      "It is harder to collect data on total income",
+      "Countries have different population sizes",
+      "Total income does not include the service sector",
+      "It only accounts for the rich citizens"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Because countries have different populations, total income doesn't show what an average citizen earns; hence, average income (per capita) is used."
+  },
+  {
+    "id": 15,
+    "question": "Which neighboring country of India has a higher HDI rank according to Table 1.6?",
+    "options": ["Pakistan", "Myanmar", "Nepal", "Sri Lanka"],
+    "correctAnswer": 3,
+    "explanation": "Table 1.6 indicates that Sri Lanka has an HDI rank of 78, which is much higher than India's rank of 134."
+  },
+  {
+    "id": 16,
+    "question": "What does 'Life Expectancy at birth' represent?",
+    "options": [
+      "The number of children born per 1,000 people",
+      "The average expected length of life of a person at birth",
+      "The age at which a person retires from work",
+      "The number of years spent in higher education"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life expectancy at birth denotes the average number of years a person is expected to live based on current health conditions."
+  },
+  {
+    "id": 17,
+    "question": "Sustainability of development refers to maintaining development for:",
+    "options": [
+      "The current generation only",
+      "Large industrial sectors",
+      "Future generations",
+      "High-income groups"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sustainability ensures that the needs of the present are met without compromising the ability of future generations to meet their own needs."
+  },
+  {
+    "id": 18,
+    "question": "According to the chapter, why does Kerala have a lower Infant Mortality Rate than Haryana?",
+    "options": [
+      "It has a higher per capita income",
+      "It has more industrial development",
+      "It has adequate provision of basic health and educational facilities",
+      "It has a smaller population"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kerala's low IMR is attributed to its effective provision of public services, specifically health and education."
+  },
+  {
+    "id": 19,
+    "question": "What does PDS stand for in the context of public facilities?",
+    "options": [
+      "Public Development Sector",
+      "Private Distribution Scheme",
+      "Public Distribution System",
+      "Primary Data Survey"
+    ],
+    "correctAnswer": 2,
+    "explanation": "PDS stands for Public Distribution System, which helps ensure food security and nutrition for the population."
+  },
+  {
+    "id": 20,
+    "question": "Which state had the lowest per capita income among those listed in Table 1.3?",
+    "options": ["Haryana", "Kerala", "Bihar", "Tamil Nadu"],
+    "correctAnswer": 2,
+    "explanation": "According to Table 1.3, Bihar had a per capita income of Rs 47,498, which was the lowest among the compared states."
+  }
+]

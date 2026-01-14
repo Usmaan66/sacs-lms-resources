@@ -1,0 +1,10 @@
+### Comparing Indian States
+While Haryana has a higher per capita income than Kerala, Kerala performs better in other crucial developmental indicators.
+
+**Comparative Data (2017-2020):**
+| State | Per Capita Income (2021-22) | Infant Mortality Rate (2020) | Literacy Rate (2017-18) | Net Attendance Ratio |
+| :--- | :--- | :--- | :--- | :--- |
+| **Haryana** | Rs 2,64,729 | 28 | 82% | 73 |
+| **Kerala** | Rs 2,34,405 | 6 | 94% | 94 |
+| **Bihar** | Rs 47,498 | 27 | 62% | 69 |
+

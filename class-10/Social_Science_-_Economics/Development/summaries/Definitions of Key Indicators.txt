@@ -1,0 +1,7 @@
+### Definitions of Key Indicators
+- **Infant Mortality Rate (IMR):** Number of children that die before the age of one year per 1000 live births in a year.
+- **Literacy Rate:** The proportion of literate population in the 7-and-above age group.
+- **Net Attendance Ratio:** The total number of children of age group 14 and 15 years attending school as a percentage of the total number of children in the same age group.
+
+---
+

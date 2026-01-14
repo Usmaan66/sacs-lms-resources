@@ -1,0 +1,12 @@
+### Calculating Nutritional Status
+BMI is used to determine if an adult is undernourished, normal, or overweight.
+
+**Formula for BMI:**
+$$\text{BMI} = \frac{\text{Weight (in kg)}}{\text{(Height in meters)}^2}$$
+
+**BMI Standards:**
+- **BMI < 18.5:** Person is undernourished.
+- **BMI > 25:** Person is overweight (obesity).
+
+---
+

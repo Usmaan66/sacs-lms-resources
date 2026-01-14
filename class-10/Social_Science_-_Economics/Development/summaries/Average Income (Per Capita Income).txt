@@ -1,0 +1,7 @@
+### Average Income (Per Capita Income)
+- We cannot use **Total Income** for comparison because countries have different populations.
+- Instead, we use **Average Income**, also known as **Per Capita Income**.
+
+**Formula for Average Income:**
+$$\text{Average Income} = \frac{\text{Total Income of the Country}}{\text{Total Population of the Country}}$$
+
